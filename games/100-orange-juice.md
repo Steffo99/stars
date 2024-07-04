@@ -6,5 +6,8 @@ identifiers:
     appid: '282800'
     name: 100% Orange Juice
     synced_on: '2024-07-04'
-
+active: false
+rating: 40
+progress: notapplicable
 ---
+

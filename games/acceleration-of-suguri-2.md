@@ -6,5 +6,8 @@ identifiers:
     appid: '390710'
     name: Acceleration of SUGURI 2
     synced_on: '2024-07-04'
-
+active: false
+rating: 0
+progress: new
 ---
+

@@ -6,5 +6,8 @@ identifiers:
     appid: '255070'
     name: Abyss Odyssey
     synced_on: '2024-07-04'
-
+active: false
+rating: 0
+progress: new
 ---
+

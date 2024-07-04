@@ -7,7 +7,7 @@ identifiers:
     name: Dota 2
     synced_on: '2024-07-04'
 active: true
-rating: 75
+rating: 78
 progress: notapplicable
 ---
 ### Links

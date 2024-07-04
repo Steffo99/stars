@@ -6,5 +6,8 @@ identifiers:
     appid: '1082710'
     name: 'Bug Fables: The Everlasting Sapling'
     synced_on: '2024-07-04'
-
+active: true
+rating: 0
+progress: started
 ---
+

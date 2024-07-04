@@ -6,5 +6,8 @@ identifiers:
     appid: '105600'
     name: Terraria
     synced_on: '2024-07-04'
-
+active: false
+rating: 92
+progress: mastered
 ---
+

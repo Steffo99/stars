@@ -6,5 +6,8 @@ identifiers:
     appid: '578720'
     name: A Mortician's Tale
     synced_on: '2024-07-04'
-
+active: false
+rating: 0
+progress: new
 ---
+

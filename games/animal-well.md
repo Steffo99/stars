@@ -6,5 +6,8 @@ identifiers:
     appid: '813230'
     name: ANIMAL WELL
     synced_on: '2024-07-04'
-
+active: false
+rating: 87
+progress: completed
 ---
+

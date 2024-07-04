@@ -6,5 +6,8 @@ identifiers:
     appid: '381210'
     name: Dead by Daylight
     synced_on: '2024-07-04'
-
+active: true
+rating: 60
+progress: notapplicable
 ---
+
