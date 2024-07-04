@@ -66,7 +66,7 @@ export function GameRow({game, columns = gameRowColumnKindDefault, priority}: Ga
                 return (
                     <td key={index} className={`review-hascontent`}>
                         <data value={game.content ? "true" : "false"}>
-                            <i className={"fa-sharp fa-regular fa-bars-sort"}/>
+                            {game.content && <i className={"fa-sharp fa-regular fa-bars-sort"}/>}
                         </data>
                     </td>
                 )
