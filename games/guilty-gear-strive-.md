@@ -2,7 +2,7 @@
 name: GUILTY GEAR -STRIVE-
 hours_played: 130
 identifiers:
-  - platform: steam
+  - type: steam
     appid: '1384160'
     name: GUILTY GEAR -STRIVE-
     synced_on: '2024-07-04'

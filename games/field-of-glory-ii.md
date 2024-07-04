@@ -2,7 +2,7 @@
 name: Field of Glory II
 hours_played: 0
 identifiers:
-  - platform: steam
+  - type: steam
     appid: '660160'
     name: Field of Glory II
     synced_on: '2024-07-04'

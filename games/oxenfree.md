@@ -2,7 +2,7 @@
 name: Oxenfree
 hours_played: 6
 identifiers:
-  - platform: steam
+  - type: steam
     appid: '388880'
     name: Oxenfree
     synced_on: '2024-07-04'

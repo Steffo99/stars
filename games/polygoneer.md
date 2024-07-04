@@ -2,7 +2,7 @@
 name: Polygoneer
 hours_played: 0
 identifiers:
-  - platform: steam
+  - type: steam
     appid: '684680'
     name: Polygoneer
     synced_on: '2024-07-04'

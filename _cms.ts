@@ -184,14 +184,8 @@ cms.collection(
 					name: "steam",
 					type: "object",
 					label: "Steam",
-					description: "",
+					description: "The game, as it is available on Steam.",
 					fields: [
-						{
-							name: "platform",
-							type: "hidden",
-							label: "Platform",
-							value: "steam",
-						},
 						{
 							name: "appid",
 							type: "text",

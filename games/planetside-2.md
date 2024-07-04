@@ -2,7 +2,7 @@
 name: PlanetSide 2
 hours_played: 1
 identifiers:
-  - platform: steam
+  - type: steam
     appid: '218230'
     name: PlanetSide 2
     synced_on: '2024-07-04'

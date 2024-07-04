@@ -2,7 +2,7 @@
 name: The Desolate Hope
 hours_played: 0
 identifiers:
-  - platform: steam
+  - type: steam
     appid: '298180'
     name: The Desolate Hope
     synced_on: '2024-07-04'

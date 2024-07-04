@@ -3,12 +3,12 @@ import {ReviewData} from "./review.ts"
 
 
 export interface GameBaseIdentifier {
-    platform: string,
+    type: string,
     synced_on?: string,
 }
 
 export interface GameSteamIdentifier extends GameBaseIdentifier {
-    platform: "steam",
+    type: "steam",
     appid: string,
     name?: string,
 }

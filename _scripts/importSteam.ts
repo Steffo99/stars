@@ -39,7 +39,7 @@ const filenameToAppId: {[filename: string]: string | null} = {}
 for(const _page of site.search.pages("game")) {
     const page = _page as GameData
     const file: string = page.sourcePath
-    const identifiers: GameIdentifier[] = page.data.identifiers.filter((i: GameIdentifier) => i.platform === "steam")
+    const identifiers: GameIdentifier[] = page.data.identifiers.filter((i: GameIdentifier) => i.type === "steam")
 
     let nullify: boolean = false
     for(const identifier of identifiers) {
@@ -103,9 +103,9 @@ for(const game of games) {
         completed_on: page?.completed_on,
         mastered_on: page?.mastered_on,
         identifiers: [
-            ...(page?.identifiers?.filter(i => i.platform !== "steam") ?? []),
+            ...(page?.identifiers?.filter(i => i.type !== "steam") ?? []),
             {
-                platform: "steam",
+                type: "steam",
                 appid: appId,
                 name: game.name,
                 synced_on: formatDateIso(new Date())

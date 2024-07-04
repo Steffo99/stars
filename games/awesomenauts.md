@@ -2,7 +2,7 @@
 name: Awesomenauts
 hours_played: 13
 identifiers:
-  - platform: steam
+  - type: steam
     appid: '204300'
     name: Awesomenauts
     synced_on: '2024-07-04'

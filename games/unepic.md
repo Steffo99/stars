@@ -2,7 +2,7 @@
 name: Unepic
 hours_played: 0
 identifiers:
-  - platform: steam
+  - type: steam
     appid: '233980'
     name: Unepic
     synced_on: '2024-07-04'

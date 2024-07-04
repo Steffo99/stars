@@ -2,7 +2,7 @@
 name: Barotrauma
 hours_played: 96
 identifiers:
-  - platform: steam
+  - type: steam
     appid: '602960'
     name: Barotrauma
     synced_on: '2024-07-04'

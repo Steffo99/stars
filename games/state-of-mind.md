@@ -2,7 +2,7 @@
 name: State of Mind
 hours_played: 0
 identifiers:
-  - platform: steam
+  - type: steam
     appid: '437630'
     name: State of Mind
     synced_on: '2024-07-04'

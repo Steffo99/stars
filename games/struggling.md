@@ -2,7 +2,7 @@
 name: Struggling
 hours_played: 0
 identifiers:
-  - platform: steam
+  - type: steam
     appid: '1035560'
     name: Struggling
     synced_on: '2024-07-04'

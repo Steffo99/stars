@@ -2,7 +2,7 @@
 name: Orcs Must Die! Unchained
 hours_played: 0
 identifiers:
-  - platform: steam
+  - type: steam
     appid: '427270'
     name: Orcs Must Die! Unchained
     synced_on: '2024-07-04'

@@ -2,7 +2,7 @@
 name: Unrailed!
 hours_played: 4
 identifiers:
-  - platform: steam
+  - type: steam
     appid: '1016920'
     name: Unrailed!
     synced_on: '2024-07-04'

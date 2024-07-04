@@ -2,7 +2,7 @@
 name: ABZÛ
 hours_played: 2
 identifiers:
-  - platform: steam
+  - type: steam
     appid: '384190'
     name: ABZÛ
     synced_on: '2024-07-04'

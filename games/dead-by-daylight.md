@@ -2,7 +2,7 @@
 name: Dead by Daylight
 hours_played: 92
 identifiers:
-  - platform: steam
+  - type: steam
     appid: '381210'
     name: Dead by Daylight
     synced_on: '2024-07-04'

@@ -119,7 +119,7 @@ export default function(data: GameData, helpers: Lume.Helpers) {
     const milestonesSeparator = ((data.identifiers?.length ?? 0) > 0) ? <hr/> : null
 
     const identifiersRows = data.identifiers?.map((identifier: GameIdentifier, index: number) => {
-        switch(identifier.platform) {
+        switch(identifier.type) {
             case "steam":
                 return (
                     <ReviewInfo.MetadataRow
