@@ -1,0 +1,10 @@
+---
+name: Labyrinthine Dreams
+hours_played: 0
+identifiers:
+  - platform: steam
+    appid: '278570'
+    name: Labyrinthine Dreams
+    synced_on: '2024-07-04'
+
+---

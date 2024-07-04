@@ -1,0 +1,10 @@
+---
+name: A Good Snowman Is Hard To Build
+hours_played: 0
+identifiers:
+  - platform: steam
+    appid: '316610'
+    name: A Good Snowman Is Hard To Build
+    synced_on: '2024-07-04'
+
+---

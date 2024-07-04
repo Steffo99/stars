@@ -1,0 +1,10 @@
+---
+name: Cities in Motion 2
+hours_played: 0
+identifiers:
+  - platform: steam
+    appid: '225420'
+    name: Cities in Motion 2
+    synced_on: '2024-07-04'
+
+---
