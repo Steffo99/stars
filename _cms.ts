@@ -94,15 +94,6 @@ cms.collection(
 			}
 		},
 		{
-			name: "content",
-			type: "markdown",
-			label: "Review",
-			description: "The review to display on the game page.",
-			attributes: {
-				placeholder: "Truly, the most *game* of all times."
-			}
-		},
-		{
 			name: "progress",
 			type: "select",
 			label: "Progress",
@@ -207,7 +198,16 @@ cms.collection(
 					]
 				}
 			]
-		}
+		},
+		{
+			name: "content",
+			type: "markdown",
+			label: "Review",
+			description: "The review to display on the game page.",
+			attributes: {
+				placeholder: "Truly, the most *game* of all times."
+			}
+		},
 	]
 )
 
