@@ -13,15 +13,24 @@ export default function(data: Lume.Data, helpers: Lume.Helpers) {
     ) : null
 
     const games: GameData[] = data.search.pages("game")
-                                  .sort((a, b) => (b.rating - a.rating)) as GameData[]
 
     const games_section = (
         <section id={"list-games-section-games"}>
             <h2>
                 Videogames list
+                <small>
+                    <a href={helpers.url("/games/feed.rss")}>
+                        <i className={"fa-sharp fa-solid fa-rss"}/> Feed
+                    </a>
+                </small>
+                <small>
+                    <a href={helpers.url("/games/index.json")}>
+                        <i className={"fa-sharp fa-solid fa-brackets-curly"}/> JSON
+                    </a>
+                </small>
             </h2>
             <div>
-                <GameTable games={games} priority={"mixed"}/>
+                <GameTable id={"list-games-table"} games={games} priority={"mixed"}/>
             </div>
         </section>
     )
@@ -30,6 +39,8 @@ export default function(data: Lume.Data, helpers: Lume.Helpers) {
         <main id={"list-games-main"}>
             {intro_section}
             {games_section}
+            <script src={"/_static/scripting/sort.js"}/>
+            <script src={"/_static/scripting/installSortOnLoad.js"}/>
         </main>
     )
 }

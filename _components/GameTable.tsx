@@ -3,13 +3,14 @@ import {GameRow, GameRowColumnKind, gameRowColumnKindDefault, GameRowColumnPrior
 
 
 export type GameTableProps = {
+    id?: string,
     games: GameData[],
     columns?: GameRowColumnKind[]
     priority?: GameRowColumnPriority
 }
 
 
-export function GameTable({games, columns = gameRowColumnKindDefault, priority}: GameTableProps) {
+export function GameTable({id, games, columns = gameRowColumnKindDefault, priority}: GameTableProps) {
     const colElements = columns.map((column, index) => {
         switch(column) {
             case "rating": return (
@@ -56,9 +57,17 @@ export function GameTable({games, columns = gameRowColumnKindDefault, priority}:
                     </abbr>
                 </th>
             )
-            case "hascontent": return (
-                <th key={index} scope={"col"} className={`review-hascontent`}>
-                    <abbr title={"Whether the review has textual content, or just metadata."}>
+            case "namesort": return (
+                <th key={index} scope={"col"} className={`review-namesort`} hidden={true}>
+                    <abbr title={"The title to sort the game as."}>
+                        Sort by
+                    </abbr>
+                </th>
+            )
+            case "hascontent":
+                return (
+                    <th key={index} scope={"col"} className={`review-hascontent`}>
+                        <abbr title={"Whether the review has textual content, or just metadata."}>
                         <i className={`fa-sharp fa-regular fa-bars-sort`}/>
                     </abbr>
                 </th>
@@ -86,7 +95,7 @@ export function GameTable({games, columns = gameRowColumnKindDefault, priority}:
     ))
 
     return (
-        <table>
+        <table id={id}>
             <colgroup>
                 {colElements}
             </colgroup>

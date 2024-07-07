@@ -74,6 +74,7 @@ export function progressToTitle(progress?: Progress): string {
   }
 }
 
+// Duplicated in _static/scripting/sort.js
 export function progress_to_number(progress?: Progress): number {
   switch (progress) {
     case undefined:

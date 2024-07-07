@@ -4,10 +4,10 @@ import {Progress, progressToClassName, progressToIconDef, progressToTitle} from 
 import {ratingToClassName} from "../_utils/rating.ts"
 
 
-export type GameRowColumnKind = "rating" | "progress" | "name" | "hascontent" | "date" | "hoursplayed"
+export type GameRowColumnKind = "rating" | "progress" | "name" | "namesort" | "hascontent" | "date" | "hoursplayed"
 export type GameRowColumnPriority = undefined | "rating" | "progress" | "mixed"
 
-export const gameRowColumnKindDefault: GameRowColumnKind[] = ["rating", "name", "hascontent", "date", "progress", "hoursplayed"]
+export const gameRowColumnKindDefault: GameRowColumnKind[] = ["rating", "name", "namesort", "hascontent", "date", "progress", "hoursplayed"]
 
 
 export type GameRowProps = {
@@ -59,6 +59,13 @@ export function GameRow({game, columns = gameRowColumnKindDefault, priority}: Ga
                                 {game.name}
                             </data>
                         </a>
+                    </td>
+                )
+            }
+            case "namesort": {
+                return (
+                    <td key={index} className={`review-namesort`} hidden={true}>
+                        <data value={game.name ?? ""}/>
                     </td>
                 )
             }

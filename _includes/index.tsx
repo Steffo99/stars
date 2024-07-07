@@ -91,18 +91,15 @@ export default function(data: GlobalData, helpers: Lume.Helpers) {
         </section>
     )
 
-    const games_cols = (games.length > 0) ? (
-        <section className={"flex flex-v"}>
+    const games_cols = (
+                           games.length > 0
+                       ) ? (
+                           <section className={"flex flex-v"}>
             <h2>
                 Videogames
                 <small>
                     <a href={helpers.url("~/list-games.md")}>
                         <i className={"fa-sharp fa-solid fa-magnifying-glass"}/> View all
-                    </a>
-                </small>
-                <small>
-                    <a href={helpers.url("/games/feed.rss")}>
-                        <i className={"fa-sharp fa-solid fa-rss"}/> Feed
                     </a>
                 </small>
             </h2>
@@ -112,7 +109,7 @@ export default function(data: GlobalData, helpers: Lume.Helpers) {
                 </div>
             )}
             <div className={"flex flex-2"}>
-                {top_games_section}
+            {top_games_section}
                 {progress_games_section}
             </div>
             <div className={"flex flex-2"}>

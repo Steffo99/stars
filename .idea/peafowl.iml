@@ -3,10 +3,18 @@
   <component name="NewModuleRootManager" inherit-compiler-output="true">
     <exclude-output />
     <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/_static" type="java-resource" />
       <sourceFolder url="file://$MODULE_DIR$/games" type="java-resource" />
       <excludeFolder url="file://$MODULE_DIR$/_site" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+  <component name="TemplatesService">
+    <option name="TEMPLATE_FOLDERS">
+      <list>
+        <option value="$MODULE_DIR$/_includes" />
+      </list>
+    </option>
   </component>
 </module>
