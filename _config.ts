@@ -35,7 +35,7 @@ site.use(fileData({
 		return JSON.stringify({
 			title: data.title,
 			subtitle: data.subtitle,
-			lists: site.search.pages("list").map((data) => data.url)
+			lists: site.search.pages("list").map((data) => data.url.replace(".html", ".json"))
 		})
 	}
 }))
@@ -47,7 +47,7 @@ site.use(fileData({
 	contentizer(data) {
 		return JSON.stringify({
 			content: data.content,
-			items: site.search.pages("game").map((data) => data.url)
+			items: site.search.pages("game").map((data) => data.url.replace(".html", ".json"))
 		})
 	}
 }))

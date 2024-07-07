@@ -50,7 +50,7 @@
     --gradient-mastered: conic-gradient(from 180deg at 50% 71%, #0055ff 0%, #000070 50%, #0055ff 100%);
 
     --color-notapplicable: #812281;
-    --color-notapplicable-over: #b32db3;
+    --color-notapplicable-over: #ff6dff;
     --gradient-notapplicable: radial-gradient(#220f22 0%, #812281 150%);
 
     --color-current: var(--color-body-over);
