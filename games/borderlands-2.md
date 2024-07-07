@@ -6,5 +6,8 @@ identifiers:
     appid: '49520'
     name: Borderlands 2
     synced_on: '2024-07-04'
-
+active: false
+rating: 64
+progress: started
 ---
+

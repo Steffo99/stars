@@ -6,5 +6,8 @@ identifiers:
     appid: '209870'
     name: 'Blacklight: Retribution'
     synced_on: '2024-07-04'
-
+active: false
+rating: 0
+progress: notapplicable
 ---
+

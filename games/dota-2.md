@@ -7,9 +7,7 @@ identifiers:
     name: Dota 2
     synced_on: '2024-07-04'
 active: true
-rating: 78
+rating: 83
 progress: notapplicable
 ---
-### Links
 
-- [My STRATZ profile](https://stratz.com/players/74048532)

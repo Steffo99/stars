@@ -6,5 +6,8 @@ identifiers:
     appid: '563560'
     name: 'Alien Swarm: Reactive Drop'
     synced_on: '2024-07-04'
-
+active: false
+rating: 0
+progress: beaten
 ---
+

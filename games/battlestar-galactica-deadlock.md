@@ -6,5 +6,8 @@ identifiers:
     appid: '544610'
     name: Battlestar Galactica Deadlock
     synced_on: '2024-07-04'
-
+active: false
+rating: 0
+progress: new
 ---
+

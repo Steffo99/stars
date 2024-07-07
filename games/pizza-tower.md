@@ -6,5 +6,8 @@ identifiers:
     appid: '2231450'
     name: Pizza Tower
     synced_on: '2024-07-04'
-
+active: false
+rating: 94
+progress: beaten
 ---
+

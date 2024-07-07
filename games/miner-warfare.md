@@ -6,5 +6,8 @@ identifiers:
     appid: '354620'
     name: Miner Warfare
     synced_on: '2024-07-04'
-
+active: false
+rating: 50
+progress: notapplicable
 ---
+

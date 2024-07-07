@@ -6,5 +6,8 @@ identifiers:
     appid: '504230'
     name: Celeste
     synced_on: '2024-07-04'
-
+active: false
+rating: 96
+progress: beaten
 ---
+

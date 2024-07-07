@@ -6,5 +6,8 @@ identifiers:
     appid: '291550'
     name: Brawlhalla
     synced_on: '2024-07-04'
-
+active: false
+rating: 66
+progress: notapplicable
 ---
+

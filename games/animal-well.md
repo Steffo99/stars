@@ -1,5 +1,5 @@
 ---
-name: ANIMAL WELL
+name: Animal Well
 hours_played: 24
 identifiers:
   - type: steam
@@ -7,7 +7,7 @@ identifiers:
     name: ANIMAL WELL
     synced_on: '2024-07-04'
 active: false
-rating: 87
+rating: 90
 progress: completed
 ---
 

@@ -7,7 +7,7 @@ identifiers:
     name: Counter-Strike 2
     synced_on: '2024-07-04'
 active: false
-rating: 55
+rating: 65
 progress: notapplicable
 ---
 

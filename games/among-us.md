@@ -6,5 +6,8 @@ identifiers:
     appid: '945360'
     name: Among Us
     synced_on: '2024-07-04'
-
+active: false
+rating: 44
+progress: notapplicable
 ---
+

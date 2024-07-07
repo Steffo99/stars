@@ -7,7 +7,7 @@ identifiers:
     name: Dead by Daylight
     synced_on: '2024-07-04'
 active: true
-rating: 60
+rating: 71
 progress: notapplicable
 ---
 

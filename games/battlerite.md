@@ -6,5 +6,8 @@ identifiers:
     appid: '504370'
     name: Battlerite
     synced_on: '2024-07-04'
-
+active: false
+rating: 71
+progress: notapplicable
 ---
+

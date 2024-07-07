@@ -6,5 +6,7 @@ identifiers:
     appid: '667870'
     name: MINDNIGHT
     synced_on: '2024-07-04'
-
+active: false
+rating: 35
 ---
+

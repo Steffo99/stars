@@ -6,5 +6,8 @@ identifiers:
     appid: '253030'
     name: Race The Sun
     synced_on: '2024-07-04'
-
+active: false
+rating: 53
+progress: started
 ---
+

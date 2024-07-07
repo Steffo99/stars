@@ -6,5 +6,8 @@ identifiers:
     appid: '736260'
     name: Baba Is You
     synced_on: '2024-07-04'
-
+active: false
+rating: 81
+progress: started
 ---
+

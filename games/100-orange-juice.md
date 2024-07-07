@@ -7,7 +7,7 @@ identifiers:
     name: 100% Orange Juice
     synced_on: '2024-07-04'
 active: false
-rating: 40
+rating: 41
 progress: notapplicable
 ---
 

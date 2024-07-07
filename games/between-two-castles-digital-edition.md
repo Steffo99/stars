@@ -6,5 +6,8 @@ identifiers:
     appid: '1158500'
     name: Between Two Castles - Digital Edition
     synced_on: '2024-07-04'
-
+active: false
+rating: 0
+progress: new
 ---
+

@@ -6,5 +6,8 @@ identifiers:
     appid: '226840'
     name: Age of Wonders III
     synced_on: '2024-07-04'
-
+active: false
+rating: 0
+progress: new
 ---
+

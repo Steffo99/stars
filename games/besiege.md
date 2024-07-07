@@ -6,5 +6,8 @@ identifiers:
     appid: '346010'
     name: Besiege
     synced_on: '2024-07-04'
-
+active: false
+rating: 72
+progress: started
 ---
+

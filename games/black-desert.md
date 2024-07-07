@@ -6,5 +6,8 @@ identifiers:
     appid: '582660'
     name: Black Desert
     synced_on: '2024-07-04'
-
+active: false
+rating: 0
+progress: new
 ---
+

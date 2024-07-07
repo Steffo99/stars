@@ -6,5 +6,8 @@ identifiers:
     appid: '1172470'
     name: Apex Legends
     synced_on: '2024-07-04'
-
+active: false
+rating: 70
+progress: notapplicable
 ---
+

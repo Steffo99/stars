@@ -6,5 +6,8 @@ identifiers:
     appid: '881100'
     name: Noita
     synced_on: '2024-07-04'
-
+active: true
+rating: 88
+progress: beaten
 ---
+

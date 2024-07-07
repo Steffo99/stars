@@ -6,5 +6,8 @@ identifiers:
     appid: '274190'
     name: Broforce
     synced_on: '2024-07-04'
-
+active: false
+rating: 52
+progress: started
 ---
+

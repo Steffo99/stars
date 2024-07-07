@@ -7,7 +7,7 @@ identifiers:
     name: CHAOS;CHILD
     synced_on: '2024-07-04'
 active: false
-rating: 96
+rating: 98
 progress: completed
 ---
 

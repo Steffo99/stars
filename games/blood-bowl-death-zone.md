@@ -6,5 +6,8 @@ identifiers:
     appid: '602490'
     name: 'Blood Bowl: Death Zone'
     synced_on: '2024-07-04'
-
+active: false
+rating: 0
+progress: new
 ---
+
