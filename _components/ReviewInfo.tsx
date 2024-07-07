@@ -26,7 +26,7 @@ export function ReviewInfo({name, rating, metadata, children}: ReviewInfoProps) 
             </h2>
             <div className={"reviewinfo-rating"}>
                 <data value={rating}>
-                    {rating}
+                    {rating !== 0 && rating}
                 </data>
             </div>
             <div className={"reviewinfo-bar-base"} aria-hidden={true}/>
