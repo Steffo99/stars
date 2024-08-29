@@ -9,7 +9,7 @@
     "build": "deno task lume",
     "serve": "deno task lume -s",
     "cms": "deno task lume cms",
-    "import-steam": "deno run run --allow-env --allow-read --allow-net --allow-write _scripts/importSteam.ts"
+    "import-steam": "deno run --allow-env --allow-read=. --allow-net --allow-write=. _scripts/importSteam.ts"
   },
   "compilerOptions": {
     "types": [
