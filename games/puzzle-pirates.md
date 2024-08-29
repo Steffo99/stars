@@ -1,13 +1,19 @@
 ---
 name: Puzzle Pirates
+name_sort: ''
+rating: 55
+active: false
+progress: notapplicable
 hours_played: 92
+purchased_on: .nan
+started_on: .nan
+beaten_on: .nan
+completed_on: .nan
+mastered_on: .nan
 identifiers:
   - type: steam
     appid: '99910'
     name: Puzzle Pirates
-    synced_on: '2024-07-04'
-active: false
-rating: 55
-progress: notapplicable
----
+    synced_on: '2024-08-30'
 
+---

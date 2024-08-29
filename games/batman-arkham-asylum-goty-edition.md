@@ -1,14 +1,19 @@
 ---
 name: 'Batman: Arkham Asylum'
 name_sort: Batman Arkham 2
+rating: 0
+active: false
+progress: new
 hours_played: 0
+purchased_on: .nan
+started_on: .nan
+beaten_on: .nan
+completed_on: .nan
+mastered_on: .nan
 identifiers:
   - type: steam
     appid: '35140'
     name: 'Batman: Arkham Asylum GOTY Edition'
-    synced_on: '2024-07-04'
-active: false
-rating: 0
-progress: new
----
+    synced_on: '2024-08-30'
 
+---

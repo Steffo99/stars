@@ -1,13 +1,19 @@
 ---
 name: 'Blacklight: Retribution'
+name_sort: ''
+rating: 0
+active: false
+progress: notapplicable
 hours_played: 0
+purchased_on: .nan
+started_on: .nan
+beaten_on: .nan
+completed_on: .nan
+mastered_on: .nan
 identifiers:
   - type: steam
     appid: '209870'
     name: 'Blacklight: Retribution'
-    synced_on: '2024-07-04'
-active: false
-rating: 0
-progress: notapplicable
----
+    synced_on: '2024-08-30'
 
+---

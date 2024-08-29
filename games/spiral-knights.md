@@ -1,13 +1,19 @@
 ---
 name: Spiral Knights
-hours_played: 245
+name_sort: ''
+rating: 63
+active: false
+progress: mastered
+hours_played: 246
+purchased_on: .nan
+started_on: .nan
+beaten_on: .nan
+completed_on: .nan
+mastered_on: .nan
 identifiers:
   - type: steam
     appid: '99900'
     name: Spiral Knights
-    synced_on: '2024-07-04'
-active: false
-rating: 63
-progress: mastered
----
+    synced_on: '2024-08-30'
 
+---
