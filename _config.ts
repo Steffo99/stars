@@ -2,9 +2,10 @@ import {default as lume} from "lume/mod.ts";
 import {default as jsx} from "lume/plugins/jsx.ts"
 import {default as feed} from "lume/plugins/feed.ts"
 import fileData from "./_plugins/fileData.ts"
+import Site from "lume/core/site.ts";
 
 
-const site = lume({
+const site: Site = lume({
 	prettyUrls: false,
 })
 
@@ -41,7 +42,7 @@ site.use(fileData({
 }))
 site.use(fileData({
 	query: "list-games",
-	urlizer(data) {
+	urlizer(_data) {
 		return "/games/index.json"
 	},
 	contentizer(data) {

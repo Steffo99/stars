@@ -1,5 +1,5 @@
 <component name="ProjectRunConfigurationManager">
-  <configuration default="false" name="Run" type="DenoConfigurationType" inputPath="$PROJECT_DIR$/_run.ts" programParameters="run --allow-read --allow-write --allow-net --allow-env --allow-run">
+  <configuration default="false" name="Run" type="DenoConfigurationType" inputPath="$PROJECT_DIR$/_run.ts" programParameters="run --allow-all">
     <option name="applicationArguments" value="--watch --host=0.0.0.0" />
     <method v="2" />
   </configuration>

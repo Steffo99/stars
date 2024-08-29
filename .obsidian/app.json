@@ -1,0 +1,12 @@
+{
+  "newFileLocation": "current",
+  "trashOption": "none",
+  "alwaysUpdateLinks": true,
+  "useMarkdownLinks": true,
+  "userIgnoreFilters": [
+    "/^_.+/"
+  ],
+  "showUnsupportedFiles": false,
+  "showInlineTitle": true,
+  "spellcheck": false
+}

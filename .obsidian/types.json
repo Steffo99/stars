@@ -1,0 +1,12 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "purchased_on": "date",
+    "started_on": "date",
+    "beaten_on": "date",
+    "completed_on": "date",
+    "mastered_on": "date"
+  }
+}
