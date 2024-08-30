@@ -1,3 +1,7 @@
 _site
 _cache
 .env
+*.sync-conflict-*
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.syncthing*

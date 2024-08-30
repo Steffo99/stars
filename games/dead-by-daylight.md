@@ -1,8 +1,8 @@
 ---
 name: Dead by Daylight
-name_sort: ''
+name_sort: ""
 rating: 71
-active: true
+active: false
 progress: notapplicable
 hours_played: 92
 purchased_on: .nan
@@ -12,8 +12,7 @@ completed_on: .nan
 mastered_on: .nan
 identifiers:
   - type: steam
-    appid: '381210'
+    appid: "381210"
     name: Dead by Daylight
-    synced_on: '2024-08-30'
-
+    synced_on: 2024-08-30
 ---
