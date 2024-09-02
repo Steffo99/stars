@@ -15,5 +15,9 @@ identifiers:
     appid: '8980'
     name: Borderlands GOTY
     synced_on: '2024-08-30'
-
+  - type: steam
+    appid: '729040'
+    name: Borderlands GOTY Enhanced
+    synced_on: '2024-08-30'
+  
 ---
