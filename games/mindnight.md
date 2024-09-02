@@ -1,9 +1,9 @@
 ---
-name: MINDNIGHT
+name: Mindnight
 name_sort: ''
 rating: 35
 active: false
-progress: ''
+progress: notapplicable
 hours_played: 3
 purchased_on: .nan
 started_on: .nan
