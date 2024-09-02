@@ -1,9 +1,9 @@
 ---
 name: 'PAYDAY: The Heist'
-name_sort: PAYDAY
+name_sort: 'Payday 1'
 rating: 0
 active: false
-progress: ''
+progress: new
 hours_played: 0
 purchased_on: .nan
 started_on: .nan

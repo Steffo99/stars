@@ -1,9 +1,9 @@
 ---
 name: 'Monster Hunter: World'
 name_sort: ''
-rating: 0
+rating: 72
 active: false
-progress: ''
+progress: beaten
 hours_played: 51
 purchased_on: .nan
 started_on: .nan

@@ -1,9 +1,9 @@
 ---
-name: GUILTY GEAR -STRIVE-
-name_sort: ''
-rating: 0
-active: false
-progress: ''
+name: Guilty Gear -Strive-
+name_sort: 'Guilty Gear 4'
+rating: 90
+active: true
+progress: beaten
 hours_played: 142
 purchased_on: .nan
 started_on: .nan

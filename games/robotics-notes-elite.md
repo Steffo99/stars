@@ -1,9 +1,9 @@
 ---
 name: ROBOTICS;NOTES ELITE
-name_sort: ''
-rating: 0
+name_sort: 'Robotics;Notes 2'
+rating: 85
 active: false
-progress: ''
+progress: completed
 hours_played: 31
 purchased_on: .nan
 started_on: .nan

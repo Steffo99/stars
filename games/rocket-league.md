@@ -1,9 +1,9 @@
 ---
 name: Rocket League
 name_sort: ''
-rating: 0
+rating: 56
 active: false
-progress: ''
+progress: notapplicable
 hours_played: 234
 purchased_on: .nan
 started_on: .nan

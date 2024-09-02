@@ -1,9 +1,9 @@
 ---
 name: Hollow Knight
 name_sort: ''
-rating: 0
+rating: 97
 active: false
-progress: ''
+progress: beaten
 hours_played: 60
 purchased_on: .nan
 started_on: .nan

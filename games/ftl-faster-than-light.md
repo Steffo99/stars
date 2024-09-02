@@ -1,9 +1,9 @@
 ---
 name: 'FTL: Faster Than Light'
 name_sort: ''
-rating: 0
+rating: 75
 active: false
-progress: ''
+progress: beaten
 hours_played: 45
 purchased_on: .nan
 started_on: .nan

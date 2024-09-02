@@ -1,9 +1,9 @@
 ---
 name: GemCraft - Frostborn Wrath
-name_sort: ''
+name_sort: 'GemCraft 5'
 rating: 0
 active: false
-progress: ''
+progress: started
 hours_played: 2
 purchased_on: .nan
 started_on: .nan

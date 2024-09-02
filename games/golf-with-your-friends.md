@@ -1,9 +1,9 @@
 ---
 name: Golf With Your Friends
 name_sort: ''
-rating: 0
+rating: 28
 active: false
-progress: ''
+progress: notapplicable
 hours_played: 2
 purchased_on: .nan
 started_on: .nan

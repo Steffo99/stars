@@ -1,9 +1,9 @@
 ---
 name: Life is Strange 2
-name_sort: ''
-rating: 0
+name_sort: 'Life is Strange 3'
+rating: 25
 active: false
-progress: ''
+progress: started
 hours_played: 11
 purchased_on: .nan
 started_on: .nan

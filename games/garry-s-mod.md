@@ -3,7 +3,7 @@ name: Garry's Mod
 name_sort: ''
 rating: 0
 active: false
-progress: ''
+progress: notapplicable
 hours_played: 145
 purchased_on: .nan
 started_on: .nan

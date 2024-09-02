@@ -3,7 +3,7 @@ name: Crusader Kings III
 name_sort: ''
 rating: 0
 active: false
-progress: ''
+progress: started
 hours_played: 2
 purchased_on: .nan
 started_on: .nan

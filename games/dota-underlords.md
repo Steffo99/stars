@@ -1,9 +1,9 @@
 ---
 name: Dota Underlords
 name_sort: ''
-rating: 0
+rating: 71
 active: false
-progress: ''
+progress: started
 hours_played: 114
 purchased_on: .nan
 started_on: .nan

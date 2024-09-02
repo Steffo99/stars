@@ -2,8 +2,8 @@
 name: Marble It Up! Ultra
 name_sort: ''
 rating: 0
-active: false
-progress: ''
+active: true
+progress: started
 hours_played: 5
 purchased_on: .nan
 started_on: .nan

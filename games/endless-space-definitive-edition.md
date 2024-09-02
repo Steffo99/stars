@@ -1,9 +1,9 @@
 ---
-name: ENDLESS™ Space - Definitive Edition
-name_sort: ''
+name: Endless Space
+name_sort: 'Endless Space 1'
 rating: 0
 active: false
-progress: ''
+progress: notapplicable
 hours_played: 33
 purchased_on: .nan
 started_on: .nan

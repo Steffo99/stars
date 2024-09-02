@@ -3,7 +3,7 @@ name: Cities XL Platinum
 name_sort: ''
 rating: 0
 active: false
-progress: ''
+progress: new
 hours_played: 1
 purchased_on: .nan
 started_on: .nan

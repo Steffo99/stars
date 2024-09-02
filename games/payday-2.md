@@ -1,9 +1,9 @@
 ---
-name: PAYDAY 2
-name_sort: ''
-rating: 0
+name: 'PAYDAY 2'
+name_sort: 'Payday 2'
+rating: 81
 active: false
-progress: ''
+progress: started
 hours_played: 222
 purchased_on: .nan
 started_on: .nan

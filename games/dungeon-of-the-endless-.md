@@ -1,9 +1,9 @@
 ---
 name: Dungeon of the ENDLESS™
 name_sort: ''
-rating: 0
+rating: 65
 active: false
-progress: ''
+progress: beaten
 hours_played: 29
 purchased_on: .nan
 started_on: .nan

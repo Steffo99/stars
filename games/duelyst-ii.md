@@ -1,9 +1,9 @@
 ---
 name: Duelyst II
-name_sort: ''
+name_sort: 'Duelyst 2'
 rating: 0
 active: false
-progress: ''
+progress: notapplicable
 hours_played: 0
 purchased_on: .nan
 started_on: .nan

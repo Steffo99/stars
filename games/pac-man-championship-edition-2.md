@@ -1,9 +1,9 @@
 ---
-name: PAC-MAN™ CHAMPIONSHIP EDITION 2
+name: Pac-Man Championship Edition 2
 name_sort: ''
-rating: 0
+rating: 41
 active: false
-progress: ''
+progress: beaten
 hours_played: 8
 purchased_on: .nan
 started_on: .nan

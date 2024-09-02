@@ -1,9 +1,9 @@
 ---
 name: Emily is Away Too
-name_sort: ''
+name_sort: 'Emily is Away 2'
 rating: 0
 active: false
-progress: ''
+progress: started
 hours_played: 4
 purchased_on: .nan
 started_on: .nan

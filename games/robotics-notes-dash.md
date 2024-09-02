@@ -1,9 +1,9 @@
 ---
 name: ROBOTICS;NOTES DaSH
-name_sort: ''
-rating: 0
+name_sort: 'Robotics;Notes 2'
+rating: 33
 active: false
-progress: ''
+progress: completed
 hours_played: 20
 purchased_on: .nan
 started_on: .nan

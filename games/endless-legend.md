@@ -1,9 +1,9 @@
 ---
-name: ENDLESS™ Legend
+name: Endless Legend
 name_sort: ''
 rating: 0
 active: false
-progress: ''
+progress: notapplicable
 hours_played: 4
 purchased_on: .nan
 started_on: .nan

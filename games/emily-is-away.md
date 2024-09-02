@@ -1,9 +1,9 @@
 ---
 name: Emily is Away
-name_sort: ''
-rating: 0
+name_sort: 'Emily is Away 1'
+rating: 39
 active: false
-progress: ''
+progress: beaten
 hours_played: 1
 purchased_on: .nan
 started_on: .nan

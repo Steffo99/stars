@@ -1,9 +1,9 @@
 ---
 name: Factorio
 name_sort: ''
-rating: 0
+rating: 99
 active: false
-progress: ''
+progress: beaten
 hours_played: 183
 purchased_on: .nan
 started_on: .nan

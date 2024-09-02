@@ -1,9 +1,9 @@
 ---
-name: ENDLESS™ Space 2
+name: Endless Space 2
 name_sort: ''
-rating: 0
+rating: 77
 active: false
-progress: ''
+progress: notapplicable
 hours_played: 87
 purchased_on: .nan
 started_on: .nan

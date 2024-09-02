@@ -3,7 +3,7 @@ name: Creativerse
 name_sort: ''
 rating: 0
 active: false
-progress: ''
+progress: notapplicable
 hours_played: 1
 purchased_on: .nan
 started_on: .nan

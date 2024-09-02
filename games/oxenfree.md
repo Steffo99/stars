@@ -1,9 +1,9 @@
 ---
 name: Oxenfree
-name_sort: ''
-rating: 0
+name_sort: 'Oxenfree 1'
+rating: 80
 active: false
-progress: ''
+progress: beaten
 hours_played: 6
 purchased_on: .nan
 started_on: .nan

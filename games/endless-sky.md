@@ -3,7 +3,7 @@ name: Endless Sky
 name_sort: ''
 rating: 0
 active: false
-progress: ''
+progress: new
 hours_played: 0
 purchased_on: .nan
 started_on: .nan

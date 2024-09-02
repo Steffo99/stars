@@ -1,9 +1,9 @@
 ---
 name: Duelyst
-name_sort: ''
-rating: 0
+name_sort: 'Duelyst 1'
+rating: 56
 active: false
-progress: ''
+progress: notapplicable
 hours_played: 10
 purchased_on: .nan
 started_on: .nan
