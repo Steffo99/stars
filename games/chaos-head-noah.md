@@ -1,9 +1,9 @@
 ---
 name: CHAOS;HEAD NOAH
 name_sort: ''
-rating: 0
+rating: 81
 active: false
-progress: ''
+progress: completed
 hours_played: 30
 purchased_on: .nan
 started_on: .nan
