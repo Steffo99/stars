@@ -1,9 +1,9 @@
 ---
 name: Chicken Invaders Universe
 name_sort: ''
-rating: 0
+rating: 68
 active: false
-progress: ''
+progress: notapplicable
 hours_played: 27
 purchased_on: .nan
 started_on: .nan
