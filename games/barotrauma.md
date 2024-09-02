@@ -1,7 +1,7 @@
 ---
 name: Barotrauma
-name_sort: ''
-rating: 80
+name_sort: ""
+rating: 78
 active: false
 progress: started
 hours_played: 96
@@ -12,8 +12,7 @@ completed_on: .nan
 mastered_on: .nan
 identifiers:
   - type: steam
-    appid: '602960'
+    appid: "602960"
     name: Barotrauma
-    synced_on: '2024-08-30'
-
+    synced_on: 2024-08-30
 ---

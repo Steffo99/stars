@@ -1,9 +1,9 @@
 ---
 name: Distance
-name_sort: ''
-rating: 0
+name_sort: ""
+rating: 73
 active: false
-progress: ''
+progress: beaten
 hours_played: 17
 purchased_on: .nan
 started_on: .nan
@@ -12,8 +12,7 @@ completed_on: .nan
 mastered_on: .nan
 identifiers:
   - type: steam
-    appid: '233610'
+    appid: "233610"
     name: Distance
-    synced_on: '2024-08-30'
-
+    synced_on: 2024-08-30
 ---

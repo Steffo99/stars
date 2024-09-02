@@ -1,9 +1,9 @@
 ---
 name: Disco Elysium
-name_sort: ''
-rating: 0
+name_sort: ""
+rating: 86
 active: false
-progress: ''
+progress: beaten
 hours_played: 25
 purchased_on: .nan
 started_on: .nan
@@ -12,8 +12,7 @@ completed_on: .nan
 mastered_on: .nan
 identifiers:
   - type: steam
-    appid: '632470'
+    appid: "632470"
     name: Disco Elysium
-    synced_on: '2024-08-30'
-
+    synced_on: 2024-08-30
 ---

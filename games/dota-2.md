@@ -1,8 +1,8 @@
 ---
 name: Dota 2
-name_sort: ''
+name_sort: ""
 rating: 83
-active: true
+active: false
 progress: notapplicable
 hours_played: 4644
 purchased_on: .nan
@@ -12,8 +12,7 @@ completed_on: .nan
 mastered_on: .nan
 identifiers:
   - type: steam
-    appid: '570'
+    appid: "570"
     name: Dota 2
-    synced_on: '2024-08-30'
-
+    synced_on: 2024-08-30
 ---

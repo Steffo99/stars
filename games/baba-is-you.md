@@ -1,7 +1,7 @@
 ---
 name: Baba Is You
-name_sort: ''
-rating: 81
+name_sort: ""
+rating: 80
 active: false
 progress: started
 hours_played: 24
@@ -12,8 +12,7 @@ completed_on: .nan
 mastered_on: .nan
 identifiers:
   - type: steam
-    appid: '736260'
+    appid: "736260"
     name: Baba Is You
-    synced_on: '2024-08-30'
-
+    synced_on: 2024-08-30
 ---

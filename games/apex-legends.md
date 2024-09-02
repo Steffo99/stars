@@ -1,7 +1,7 @@
 ---
 name: Apex Legends
-name_sort: ''
-rating: 70
+name_sort: ""
+rating: 73
 active: false
 progress: notapplicable
 hours_played: 174
@@ -12,8 +12,7 @@ completed_on: .nan
 mastered_on: .nan
 identifiers:
   - type: steam
-    appid: '1172470'
+    appid: "1172470"
     name: Apex Legends
-    synced_on: '2024-08-30'
-
+    synced_on: 2024-08-30
 ---
