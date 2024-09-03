@@ -1,7 +1,7 @@
 ---
 name: Puzzle Pirates
 name_sort: ''
-rating: 55
+rating: 56
 active: false
 progress: notapplicable
 hours_played: 92

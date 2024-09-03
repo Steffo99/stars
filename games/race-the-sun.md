@@ -1,7 +1,7 @@
 ---
 name: Race The Sun
 name_sort: ''
-rating: 53
+rating: 54
 active: false
 progress: started
 hours_played: 8

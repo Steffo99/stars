@@ -1,7 +1,7 @@
 ---
 name: Mindnight
 name_sort: ''
-rating: 35
+rating: 38
 active: false
 progress: notapplicable
 hours_played: 3

@@ -1,7 +1,7 @@
 ---
 name: Crusader Kings II
 name_sort: ""
-rating: 63
+rating: 64
 active: false
 progress: started
 hours_played: 54

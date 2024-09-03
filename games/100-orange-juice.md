@@ -1,7 +1,7 @@
 ---
 name: 100% Orange Juice
 name_sort: ''
-rating: 41
+rating: 46
 active: false
 progress: notapplicable
 hours_played: 3

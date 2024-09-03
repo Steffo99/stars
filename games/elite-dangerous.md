@@ -1,7 +1,7 @@
 ---
 name: Elite Dangerous
 name_sort: ''
-rating: 54
+rating: 55
 active: false
 progress: notapplicable
 hours_played: 41

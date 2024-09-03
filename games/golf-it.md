@@ -1,9 +1,9 @@
 ---
-name: HOT WHEELS UNLEASHED™
-name_sort: ''
+name: Golf It!
+name_sort: ""
 rating: 0
 active: false
-progress: ''
+progress: 
 hours_played: 0
 purchased_on: .nan
 started_on: .nan
@@ -12,8 +12,7 @@ completed_on: .nan
 mastered_on: .nan
 identifiers:
   - type: steam
-    appid: '1271700'
-    name: HOT WHEELS UNLEASHED™
-    synced_on: '2024-08-30'
-
+    appid: "571740"
+    name: Golf It!
+    synced_on: 2024-08-30
 ---

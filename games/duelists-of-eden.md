@@ -1,7 +1,7 @@
 ---
 name: Duelists of Eden
 name_sort: ""
-rating: 0
+rating: 49
 active: false
 progress: notapplicable
 hours_played: 0

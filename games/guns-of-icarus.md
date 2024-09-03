@@ -1,7 +1,7 @@
 ---
 name: Guns of Icarus
 name_sort: ''
-rating: 59
+rating: 60
 active: false
 progress: notapplicable
 hours_played: 71

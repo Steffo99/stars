@@ -1,9 +1,9 @@
 ---
 name: Pikuniku
-name_sort: ''
-rating: 0
+name_sort: ""
+rating: 85
 active: false
-progress: ''
+progress: beaten
 hours_played: 3
 purchased_on: .nan
 started_on: .nan
@@ -12,8 +12,7 @@ completed_on: .nan
 mastered_on: .nan
 identifiers:
   - type: steam
-    appid: '572890'
+    appid: "572890"
     name: Pikuniku
-    synced_on: '2024-08-30'
-
+    synced_on: 2024-08-30
 ---

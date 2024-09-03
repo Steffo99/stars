@@ -1,7 +1,7 @@
 ---
 name: Aperture Desk Job
 name_sort: ''
-rating: 46
+rating: 50
 active: false
 progress: completed
 hours_played: 1

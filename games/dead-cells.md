@@ -1,7 +1,7 @@
 ---
 name: Dead Cells
 name_sort: ""
-rating: 64
+rating: 66
 active: false
 progress: beaten
 hours_played: 33

@@ -1,7 +1,7 @@
 ---
 name: Guilty Gear -Strive-
 name_sort: 'Guilty Gear 4'
-rating: 91
+rating: 92
 active: true
 progress: beaten
 hours_played: 142

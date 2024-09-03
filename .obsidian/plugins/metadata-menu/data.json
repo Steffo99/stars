@@ -1,6 +1,158 @@
 {
   "presetFields": [
     {
+      "type": "Date",
+      "tagName": "date",
+      "icon": "calendar-with-checkmark",
+      "tooltip": "Accepts a date",
+      "colorClass": "date",
+      "options": {
+        "dateShiftInterval": "1 day",
+        "dateFormat": "YYYY-MM-DD",
+        "defaultInsertAsLink": false,
+        "linkPath": ""
+      },
+      "name": "mastered_on",
+      "id": "2FD5g5",
+      "path": ""
+    },
+    {
+      "type": "Date",
+      "tagName": "date",
+      "icon": "calendar-with-checkmark",
+      "tooltip": "Accepts a date",
+      "colorClass": "date",
+      "options": {
+        "dateShiftInterval": "1 day",
+        "dateFormat": "YYYY-MM-DD",
+        "defaultInsertAsLink": false,
+        "linkPath": ""
+      },
+      "name": "purchased_on",
+      "id": "9Z1Ee7",
+      "path": ""
+    },
+    {
+      "type": "Number",
+      "tagName": "number",
+      "icon": "plus-minus-glyph",
+      "tooltip": "Accepts a number",
+      "colorClass": "number",
+      "options": {
+        "min": 0,
+        "step": 1
+      },
+      "name": "hours_played",
+      "id": "OpU0oE",
+      "path": ""
+    },
+    {
+      "type": "Date",
+      "tagName": "date",
+      "icon": "calendar-with-checkmark",
+      "tooltip": "Accepts a date",
+      "colorClass": "date",
+      "options": {
+        "dateShiftInterval": "1 day",
+        "dateFormat": "YYYY-MM-DD",
+        "defaultInsertAsLink": false,
+        "linkPath": ""
+      },
+      "name": "completed_on",
+      "id": "RZGoIb",
+      "path": ""
+    },
+    {
+      "type": "Select",
+      "tagName": "select",
+      "icon": "right-triangle",
+      "tooltip": "Accepts a single value from a list",
+      "colorClass": "select",
+      "options": {
+        "sourceType": "ValuesList",
+        "valuesList": {
+          "1": "",
+          "2": "notapplicable",
+          "3": "new",
+          "4": "started",
+          "5": "beaten",
+          "6": "completed",
+          "7": "mastered"
+        }
+      },
+      "name": "progress",
+      "id": "WJEJh0",
+      "path": ""
+    },
+    {
+      "type": "Date",
+      "tagName": "date",
+      "icon": "calendar-with-checkmark",
+      "tooltip": "Accepts a date",
+      "colorClass": "date",
+      "options": {
+        "dateShiftInterval": "1 day",
+        "dateFormat": "YYYY-MM-DD",
+        "defaultInsertAsLink": false,
+        "linkPath": ""
+      },
+      "name": "beaten_on",
+      "id": "Zd6BHe",
+      "path": ""
+    },
+    {
+      "type": "Input",
+      "tagName": "single",
+      "icon": "pencil",
+      "tooltip": "Accepts any value",
+      "colorClass": "single",
+      "options": {},
+      "name": "name",
+      "id": "cL1lT5",
+      "path": "",
+      "style": {
+        "bold": true
+      }
+    },
+    {
+      "type": "Date",
+      "tagName": "date",
+      "icon": "calendar-with-checkmark",
+      "tooltip": "Accepts a date",
+      "colorClass": "date",
+      "options": {
+        "dateShiftInterval": "1 day",
+        "dateFormat": "YYYY-MM-DD",
+        "defaultInsertAsLink": false,
+        "linkPath": ""
+      },
+      "name": "started_on",
+      "id": "iB90tm",
+      "path": ""
+    },
+    {
+      "type": "Boolean",
+      "tagName": "boolean",
+      "icon": "toggle-left",
+      "tooltip": "Accepts true or false",
+      "colorClass": "boolean",
+      "options": {},
+      "name": "active",
+      "id": "tXVCki",
+      "path": ""
+    },
+    {
+      "type": "Input",
+      "tagName": "single",
+      "icon": "pencil",
+      "tooltip": "Accepts any value",
+      "colorClass": "single",
+      "options": {},
+      "name": "name_sort",
+      "id": "vpfNKo",
+      "path": ""
+    },
+    {
       "type": "Number",
       "tagName": "number",
       "icon": "plus-minus-glyph",
@@ -17,6 +169,20 @@
       "style": {
         "bold": true
       }
+    },
+    {
+      "type": "YAML",
+      "tagName": "yaml",
+      "icon": "file-json-2",
+      "tooltip": "Accepts a YAML object",
+      "colorClass": "file",
+      "options": {},
+      "name": "identifiers",
+      "id": "4cYEWq",
+      "path": "",
+      "style": {
+        "code": true
+      }
     }
   ],
   "fileClassQueries": [],
@@ -25,7 +191,7 @@
   "classFilesPath": null,
   "isAutosuggestEnabled": true,
   "fileClassAlias": "fileClass",
-  "settingsVersion": "5.4",
+  "settingsVersion": "5.15",
   "firstDayOfWeek": 1,
   "enableLinks": true,
   "enableTabHeader": true,

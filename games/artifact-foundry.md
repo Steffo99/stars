@@ -1,7 +1,7 @@
 ---
 name: Artifact Foundry
 name_sort: Artifact 2
-rating: 48
+rating: 51
 active: false
 progress: notapplicable
 hours_played: 8

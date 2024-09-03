@@ -1,7 +1,7 @@
 ---
 name: Emily is Away
 name_sort: 'Emily is Away 1'
-rating: 39
+rating: 45
 active: false
 progress: beaten
 hours_played: 1

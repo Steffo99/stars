@@ -1,7 +1,7 @@
 ---
 name: Bloons TD Battles
 name_sort: ''
-rating: 51
+rating: 52
 active: false
 progress: notapplicable
 hours_played: 1

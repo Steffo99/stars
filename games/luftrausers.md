@@ -1,7 +1,7 @@
 ---
-name: LUFTRAUSERS
+name: Luftrausers
 name_sort: ""
-rating: 0
+rating: 55
 active: false
 progress: beaten
 hours_played: 4

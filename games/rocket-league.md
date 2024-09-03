@@ -1,7 +1,7 @@
 ---
 name: Rocket League
 name_sort: ''
-rating: 56
+rating: 59
 active: false
 progress: notapplicable
 hours_played: 234

@@ -1,7 +1,7 @@
 ---
 name: Crab Game
 name_sort: ""
-rating: 38
+rating: 40
 active: false
 progress: notapplicable
 hours_played: 0

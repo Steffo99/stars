@@ -1,7 +1,7 @@
 ---
 name: Choice Chamber
 name_sort: ''
-rating: 40
+rating: 44
 active: false
 progress: notapplicable
 hours_played: 2

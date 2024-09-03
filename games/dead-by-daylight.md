@@ -1,7 +1,7 @@
 ---
 name: Dead by Daylight
 name_sort: ""
-rating: 71
+rating: 70
 active: false
 progress: notapplicable
 hours_played: 92

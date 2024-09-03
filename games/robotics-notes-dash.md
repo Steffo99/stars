@@ -1,7 +1,7 @@
 ---
 name: ROBOTICS;NOTES DaSH
 name_sort: 'Robotics;Notes 2'
-rating: 33
+rating: 32
 active: false
 progress: completed
 hours_played: 20

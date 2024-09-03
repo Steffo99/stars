@@ -1,7 +1,7 @@
 ---
 name: Beat Hazard 2
 name_sort: ''
-rating: 50
+rating: 53
 active: false
 progress: notapplicable
 hours_played: 3

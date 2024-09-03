@@ -1,7 +1,7 @@
 ---
 name: Miner Warfare
 name_sort: ''
-rating: 50
+rating: 64
 active: false
 progress: notapplicable
 hours_played: 2

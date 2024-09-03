@@ -1,5 +1,5 @@
 ---
-name: Deadlock (Playtest)
+name: Deadlock
 name_sort: ""
 rating: 88
 active: true

@@ -1,7 +1,7 @@
 ---
 name: Castle Crashers
 name_sort: ''
-rating: 52
+rating: 54
 active: false
 progress: started
 hours_played: 4

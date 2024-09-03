@@ -1,7 +1,7 @@
 ---
 name: Pac-Man Championship Edition 2
 name_sort: ''
-rating: 41
+rating: 47
 active: false
 progress: beaten
 hours_played: 8

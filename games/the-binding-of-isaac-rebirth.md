@@ -1,7 +1,7 @@
 ---
 name: 'The Binding of Isaac: Rebirth'
 name_sort: ''
-rating: 54
+rating: 55
 active: false
 progress: beaten
 hours_played: 190

@@ -1,7 +1,7 @@
 ---
 name: Golf With Your Friends
 name_sort: ''
-rating: 28
+rating: 30
 active: false
 progress: notapplicable
 hours_played: 2

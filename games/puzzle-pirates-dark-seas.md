@@ -1,9 +1,9 @@
 ---
-name: 'Puzzle Pirates: Dark Seas'
-name_sort: ''
-rating: 0
+name: "Puzzle Pirates: Dark Seas"
+name_sort: Puzzle Pirates 2
+rating: 34
 active: false
-progress: ''
+progress: notapplicable
 hours_played: 0
 purchased_on: .nan
 started_on: .nan
@@ -12,8 +12,7 @@ completed_on: .nan
 mastered_on: .nan
 identifiers:
   - type: steam
-    appid: '552110'
-    name: 'Puzzle Pirates: Dark Seas'
-    synced_on: '2024-08-30'
-
+    appid: "552110"
+    name: "Puzzle Pirates: Dark Seas"
+    synced_on: 2024-08-30
 ---

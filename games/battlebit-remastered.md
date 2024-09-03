@@ -1,7 +1,7 @@
 ---
 name: BattleBit Remastered
 name_sort: ''
-rating: 56
+rating: 58
 active: false
 progress: notapplicable
 hours_played: 9

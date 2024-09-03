@@ -1,7 +1,7 @@
 ---
 name: 'Metal Gear Solid V: Ground Zeroes'
 name_sort: Metal Gear Solid 5.1
-rating: 60
+rating: 62
 active: false
 progress: beaten
 hours_played: 4

@@ -1,7 +1,7 @@
 ---
 name: Broforce
 name_sort: ''
-rating: 52
+rating: 57
 active: false
 progress: started
 hours_played: 2

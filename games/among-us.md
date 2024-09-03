@@ -1,7 +1,7 @@
 ---
 name: Among Us
 name_sort: ''
-rating: 44
+rating: 48
 active: false
 progress: notapplicable
 hours_played: 13
