@@ -1,7 +1,7 @@
 ---
 name: ROBOTICS;NOTES ELITE
 name_sort: 'Robotics;Notes 2'
-rating: 85
+rating: 88
 active: false
 progress: completed
 hours_played: 31

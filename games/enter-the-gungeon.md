@@ -1,7 +1,7 @@
 ---
 name: Enter the Gungeon
 name_sort: ''
-rating: 70
+rating: 73
 active: false
 progress: beaten
 hours_played: 131

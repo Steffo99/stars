@@ -1,7 +1,7 @@
 ---
 name: CHAOS;HEAD NOAH
 name_sort: ''
-rating: 81
+rating: 84
 active: false
 progress: completed
 hours_played: 30

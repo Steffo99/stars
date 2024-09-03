@@ -1,7 +1,7 @@
 ---
 name: Apex Legends
 name_sort: ""
-rating: 73
+rating: 77
 active: false
 progress: notapplicable
 hours_played: 174

@@ -1,7 +1,7 @@
 ---
 name: Disco Elysium
 name_sort: ""
-rating: 86
+rating: 89
 active: false
 progress: beaten
 hours_played: 25

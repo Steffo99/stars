@@ -1,7 +1,7 @@
 ---
 name: 'PAYDAY 2'
 name_sort: 'Payday 2'
-rating: 81
+rating: 83
 active: false
 progress: started
 hours_played: 222

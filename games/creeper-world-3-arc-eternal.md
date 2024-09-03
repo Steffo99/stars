@@ -1,7 +1,7 @@
 ---
 name: "Creeper World 3: Arc Eternal"
 name_sort: ""
-rating: 71
+rating: 73
 active: false
 progress: started
 hours_played: 6

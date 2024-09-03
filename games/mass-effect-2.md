@@ -1,7 +1,7 @@
 ---
 name: Mass Effect 2
 name_sort: ''
-rating: 95
+rating: 96
 active: false
 progress: completed
 hours_played: 24

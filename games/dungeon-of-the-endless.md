@@ -1,10 +1,10 @@
 ---
-name: Dota 2
+name: Dungeon of the Endless
 name_sort: ""
-rating: 87
+rating: 67
 active: false
-progress: notapplicable
-hours_played: 4644
+progress: beaten
+hours_played: 29
 purchased_on: .nan
 started_on: .nan
 beaten_on: .nan
@@ -12,7 +12,7 @@ completed_on: .nan
 mastered_on: .nan
 identifiers:
   - type: steam
-    appid: "570"
-    name: Dota 2
+    appid: "249050"
+    name: Dungeon of the ENDLESS™
     synced_on: 2024-08-30
 ---

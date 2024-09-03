@@ -1,7 +1,7 @@
 ---
 name: Noita
 name_sort: ''
-rating: 88
+rating: 89
 active: true
 progress: beaten
 hours_played: 182

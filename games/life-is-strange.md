@@ -1,7 +1,7 @@
 ---
 name: Life is Strange
 name_sort: 'Life is Strange 1'
-rating: 86
+rating: 87
 active: false
 progress: completed
 hours_played: 26

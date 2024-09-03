@@ -1,7 +1,7 @@
 ---
 name: Darkest Dungeon II
 name_sort: Darkest Dungeon 2
-rating: 74
+rating: 76
 active: false
 progress: started
 hours_played: 27

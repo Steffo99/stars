@@ -1,7 +1,7 @@
 ---
 name: 'FTL: Faster Than Light'
 name_sort: ''
-rating: 75
+rating: 79
 active: false
 progress: beaten
 hours_played: 45

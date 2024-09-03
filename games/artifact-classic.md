@@ -1,7 +1,7 @@
 ---
 name: Artifact Classic
 name_sort: Artifact 1
-rating: 84
+rating: 82
 active: false
 progress: notapplicable
 hours_played: 63

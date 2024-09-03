@@ -1,7 +1,7 @@
 ---
 name: Animal Well
 name_sort: ''
-rating: 90
+rating: 92
 active: false
 progress: completed
 hours_played: 24

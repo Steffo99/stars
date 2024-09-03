@@ -1,7 +1,7 @@
 ---
 name: Deadlock (Playtest)
 name_sort: ""
-rating: 86
+rating: 88
 active: true
 progress: notapplicable
 hours_played: 43

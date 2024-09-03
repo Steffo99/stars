@@ -1,7 +1,7 @@
 ---
 name: Crawl
 name_sort: ""
-rating: 73
+rating: 75
 active: false
 progress: beaten
 hours_played: 35

@@ -1,7 +1,7 @@
 ---
 name: Brawlhalla
 name_sort: ''
-rating: 66
+rating: 69
 active: false
 progress: notapplicable
 hours_played: 156

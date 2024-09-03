@@ -1,7 +1,7 @@
 ---
 name: "Counter-Strike: Global Offensive"
 name_sort: 
-rating: 79
+rating: 80
 active: false
 progress: notapplicable
 hours_played: 

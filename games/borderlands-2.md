@@ -1,7 +1,7 @@
 ---
 name: Borderlands 2
 name_sort: ''
-rating: 64
+rating: 66
 active: false
 progress: started
 hours_played: 50

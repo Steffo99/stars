@@ -1,7 +1,7 @@
 ---
 name: Oxenfree
 name_sort: 'Oxenfree 1'
-rating: 80
+rating: 82
 active: false
 progress: beaten
 hours_played: 6

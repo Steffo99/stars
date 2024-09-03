@@ -1,7 +1,7 @@
 ---
 name: Hypnospace Outlaw
 name_sort: ''
-rating: 82
+rating: 85
 active: false
 progress: beaten
 hours_played: 9

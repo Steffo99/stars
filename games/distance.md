@@ -1,7 +1,7 @@
 ---
 name: Distance
 name_sort: ""
-rating: 73
+rating: 74
 active: false
 progress: beaten
 hours_played: 17

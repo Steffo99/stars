@@ -1,7 +1,7 @@
 ---
 name: Terraria
 name_sort: ''
-rating: 92
+rating: 94
 active: false
 progress: mastered
 hours_played: 717

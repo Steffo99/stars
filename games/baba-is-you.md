@@ -1,7 +1,7 @@
 ---
 name: Baba Is You
 name_sort: ""
-rating: 80
+rating: 81
 active: false
 progress: started
 hours_played: 24

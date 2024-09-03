@@ -1,7 +1,7 @@
 ---
 name: Pizza Tower
 name_sort: ''
-rating: 94
+rating: 91
 active: false
 progress: beaten
 hours_played: 10

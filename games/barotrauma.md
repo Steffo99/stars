@@ -1,7 +1,7 @@
 ---
 name: Barotrauma
 name_sort: ""
-rating: 78
+rating: 80
 active: false
 progress: started
 hours_played: 96

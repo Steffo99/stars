@@ -1,7 +1,7 @@
 ---
 name: Celeste
 name_sort: ''
-rating: 96
+rating: 97
 active: false
 progress: beaten
 hours_played: 33

@@ -1,7 +1,7 @@
 ---
 name: Darkest Dungeon
 name_sort: ""
-rating: 71
+rating: 70
 active: false
 progress: started
 hours_played: 51

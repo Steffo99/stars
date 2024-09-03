@@ -1,7 +1,7 @@
 ---
 name: Audiosurf
 name_sort: Audiosurf 1
-rating: 64
+rating: 68
 active: false
 progress: notapplicable
 hours_played: 11

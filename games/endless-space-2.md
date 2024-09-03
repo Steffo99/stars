@@ -1,7 +1,7 @@
 ---
 name: Endless Space 2
 name_sort: ''
-rating: 77
+rating: 81
 active: false
 progress: notapplicable
 hours_played: 87

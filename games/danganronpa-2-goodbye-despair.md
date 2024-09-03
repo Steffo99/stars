@@ -1,7 +1,7 @@
 ---
 name: 'Danganronpa 2: Goodbye Despair'
 name_sort: ''
-rating: 95
+rating: 96
 active: false
 progress: beaten
 hours_played: 0
