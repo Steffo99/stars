@@ -1,9 +1,9 @@
 ---
-name: 'Tomb Raider III: Adventures of Lara Croft'
+name: "Tomb Raider III: Adventures of Lara Croft"
 name_sort: Tomb Raider 3
 rating: 0
 active: false
-progress: ''
+progress: new
 hours_played: 0
 purchased_on: .nan
 started_on: .nan
@@ -12,8 +12,7 @@ completed_on: .nan
 mastered_on: .nan
 identifiers:
   - type: steam
-    appid: '225320'
-    name: 'Tomb Raider III: Adventures of Lara Croft'
-    synced_on: '2024-08-30'
-
+    appid: "225320"
+    name: "Tomb Raider III: Adventures of Lara Croft"
+    synced_on: 2024-08-30
 ---

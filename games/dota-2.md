@@ -2,7 +2,7 @@
 name: Dota 2
 name_sort: ""
 rating: 87
-active: false
+active: true
 progress: notapplicable
 hours_played: 4644
 purchased_on: .nan

@@ -1,9 +1,9 @@
 ---
 name: Star Conflict
-name_sort: ''
+name_sort: ""
 rating: 0
 active: false
-progress: ''
+progress: notapplicable
 hours_played: 39
 purchased_on: .nan
 started_on: .nan
@@ -12,8 +12,7 @@ completed_on: .nan
 mastered_on: .nan
 identifiers:
   - type: steam
-    appid: '212070'
+    appid: "212070"
     name: Star Conflict
-    synced_on: '2024-08-30'
-
+    synced_on: 2024-08-30
 ---

@@ -1,7 +1,7 @@
 ---
 name: Epic Battle Fantasy 4
 name_sort: ""
-rating: 0
+rating: 64
 active: false
 progress: started
 hours_played: 14

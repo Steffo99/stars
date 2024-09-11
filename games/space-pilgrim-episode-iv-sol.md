@@ -1,9 +1,9 @@
 ---
-name: 'Space Pilgrim Episode IV: Sol'
-name_sort: ''
+name: "Space Pilgrim Episode IV: Sol"
+name_sort: "Space Pilgrim Episode 4: Sol"
 rating: 0
 active: false
-progress: ''
+progress: new
 hours_played: 0
 purchased_on: .nan
 started_on: .nan
@@ -12,8 +12,7 @@ completed_on: .nan
 mastered_on: .nan
 identifiers:
   - type: steam
-    appid: '446640'
-    name: 'Space Pilgrim Episode IV: Sol'
-    synced_on: '2024-08-30'
-
+    appid: "446640"
+    name: "Space Pilgrim Episode IV: Sol"
+    synced_on: 2024-08-30
 ---

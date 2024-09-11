@@ -1,9 +1,9 @@
 ---
-name: 'SUPERHOT: MIND CONTROL DELETE'
-name_sort: ''
-rating: 0
+name: "SUPERHOT: MIND CONTROL DELETE"
+name_sort: ""
+rating: 48
 active: false
-progress: ''
+progress: started
 hours_played: 1
 purchased_on: .nan
 started_on: .nan
@@ -12,8 +12,7 @@ completed_on: .nan
 mastered_on: .nan
 identifiers:
   - type: steam
-    appid: '690040'
-    name: 'SUPERHOT: MIND CONTROL DELETE'
-    synced_on: '2024-08-30'
-
+    appid: "690040"
+    name: "SUPERHOT: MIND CONTROL DELETE"
+    synced_on: 2024-08-30
 ---

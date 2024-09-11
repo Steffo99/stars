@@ -1,7 +1,7 @@
 ---
 name: Helltaker
 name_sort: ""
-rating: 0
+rating: 69
 active: false
 progress: 
 hours_played: 3

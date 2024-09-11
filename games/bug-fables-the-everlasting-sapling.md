@@ -2,7 +2,7 @@
 name: "Bug Fables: The Everlasting Sapling"
 name_sort: ""
 rating: 0
-active: true
+active: false
 progress: started
 hours_played: 6
 purchased_on: .nan

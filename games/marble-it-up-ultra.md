@@ -1,7 +1,7 @@
 ---
 name: Marble It Up! Ultra
 name_sort: ""
-rating: 76
+rating: 72
 active: true
 progress: started
 hours_played: 5

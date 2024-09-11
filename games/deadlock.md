@@ -2,7 +2,7 @@
 name: Deadlock
 name_sort: ""
 rating: 88
-active: true
+active: false
 progress: notapplicable
 hours_played: 43
 purchased_on: .nan

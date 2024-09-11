@@ -1,7 +1,7 @@
 ---
 name: Duck Game
 name_sort: 
-rating: 97
+rating: 99
 active: false
 progress: started
 hours_played: 61

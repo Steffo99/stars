@@ -1,9 +1,9 @@
 ---
-name: 'Men of War: Assault Squad'
-name_sort: ''
+name: "Men of War: Assault Squad"
+name_sort: ""
 rating: 0
 active: false
-progress: ''
+progress: new
 hours_played: 0
 purchased_on: .nan
 started_on: .nan
@@ -12,8 +12,7 @@ completed_on: .nan
 mastered_on: .nan
 identifiers:
   - type: steam
-    appid: '64000'
-    name: 'Men of War: Assault Squad'
-    synced_on: '2024-08-30'
-
+    appid: "64000"
+    name: "Men of War: Assault Squad"
+    synced_on: 2024-08-30
 ---

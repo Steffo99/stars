@@ -1,7 +1,7 @@
 ---
 name: Pikuniku
 name_sort: ""
-rating: 85
+rating: 86
 active: false
 progress: beaten
 hours_played: 3

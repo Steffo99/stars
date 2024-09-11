@@ -1,7 +1,7 @@
 ---
 name: Deep Rock Galactic
 name_sort: 
-rating: 71
+rating: 72
 active: false
 progress: beaten
 hours_played: 174

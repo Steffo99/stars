@@ -1,9 +1,9 @@
 ---
 name: Tower Unite
-name_sort: ''
-rating: 0
+name_sort: ""
+rating: 95
 active: false
-progress: ''
+progress: notapplicable
 hours_played: 129
 purchased_on: .nan
 started_on: .nan
@@ -12,8 +12,7 @@ completed_on: .nan
 mastered_on: .nan
 identifiers:
   - type: steam
-    appid: '394690'
+    appid: "394690"
     name: Tower Unite
-    synced_on: '2024-08-30'
-
+    synced_on: 2024-08-30
 ---

@@ -1,9 +1,9 @@
 ---
 name: Devolver Bootleg
-name_sort: ''
+name_sort: ""
 rating: 0
 active: false
-progress: ''
+progress: new
 hours_played: 1
 purchased_on: .nan
 started_on: .nan
@@ -12,8 +12,7 @@ completed_on: .nan
 mastered_on: .nan
 identifiers:
   - type: steam
-    appid: '1066260'
+    appid: "1066260"
     name: Devolver Bootleg
-    synced_on: '2024-08-30'
-
+    synced_on: 2024-08-30
 ---

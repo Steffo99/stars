@@ -1,7 +1,7 @@
 ---
 name: Enter the Gungeon
-name_sort: ''
-rating: 73
+name_sort: ""
+rating: 75
 active: false
 progress: beaten
 hours_played: 131
@@ -12,8 +12,7 @@ completed_on: .nan
 mastered_on: .nan
 identifiers:
   - type: steam
-    appid: '311690'
+    appid: "311690"
     name: Enter the Gungeon
-    synced_on: '2024-08-30'
-
+    synced_on: 2024-08-30
 ---
