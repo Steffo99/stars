@@ -3,7 +3,7 @@ name: Helltaker
 name_sort: ""
 rating: 69
 active: false
-progress: 
+progress: completed
 hours_played: 3
 purchased_on: .nan
 started_on: .nan

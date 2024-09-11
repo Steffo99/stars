@@ -3,7 +3,7 @@ name: Goat Simulator
 name_sort: ""
 rating: 44
 active: false
-progress: 
+progress: notapplicable
 hours_played: 3
 purchased_on: .nan
 started_on: .nan

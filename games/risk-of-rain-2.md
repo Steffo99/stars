@@ -3,7 +3,7 @@ name: Risk of Rain 2
 name_sort: ""
 rating: 67
 active: false
-progress: ""
+progress: beaten
 hours_played: 116
 purchased_on: .nan
 started_on: .nan

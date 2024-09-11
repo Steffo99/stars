@@ -3,7 +3,7 @@ name: Portal 2
 name_sort: ""
 rating: 96
 active: false
-progress: ""
+progress: completed
 hours_played: 49
 purchased_on: .nan
 started_on: .nan

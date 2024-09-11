@@ -3,7 +3,7 @@ name: Risk of Rain Returns
 name_sort: Risk of Rain 1.2
 rating: 90
 active: false
-progress: ""
+progress: beaten
 hours_played: 31
 purchased_on: .nan
 started_on: .nan

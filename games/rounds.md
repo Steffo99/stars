@@ -3,7 +3,7 @@ name: ROUNDS
 name_sort: 
 rating: 57
 active: false
-progress: ""
+progress: notapplicable
 hours_played: 6
 purchased_on: .nan
 started_on: .nan

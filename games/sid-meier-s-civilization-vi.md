@@ -3,7 +3,7 @@ name: Sid Meier's Civilization VI
 name_sort: ""
 rating: 56
 active: false
-progress: ""
+progress: notapplicable
 hours_played: 51
 purchased_on: .nan
 started_on: .nan

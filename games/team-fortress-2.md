@@ -3,7 +3,7 @@ name: Team Fortress 2
 name_sort: ""
 rating: 71
 active: false
-progress: ""
+progress: notapplicable
 hours_played: 175
 purchased_on: .nan
 started_on: .nan

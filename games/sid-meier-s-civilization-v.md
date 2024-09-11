@@ -3,7 +3,7 @@ name: Sid Meier's Civilization V
 name_sort: ""
 rating: 84
 active: false
-progress: ""
+progress: notapplicable
 hours_played: 224
 purchased_on: .nan
 started_on: .nan

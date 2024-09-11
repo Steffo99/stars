@@ -3,7 +3,7 @@ name: Moon Hunters
 name_sort: ""
 rating: 45
 active: false
-progress: ""
+progress: started
 hours_played: 3
 purchased_on: .nan
 started_on: .nan

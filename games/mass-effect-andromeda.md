@@ -3,7 +3,7 @@ name: "Mass Effect: Andromeda"
 name_sort: Mass Effect 4
 rating: 43
 active: false
-progress: ""
+progress: started
 hours_played: 5
 purchased_on: .nan
 started_on: .nan
