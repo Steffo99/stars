@@ -1,7 +1,7 @@
 ---
 name: Regular Human Basketball
 name_sort: ""
-rating: 0
+rating: 62
 active: false
 progress: notapplicable
 hours_played: 1

@@ -1,6 +1,6 @@
 ---
-name: "Sid Meier's Civilization III: Complete"
-name_sort: "Sid Meier's Civilization 3: Complete"
+name: Sid Meier's Civilization III
+name_sort: Sid Meier's Civilization 3
 rating: 0
 active: false
 progress: notapplicable

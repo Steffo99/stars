@@ -1,7 +1,7 @@
 ---
 name: Super Meat Boy
 name_sort: ""
-rating: 0
+rating: 63
 active: false
 progress: started
 hours_played: 5

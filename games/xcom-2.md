@@ -1,7 +1,7 @@
 ---
 name: XCOM 2
 name_sort: XCOM 3
-rating: 0
+rating: 61
 active: false
 progress: started
 hours_played: 19

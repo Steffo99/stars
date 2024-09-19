@@ -1,7 +1,7 @@
 ---
 name: War Thunder
 name_sort: ""
-rating: 0
+rating: 48
 active: false
 progress: notapplicable
 hours_played: 75

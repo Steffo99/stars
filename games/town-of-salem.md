@@ -1,7 +1,7 @@
 ---
 name: Town of Salem
 name_sort: ""
-rating: 0
+rating: 67
 active: false
 progress: notapplicable
 hours_played: 142

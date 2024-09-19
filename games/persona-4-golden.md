@@ -1,7 +1,7 @@
 ---
 name: Persona 4 Golden
 name_sort: ""
-rating: 72
+rating: 74
 active: false
 progress: beaten
 hours_played: 66

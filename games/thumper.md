@@ -1,7 +1,7 @@
 ---
 name: Thumper
 name_sort: ""
-rating: 79
+rating: 76
 active: false
 progress: started
 hours_played: 3

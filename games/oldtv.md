@@ -1,7 +1,7 @@
 ---
 name: OLDTV
 name_sort: ""
-rating: 0
+rating: 36
 active: false
 progress: notapplicable
 hours_played: 1
@@ -16,3 +16,4 @@ identifiers:
     name: OLDTV
     synced_on: 2024-08-30
 ---
+The game is kinda fun, but there are a couple things in bad taste, such as the audio clip of [[Donald Trump]] saying "We must build a wall" in the America chapter...

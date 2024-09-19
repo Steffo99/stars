@@ -1,7 +1,7 @@
 ---
 name: TowerClimb
-name_sort: ""
-rating: 0
+name_sort: 
+rating: 91
 active: false
 progress: started
 hours_played: 20

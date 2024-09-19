@@ -1,7 +1,7 @@
 ---
 name: Frog Fractions
 name_sort: ""
-rating: 69
+rating: 70
 active: false
 progress: completed
 hours_played: 1

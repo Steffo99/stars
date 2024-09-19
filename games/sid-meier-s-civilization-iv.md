@@ -1,7 +1,7 @@
 ---
 name: Sid Meier's Civilization IV
 name_sort: Sid Meier's Civilization 4
-rating: 0
+rating: 82
 active: false
 progress: notapplicable
 hours_played: 1

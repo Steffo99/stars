@@ -1,7 +1,7 @@
 ---
 name: Split or Steal
-name_sort: ""
-rating: 22
+name_sort: 
+rating: 40
 active: false
 progress: notapplicable
 hours_played: 1

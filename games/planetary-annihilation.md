@@ -1,7 +1,7 @@
 ---
-name: "Planetary Annihilation: TITANS"
-name_sort: ""
-rating: 0
+name: Planetary Annihilation
+name_sort: 
+rating: 75
 active: false
 progress: started
 hours_played: 44
