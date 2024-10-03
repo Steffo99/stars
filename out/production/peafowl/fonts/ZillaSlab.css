@@ -1,0 +1,13 @@
+@font-face {
+    font-family: "Zilla Slab";
+    font-weight: 400;
+    src: url("ZillaSlab-Regular.woff2") format("woff2");
+    size-adjust: 110%;
+}
+
+@font-face {
+    font-family: "Zilla Slab";
+    font-weight: 700;
+    src: url("ZillaSlab-Bold.woff2") format("woff2");
+    size-adjust: 110%;
+}

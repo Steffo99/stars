@@ -1,0 +1,13 @@
+@font-face {
+	font-family: "Fira Sans";
+	font-weight: 400;
+	src: url("FiraSans-Regular.woff2") format("woff2");
+	size-adjust: 110%;
+}
+
+@font-face {
+	font-family: "Fira Sans";
+	font-weight: 700;
+	src: url("FiraSans-Bold.woff2") format("woff2");
+	size-adjust: 110%;
+}

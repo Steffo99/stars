@@ -1,0 +1,535 @@
+@import "../fonts/ZillaSlab.css";
+@import "../fonts/FiraSans.css";
+@import "../fonts/FiraCode.css";
+@import "../fonts/FontAwesomePro.css";
+
+:root {
+    --font-title: "Zilla Slab", serif;
+    --font-text: "Fira Sans", sans-serif;
+    --font-mono: "Fira Code", monospace;
+
+    --color-body: #1E1E1E;
+    --color-body-over: #FFFFFF;
+
+    --color-link: #99ffff;
+
+    --color-unset: #474747;
+    --color-unset-over: #FFFFFF;
+    --image-unset: linear-gradient(var(--color-unset));
+
+    --color-bad: #FF0000;
+    --color-bad-over: #FFFFFF;
+
+    --color-mixed: #FFD300;
+    --color-mixed-over: #000000;
+
+    --color-good: #00FF00;
+    --color-good-over: #000000;
+
+    --color-perfect: #531DFF;
+    --color-perfect-over: #FFFFFF;
+
+    --color-new: #394739;
+    --color-new-over: #a8e0a8;
+    --image-new: linear-gradient(0deg, #394739 0%, #496149 100%);
+
+    --color-started: #82562b;
+    --color-started-over: #ffe1bf;
+    --gradient-started: linear-gradient(45deg, #a86747 0%, #50382b 100%);
+
+    --color-beaten: #a6a6a6;
+    --color-beaten-over: #111111;
+    --gradient-beaten: radial-gradient(#dddddd 0%, #737373 100%);
+
+    --color-completed: #b37e36;
+    --color-completed-over: #6c3200;
+    --gradient-completed: linear-gradient(105deg, #cd6d1d 0%, #ffea00 50%, #cd6d1d 100%);
+
+    --color-mastered: #33b4ff;
+    --color-mastered-over: #58ffff;
+    --gradient-mastered: conic-gradient(from 180deg at 50% 71%, #0055ff 0%, #000070 50%, #0055ff 100%);
+
+    --color-notapplicable: #812281;
+    --color-notapplicable-over: #ff6dff;
+    --gradient-notapplicable: radial-gradient(#220f22 0%, #812281 150%);
+
+    --color-current: var(--color-body-over);
+    --color-current-over: var(--color-body);
+}
+
+@media print, (prefers-color-scheme: light) {
+    :root {
+        --color-body: #FFFFFF;
+        --color-body-over: #1E1E1E;
+
+        --color-link: #006666;
+    }
+}
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+
+    display: grid;
+    grid-template-areas:
+		". . ."
+		"h h h"
+		". m ."
+		". . .";
+    grid-template-rows: 0 auto auto 0;
+    grid-template-columns: 1fr auto 1fr;
+    row-gap: 16px;
+    column-gap: 16px;
+
+    font-family: var(--font-text), sans-serif;
+    font-size: 15px;
+
+    background-color: var(--color-body);
+    color: var(--color-body-over);
+}
+
+@media screen and (max-width: 816px) {
+    body {
+        grid-template-columns: 0 1fr 0;
+    }
+}
+
+main {
+    grid-area: m;
+    width: 800px;
+}
+
+@media screen and (max-width: 816px) {
+    main {
+        width: 100%;
+    }
+}
+
+header {
+    grid-area: h;
+
+    text-align: center;
+}
+
+header h1 {
+    font-size: 2rem;
+
+    margin: 0;
+}
+
+header div {
+    font-size: 1rem;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: var(--font-title), serif;
+}
+
+:is(h1, h2, h3, h4, h5, h6) small {
+    margin-left: 12px;
+}
+
+a {
+    color: var(--color-link);
+
+    text-decoration: 1px solid var(--color-link) underline;
+}
+
+/* Kind of an hack but ok */
+a[href] i[class^="fa-"]::before {
+    text-decoration: 1px solid currentColor underline;
+    vertical-align: text-top;
+}
+
+*[title] {
+    cursor: help;
+}
+
+abbr[title] i[class^="fa-"]::before {
+    text-decoration: 1px dotted currentColor underline;
+    vertical-align: text-top;
+}
+
+.flex {
+    --gap: 2rem;
+
+    display: flex;
+    flex-wrap: wrap;
+    gap: var(--gap);
+}
+
+.flex-v .flex-v {
+    --gap: 1rem;
+}
+
+.flex-v .flex-v .flex-v {
+    --gap: 0.5rem;
+}
+
+.flex-v {
+    flex-direction: column;
+    flex-wrap: nowrap;
+}
+
+.flex.flex-v > * {
+    flex-grow: 0;
+}
+
+.flex :is(h1, h2, h3, h4, h5, h6):first-child {
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+.flex > * {
+    flex-grow: 1;
+    flex-shrink: 0;
+
+    /* This is probably a bad idea */
+    min-width: 320px;
+}
+
+.flex-1 > * {
+    width: calc(100% / 2);
+}
+
+.flex-2 > * {
+    width: calc(100% / 3);
+}
+
+div:has(> table) {
+    width: 100%;
+    overflow-x: auto;
+}
+
+div > table {
+    width: 100%;
+}
+
+tr {
+    height: 38px;
+}
+
+tr.priority-rating.rating-unset, .priority-mixed.rating-unset td:is(.review-rating, .review-date, .review-name, .review-hascontent), .reviewinfo.rating-unset {
+    --color-current: var(--color-unset);
+    --color-current-over: var(--color-unset-over);
+}
+
+tr.priority-rating.rating-bad, .priority-mixed.rating-bad td:is(.review-rating, .review-date, .review-name, .review-hascontent), .reviewinfo.rating-bad {
+    --color-current: var(--color-bad);
+    --color-current-over: var(--color-bad-over);
+}
+
+tr.priority-rating.rating-mixed, .priority-mixed.rating-mixed td:is(.review-rating, .review-date, .review-name, .review-hascontent), .reviewinfo.rating-mixed {
+    --color-current: var(--color-mixed);
+    --color-current-over: var(--color-mixed-over);
+}
+
+tr.priority-rating.rating-good, .priority-mixed.rating-good td:is(.review-rating, .review-date, .review-name, .review-hascontent), .reviewinfo.rating-good {
+    --color-current: var(--color-good);
+    --color-current-over: var(--color-good-over);
+}
+
+tr.priority-rating.rating-perfect, .priority-mixed.rating-perfect td:is(.review-rating, .review-date, .review-name, .review-hascontent), .reviewinfo.rating-perfect {
+    --color-current: var(--color-perfect);
+    --color-current-over: var(--color-perfect-over);
+}
+
+tr.priority-progress.progress-unset, .priority-mixed.progress-unset td:is(.game-progress, .game-hoursplayed) {
+    --color-current: var(--color-unset);
+    --color-current-over: var(--color-unset-over);
+}
+
+tr.priority-progress.progress-new, .priority-mixed.progress-new td:is(.game-progress, .game-hoursplayed) {
+    --color-current: var(--color-new);
+    --color-current-over: var(--color-new-over);
+}
+
+tr.priority-progress.progress-started, .priority-mixed.progress-started td:is(.game-progress, .game-hoursplayed) {
+    --color-current: var(--color-started);
+    --color-current-over: var(--color-started-over);
+}
+
+tr.priority-progress.progress-beaten, .priority-mixed.progress-beaten td:is(.game-progress, .game-hoursplayed) {
+    --color-current: var(--color-beaten);
+    --color-current-over: var(--color-beaten-over);
+}
+
+tr.priority-progress.progress-completed, .priority-mixed.progress-completed td:is(.game-progress, .game-hoursplayed) {
+    --color-current: var(--color-completed);
+    --color-current-over: var(--color-completed-over);
+}
+
+tr.priority-progress.progress-mastered, .priority-mixed.progress-mastered td:is(.game-progress, .game-hoursplayed) {
+    --color-current: var(--color-mastered);
+    --color-current-over: var(--color-mastered-over);
+}
+
+tr.priority-progress.progress-notapplicable, .priority-mixed.progress-notapplicable td:is(.game-progress, .game-hoursplayed) {
+    --color-current: var(--color-notapplicable);
+    --color-current-over: var(--color-notapplicable-over);
+}
+
+td, th {
+    padding: 6px;
+    border-bottom: 1px solid color-mix(in srgb, var(--color-current) 30%, transparent);
+}
+
+thead th {
+    border-bottom: 2px solid var(--color-current);
+}
+
+tbody th {
+    font-family: var(--font-title), serif;
+    font-weight: 700;
+}
+
+td.review-rating, td.game-progress {
+    border-bottom: 0;
+
+    font-family: var(--font-title), serif;
+    font-weight: 700;
+}
+
+td.rating-unset {
+    background-color: var(--color-unset);
+    color: var(--color-unset-over);
+}
+
+td.rating-bad {
+    background-color: var(--color-bad);
+    color: var(--color-bad-over);
+}
+
+td.rating-mixed {
+    background-color: var(--color-mixed);
+    color: var(--color-mixed-over);
+}
+
+td.rating-good {
+    background-color: var(--color-good);
+    color: var(--color-good-over);
+}
+
+td.rating-perfect {
+    background-color: var(--color-perfect);
+    color: var(--color-perfect-over);
+}
+
+td.progress-unset, .reviewinfo-metadata-content.game-progress.progress-unset .reviewinfo-metadata-icon {
+    background-image: var(--image-unset);
+    background-color: var(--color-unset);
+    color: var(--color-unset-over);
+}
+
+td.progress-new, .reviewinfo-metadata-content.game-progress.progress-new .reviewinfo-metadata-icon {
+    background-image: var(--image-new);
+    background-color: var(--color-new);
+    color: var(--color-new-over);
+}
+
+td.progress-started, .reviewinfo-metadata-content.game-progress.progress-started .reviewinfo-metadata-icon {
+    background-image: var(--gradient-started);
+    background-color: var(--color-started);
+    color: var(--color-started-over);
+}
+
+td.progress-beaten, .reviewinfo-metadata-content.game-progress.progress-beaten .reviewinfo-metadata-icon {
+    background-image: var(--gradient-beaten);
+    background-color: var(--color-beaten);
+    color: var(--color-beaten-over);
+}
+
+td.progress-completed, .reviewinfo-metadata-content.game-progress.progress-completed .reviewinfo-metadata-icon {
+    background-image: var(--gradient-completed);
+    background-color: var(--color-completed);
+    color: var(--color-completed-over);
+}
+
+td.progress-mastered, .reviewinfo-metadata-content.game-progress.progress-mastered .reviewinfo-metadata-icon {
+    background-image: var(--gradient-mastered);
+    background-color: var(--color-mastered);
+    color: var(--color-mastered-over);
+}
+
+td.progress-notapplicable, .reviewinfo-metadata-content.game-progress.progress-notapplicable .reviewinfo-metadata-icon {
+    background-image: var(--gradient-notapplicable);
+    background-color: var(--color-notapplicable);
+    color: var(--color-notapplicable-over);
+}
+
+td.review-rating, td.game-progress {
+    width: 38px;
+    height: 38px;
+    min-width: 38px;
+    min-height: 38px;
+    text-align: center;
+}
+
+td.review-date {
+    font-family: var(--font-mono), monospace;
+    text-align: center;
+
+    width: 108px;
+    min-width: 108px;
+}
+
+td.game-hoursplayed {
+    text-align: right;
+
+    width: 66px;
+    min-width: 66px;
+}
+
+:is(.review-date, .game-hoursplayed, .game-purchasedon, .game-startedon, .game-beatenon, .game-completedon, .game-masteredon) :is(data, time) {
+    font-family: var(--font-mono), monospace;
+}
+
+td.review-hascontent {
+    width: 28px;
+}
+
+.reviewinfo {
+    --size-rating: 96px;
+    --size-bar: 12px;
+
+    display: grid;
+    grid-template-areas:
+		"rating name"
+		"base empty"
+		"metadata metadata"
+		"content content";
+    grid-template-rows:
+		auto
+		var(--size-bar)
+		auto
+		1fr;
+    grid-template-columns: var(--size-rating) 1fr;
+}
+
+@media screen and (max-width: 816px) {
+	.reviewinfo {
+		--size-rating: 64px;
+		--size-bar: 8px;
+	}
+}
+
+.reviewinfo-rating {
+    grid-area: rating;
+    min-height: calc(var(--size-rating) - var(--size-bar));
+
+	display: flex;
+	justify-content: center;
+	align-items: center;
+
+    background-color: var(--color-current);
+    color: var(--color-current-over);
+
+	font-family: var(--font-title), var(--font-mono), monospace, serif;
+	font-weight: 700;
+}
+
+.reviewinfo-name {
+    grid-area: name;
+	display: flex;
+	justify-content: left;
+	align-items: center;
+
+	margin-top: 0;
+	margin-bottom: 0;
+	margin-left: var(--size-bar);
+}
+
+.reviewinfo-rating, .reviewinfo-name {
+	font-size: 3rem;
+}
+
+@media screen and (max-width: 816px) {
+	.reviewinfo-rating, .reviewinfo-name {
+		font-size: 2rem;
+	}
+}
+
+.reviewinfo-bar-base {
+    grid-area: base;
+
+	background-color: var(--color-current);
+	color: var(--color-current-over);
+}
+
+.reviewinfo-bar-empty {
+    grid-area: empty;
+
+	background-color: color-mix(in srgb, var(--color-current) 30%, transparent);
+	color: var(--color-current-over);
+}
+
+.reviewinfo-bar-fill {
+    height: 100%;
+
+	background-color: var(--color-current);
+	color: var(--color-current-over);
+}
+
+.reviewinfo-metadata {
+    grid-area: metadata;
+
+	padding: var(--size-bar);
+
+    display: grid;
+    grid-template-columns: auto 1fr;
+    grid-column-gap: var(--size-bar);
+    grid-row-gap: calc(var(--size-bar) / 2);
+
+	background-color: color-mix(in srgb, var(--color-current) 10%, transparent);
+}
+
+.reviewinfo-metadata * {
+    display: flex;
+    align-items: center;
+
+    height: 32px;
+}
+
+.reviewinfo-metadata-label {
+    grid-column: 1;
+
+    justify-content: start;
+
+	font-family: var(--font-title), serif;
+	font-weight: 700;
+
+    width: 108px;
+}
+
+.reviewinfo-metadata-content {
+    grid-column: 2;
+
+    justify-content: start;
+    gap: 1ch;
+}
+
+.reviewinfo-metadata-icon {
+    justify-content: center;
+    align-items: center;
+
+    height: 32px;
+    width: 32px;
+
+    border-radius: 100%;
+    background-color: color-mix(in srgb, var(--color-current) 20%, transparent);
+}
+
+.reviewinfo-metadata hr {
+	grid-column: 1 / 3;
+	width: 100%;
+    height: 0;
+
+	border: 2px solid color-mix(in srgb, var(--color-current) 20%, transparent);
+}
+
+.reviewinfo-content {
+    grid-area: content;
+}
