@@ -1,6 +1,6 @@
 ---
-name: "Red Orchestra 2: Heroes of Stalingrad"
-name_sort: ""
+name: 'Red Orchestra 2: Heroes of Stalingrad'
+name_sort: ''
 rating: 0
 active: false
 progress: new
@@ -12,7 +12,8 @@ completed_on: .nan
 mastered_on: .nan
 identifiers:
   - type: steam
-    appid: "236830"
-    name: "Red Orchestra 2: Heroes of Stalingrad - Single Player"
-    synced_on: 2024-08-30
+    appid: '236830'
+    name: 'Red Orchestra 2: Heroes of Stalingrad - Single Player'
+    synced_on: '2024-10-04'
+
 ---

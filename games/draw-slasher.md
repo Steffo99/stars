@@ -1,6 +1,6 @@
 ---
 name: Draw Slasher
-name_sort: ""
+name_sort: ''
 rating: 0
 active: false
 progress: new
@@ -12,7 +12,8 @@ completed_on: .nan
 mastered_on: .nan
 identifiers:
   - type: steam
-    appid: "418270"
+    appid: '418270'
     name: Draw Slasher
-    synced_on: 2024-08-30
+    synced_on: '2024-10-04'
+
 ---

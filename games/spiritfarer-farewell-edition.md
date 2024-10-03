@@ -1,6 +1,6 @@
 ---
-name: "Spiritfarer: Farewell Edition"
-name_sort: ""
+name: 'Spiritfarer: Farewell Edition'
+name_sort: ''
 rating: 0
 active: false
 progress: new
@@ -12,7 +12,8 @@ completed_on: .nan
 mastered_on: .nan
 identifiers:
   - type: steam
-    appid: "972660"
-    name: "Spiritfarer®: Farewell Edition"
-    synced_on: 2024-08-30
+    appid: '972660'
+    name: 'Spiritfarer®: Farewell Edition'
+    synced_on: '2024-10-04'
+
 ---

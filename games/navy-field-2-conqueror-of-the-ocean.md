@@ -1,6 +1,6 @@
 ---
-name: "Navy Field 2: Conqueror of the Ocean"
-name_sort: ""
+name: 'Navy Field 2: Conqueror of the Ocean'
+name_sort: ''
 rating: 0
 active: false
 progress: new
@@ -12,7 +12,8 @@ completed_on: .nan
 mastered_on: .nan
 identifiers:
   - type: steam
-    appid: "338540"
-    name: "Navy Field 2 : Conqueror of the Ocean"
-    synced_on: 2024-08-30
+    appid: '338540'
+    name: 'Navy Field 2 : Conqueror of the Ocean'
+    synced_on: '2024-10-04'
+
 ---

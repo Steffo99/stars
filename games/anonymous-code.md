@@ -1,6 +1,6 @@
 ---
 name: ANONYMOUS;CODE
-name_sort: ""
+name_sort: ''
 rating: 89
 active: false
 progress: completed
@@ -12,7 +12,8 @@ completed_on: .nan
 mastered_on: .nan
 identifiers:
   - type: steam
-    appid: "2291020"
+    appid: '2291020'
     name: ANONYMOUS;CODE
-    synced_on: 2024-08-30
+    synced_on: '2024-10-04'
+
 ---

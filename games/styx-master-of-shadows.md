@@ -1,6 +1,6 @@
 ---
-name: "Styx: Master of Shadows"
-name_sort: ""
+name: 'Styx: Master of Shadows'
+name_sort: ''
 rating: 0
 active: false
 progress: new
@@ -12,7 +12,8 @@ completed_on: .nan
 mastered_on: .nan
 identifiers:
   - type: steam
-    appid: "242640"
-    name: "Styx: Master of Shadows"
-    synced_on: 2024-08-30
+    appid: '242640'
+    name: 'Styx: Master of Shadows'
+    synced_on: '2024-10-04'
+
 ---

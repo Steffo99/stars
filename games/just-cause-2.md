@@ -1,6 +1,6 @@
 ---
 name: Just Cause 2
-name_sort: ""
+name_sort: ''
 rating: 73
 active: false
 progress: started
@@ -12,7 +12,8 @@ completed_on: .nan
 mastered_on: .nan
 identifiers:
   - type: steam
-    appid: "8190"
+    appid: '8190'
     name: Just Cause 2
-    synced_on: 2024-08-30
+    synced_on: '2024-10-04'
+
 ---

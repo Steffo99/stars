@@ -1,6 +1,6 @@
 ---
 name: No Time To Explain Remastered
-name_sort: ""
+name_sort: ''
 rating: 0
 active: false
 progress: new
@@ -12,7 +12,8 @@ completed_on: .nan
 mastered_on: .nan
 identifiers:
   - type: steam
-    appid: "368730"
+    appid: '368730'
     name: No Time To Explain Remastered
-    synced_on: 2024-08-30
+    synced_on: '2024-10-04'
+
 ---

@@ -1,6 +1,6 @@
 ---
 name: Star Wars Empire at War
-name_sort: 
+name_sort: ''
 rating: 68
 active: false
 progress: started
@@ -12,7 +12,8 @@ completed_on: .nan
 mastered_on: .nan
 identifiers:
   - type: steam
-    appid: "32470"
-    name: "STAR WARS™ Empire at War: Gold Pack"
-    synced_on: 2024-08-30
+    appid: '32470'
+    name: 'STAR WARS™ Empire at War: Gold Pack'
+    synced_on: '2024-10-04'
+
 ---

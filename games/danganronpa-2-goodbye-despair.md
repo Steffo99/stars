@@ -14,6 +14,6 @@ identifiers:
   - type: steam
     appid: '413420'
     name: 'Danganronpa 2: Goodbye Despair'
-    synced_on: '2024-08-30'
+    synced_on: '2024-10-04'
 
 ---

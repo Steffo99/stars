@@ -1,6 +1,6 @@
 ---
 name: GTFO
-name_sort: ""
+name_sort: ''
 rating: 41
 active: false
 progress: started
@@ -12,8 +12,9 @@ completed_on: .nan
 mastered_on: .nan
 identifiers:
   - type: steam
-    appid: "493520"
+    appid: '493520'
     name: GTFO
-    synced_on: 2024-08-30
+    synced_on: '2024-10-04'
+
 ---
 Gives me a very strong motion sickness...

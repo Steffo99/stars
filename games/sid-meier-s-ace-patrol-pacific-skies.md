@@ -1,6 +1,6 @@
 ---
-name: "Sid Meier's Ace Patrol: Pacific Skies"
-name_sort: ""
+name: 'Sid Meier''s Ace Patrol: Pacific Skies'
+name_sort: ''
 rating: 0
 active: false
 progress: new
@@ -12,7 +12,8 @@ completed_on: .nan
 mastered_on: .nan
 identifiers:
   - type: steam
-    appid: "244090"
-    name: "Sid Meier's Ace Patrol: Pacific Skies"
-    synced_on: 2024-08-30
+    appid: '244090'
+    name: 'Sid Meier''s Ace Patrol: Pacific Skies'
+    synced_on: '2024-10-04'
+
 ---

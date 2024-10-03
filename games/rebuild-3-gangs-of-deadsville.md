@@ -1,6 +1,6 @@
 ---
-name: "Rebuild 3: Gangs of Deadsville"
-name_sort: ""
+name: 'Rebuild 3: Gangs of Deadsville'
+name_sort: ''
 rating: 0
 active: false
 progress: new
@@ -12,7 +12,8 @@ completed_on: .nan
 mastered_on: .nan
 identifiers:
   - type: steam
-    appid: "257170"
-    name: "Rebuild 3: Gangs of Deadsville"
-    synced_on: 2024-08-30
+    appid: '257170'
+    name: 'Rebuild 3: Gangs of Deadsville'
+    synced_on: '2024-10-04'
+
 ---

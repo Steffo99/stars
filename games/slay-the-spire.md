@@ -1,6 +1,6 @@
 ---
 name: Slay the Spire
-name_sort: ""
+name_sort: ''
 rating: 92
 active: false
 progress: completed
@@ -12,7 +12,8 @@ completed_on: .nan
 mastered_on: .nan
 identifiers:
   - type: steam
-    appid: "646570"
+    appid: '646570'
     name: Slay the Spire
-    synced_on: 2024-08-30
+    synced_on: '2024-10-04'
+
 ---

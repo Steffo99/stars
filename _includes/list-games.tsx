@@ -22,10 +22,16 @@ export default function(data: Lume.Data, helpers: Lume.Helpers) {
                     <a href={helpers.url("/games/feed.rss")}>
                         <i className={"fa-sharp fa-solid fa-rss"}/> Feed
                     </a>
+                    <link
+                        rel="alternate"
+                        type="application/rss+xml"
+                        title="Videogames feed"
+                        href={helpers.url("/games/feed.rss")}
+                    />
                 </small>
                 <small>
                     <a href={helpers.url("/games/index.json")}>
-                        <i className={"fa-sharp fa-solid fa-brackets-curly"}/> JSON
+                        <i className={"fa-sharp fa-solid fa-brackets-curly"}/> Data
                     </a>
                 </small>
             </h2>
@@ -35,12 +41,12 @@ export default function(data: Lume.Data, helpers: Lume.Helpers) {
         </section>
     )
 
-    return (
+    return <>
         <main id={"list-games-main"}>
             {intro_section}
             {games_section}
             <script src={"/_static/scripting/sort.js"}/>
             <script src={"/_static/scripting/installSortOnLoad.js"}/>
         </main>
-    )
+    </>
 }

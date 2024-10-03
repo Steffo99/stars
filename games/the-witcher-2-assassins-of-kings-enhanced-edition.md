@@ -1,6 +1,6 @@
 ---
-name: "The Witcher 2: Assassins of Kings Enhanced Edition"
-name_sort: ""
+name: 'The Witcher 2: Assassins of Kings Enhanced Edition'
+name_sort: ''
 rating: 0
 active: false
 progress: started
@@ -12,7 +12,8 @@ completed_on: .nan
 mastered_on: .nan
 identifiers:
   - type: steam
-    appid: "20920"
-    name: "The Witcher 2: Assassins of Kings Enhanced Edition"
-    synced_on: 2024-08-30
+    appid: '20920'
+    name: 'The Witcher 2: Assassins of Kings Enhanced Edition'
+    synced_on: '2024-10-04'
+
 ---

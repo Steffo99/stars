@@ -1,6 +1,6 @@
 ---
 name: Don't Starve
-name_sort: ""
+name_sort: ''
 rating: 55
 active: false
 progress: started
@@ -12,7 +12,8 @@ completed_on: .nan
 mastered_on: .nan
 identifiers:
   - type: steam
-    appid: "219740"
+    appid: '219740'
     name: Don't Starve
-    synced_on: 2024-08-30
+    synced_on: '2024-10-04'
+
 ---

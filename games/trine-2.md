@@ -14,6 +14,6 @@ identifiers:
   - type: steam
     appid: '35720'
     name: Trine 2
-    synced_on: '2024-08-30'
+    synced_on: '2024-10-04'
 
 ---

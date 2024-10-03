@@ -12,10 +12,12 @@ completed_on: .nan
 mastered_on: .nan
 identifiers:
   - type: steam
-    appid: '359320'
-    name: Elite Dangerous
-    synced_on: '2024-08-30'
-  - type: steam
+    appid: '443080'
+    name: 'Elite Dangerous: Arena'
+    synced_on: '2024-10-04'
+
+---
+m
     appid: '443080'
     name: 'Elite Dangerous: Arena'
     synced_on: '2024-08-30'

@@ -1,6 +1,6 @@
 ---
 name: Emily is Away
-name_sort: 'Emily is Away 1'
+name_sort: Emily is Away 1
 rating: 45
 active: false
 progress: beaten
@@ -14,6 +14,7 @@ identifiers:
   - type: steam
     appid: '417860'
     name: Emily is Away
-    synced_on: '2024-08-30'
+    synced_on: '2024-10-04'
 
 ---
+-

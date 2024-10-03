@@ -1,6 +1,6 @@
 ---
 name: State of Mind
-name_sort: ""
+name_sort: ''
 rating: 0
 active: false
 progress: new
@@ -12,7 +12,8 @@ completed_on: .nan
 mastered_on: .nan
 identifiers:
   - type: steam
-    appid: "437630"
+    appid: '437630'
     name: State of Mind
-    synced_on: 2024-08-30
+    synced_on: '2024-10-04'
+
 ---

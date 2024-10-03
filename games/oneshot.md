@@ -1,6 +1,6 @@
 ---
 name: OneShot
-name_sort: ""
+name_sort: ''
 rating: 83
 active: false
 progress: beaten
@@ -12,7 +12,8 @@ completed_on: .nan
 mastered_on: .nan
 identifiers:
   - type: steam
-    appid: "420530"
+    appid: '420530'
     name: OneShot
-    synced_on: 2024-08-30
+    synced_on: '2024-10-04'
+
 ---

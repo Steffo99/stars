@@ -14,6 +14,6 @@ identifiers:
   - type: steam
     appid: '99910'
     name: Puzzle Pirates
-    synced_on: '2024-08-30'
+    synced_on: '2024-10-04'
 
 ---

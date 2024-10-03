@@ -1,6 +1,6 @@
 ---
-name: "Ryse: Son of Rome"
-name_sort: ""
+name: 'Ryse: Son of Rome'
+name_sort: ''
 rating: 0
 active: false
 progress: new
@@ -12,7 +12,8 @@ completed_on: .nan
 mastered_on: .nan
 identifiers:
   - type: steam
-    appid: "302510"
-    name: "Ryse: Son of Rome"
-    synced_on: 2024-08-30
+    appid: '302510'
+    name: 'Ryse: Son of Rome'
+    synced_on: '2024-10-04'
+
 ---

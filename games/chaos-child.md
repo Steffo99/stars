@@ -14,6 +14,6 @@ identifiers:
   - type: steam
     appid: '970570'
     name: CHAOS;CHILD
-    synced_on: '2024-08-30'
+    synced_on: '2024-10-04'
 
 ---

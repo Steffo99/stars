@@ -1,6 +1,6 @@
 ---
 name: Crusader Kings II
-name_sort: ""
+name_sort: ''
 rating: 64
 active: false
 progress: started
@@ -12,7 +12,8 @@ completed_on: .nan
 mastered_on: .nan
 identifiers:
   - type: steam
-    appid: "203770"
+    appid: '203770'
     name: Crusader Kings II
-    synced_on: 2024-08-30
+    synced_on: '2024-10-04'
+
 ---

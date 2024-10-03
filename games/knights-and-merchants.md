@@ -1,6 +1,6 @@
 ---
 name: Knights and Merchants
-name_sort: ""
+name_sort: ''
 rating: 0
 active: false
 progress: new
@@ -12,7 +12,8 @@ completed_on: .nan
 mastered_on: .nan
 identifiers:
   - type: steam
-    appid: "253900"
+    appid: '253900'
     name: Knights and Merchants
-    synced_on: 2024-08-30
+    synced_on: '2024-10-04'
+
 ---

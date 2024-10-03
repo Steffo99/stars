@@ -1,6 +1,6 @@
 ---
 name: Magicite
-name_sort: 
+name_sort: ''
 rating: 68
 active: false
 progress: completed
@@ -12,8 +12,9 @@ completed_on: .nan
 mastered_on: .nan
 identifiers:
   - type: steam
-    appid: "268750"
+    appid: '268750'
     name: Magicite
-    synced_on: 2024-08-30
+    synced_on: '2024-10-04'
+
 ---
 The single *buggiest* game ever made.

@@ -1,6 +1,6 @@
 ---
-name: "The Elder Scrolls V: Skyrim"
-name_sort: ""
+name: 'The Elder Scrolls V: Skyrim'
+name_sort: ''
 rating: 55
 active: false
 progress: started
@@ -12,7 +12,8 @@ completed_on: .nan
 mastered_on: .nan
 identifiers:
   - type: steam
-    appid: "72850"
-    name: "The Elder Scrolls V: Skyrim"
-    synced_on: 2024-08-30
+    appid: '72850'
+    name: 'The Elder Scrolls V: Skyrim'
+    synced_on: '2024-10-04'
+
 ---

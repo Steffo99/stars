@@ -1,6 +1,6 @@
 ---
-name: "Fahrenheit: Indigo Prophecy Remastered"
-name_sort: ""
+name: 'Fahrenheit: Indigo Prophecy Remastered'
+name_sort: ''
 rating: 0
 active: false
 progress: new
@@ -12,7 +12,8 @@ completed_on: .nan
 mastered_on: .nan
 identifiers:
   - type: steam
-    appid: "312840"
-    name: "Fahrenheit: Indigo Prophecy Remastered"
-    synced_on: 2024-08-30
+    appid: '312840'
+    name: 'Fahrenheit: Indigo Prophecy Remastered'
+    synced_on: '2024-10-04'
+
 ---

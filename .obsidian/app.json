@@ -1,4 +1,4 @@
 {
   "mobilePullAction": "obsidian-git:open-git-view",
-  "promptDelete": false
+  "promptDelete": true
 }

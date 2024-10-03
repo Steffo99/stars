@@ -14,6 +14,6 @@ identifiers:
   - type: steam
     appid: '254020'
     name: 'Commander: Conquest of the Americas Gold'
-    synced_on: '2024-08-30'
+    synced_on: '2024-10-04'
 
 ---

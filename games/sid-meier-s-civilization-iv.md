@@ -12,7 +12,8 @@ completed_on: .nan
 mastered_on: .nan
 identifiers:
   - type: steam
-    appid: "3900"
+    appid: '3900'
     name: Sid Meier's Civilization IV
-    synced_on: 2024-08-30
+    synced_on: '2024-10-04'
+
 ---

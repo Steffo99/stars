@@ -1,6 +1,6 @@
 ---
-name: "The Pirate: Caribbean Hunt"
-name_sort: ""
+name: 'The Pirate: Caribbean Hunt'
+name_sort: ''
 rating: 0
 active: false
 progress: new
@@ -12,7 +12,8 @@ completed_on: .nan
 mastered_on: .nan
 identifiers:
   - type: steam
-    appid: "512470"
-    name: "The Pirate: Caribbean Hunt"
-    synced_on: 2024-08-30
+    appid: '512470'
+    name: 'The Pirate: Caribbean Hunt'
+    synced_on: '2024-10-04'
+
 ---

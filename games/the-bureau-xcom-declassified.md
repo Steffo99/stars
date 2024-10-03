@@ -1,6 +1,6 @@
 ---
-name: "The Bureau: XCOM Declassified"
-name_sort: ""
+name: 'The Bureau: XCOM Declassified'
+name_sort: ''
 rating: 0
 active: false
 progress: new
@@ -12,7 +12,8 @@ completed_on: .nan
 mastered_on: .nan
 identifiers:
   - type: steam
-    appid: "65930"
-    name: "The Bureau: XCOM Declassified"
-    synced_on: 2024-08-30
+    appid: '65930'
+    name: 'The Bureau: XCOM Declassified'
+    synced_on: '2024-10-04'
+
 ---

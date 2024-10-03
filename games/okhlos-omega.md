@@ -1,6 +1,6 @@
 ---
-name: "Okhlos: Omega"
-name_sort: ""
+name: 'Okhlos: Omega'
+name_sort: ''
 rating: 0
 active: false
 progress: new
@@ -12,7 +12,8 @@ completed_on: .nan
 mastered_on: .nan
 identifiers:
   - type: steam
-    appid: "400180"
-    name: "Okhlos: Omega"
-    synced_on: 2024-08-30
+    appid: '400180'
+    name: 'Okhlos: Omega'
+    synced_on: '2024-10-04'
+
 ---

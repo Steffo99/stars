@@ -1,6 +1,6 @@
 ---
 name: ROBOTICS;NOTES ELITE
-name_sort: 'Robotics;Notes 2'
+name_sort: Robotics;Notes 2
 rating: 88
 active: false
 progress: completed
@@ -14,6 +14,7 @@ identifiers:
   - type: steam
     appid: '1111380'
     name: ROBOTICS;NOTES ELITE
-    synced_on: '2024-08-30'
+    synced_on: '2024-10-04'
 
 ---
+-

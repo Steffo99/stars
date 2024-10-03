@@ -1,6 +1,6 @@
 ---
 name: Deep Rock Galactic
-name_sort: 
+name_sort: ''
 rating: 72
 active: false
 progress: beaten
@@ -12,7 +12,8 @@ completed_on: .nan
 mastered_on: .nan
 identifiers:
   - type: steam
-    appid: "548430"
+    appid: '548430'
     name: Deep Rock Galactic
-    synced_on: 2024-08-30
+    synced_on: '2024-10-04'
+
 ---

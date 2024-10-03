@@ -14,6 +14,6 @@ identifiers:
   - type: steam
     appid: '225840'
     name: Sven Co-op
-    synced_on: '2024-08-30'
+    synced_on: '2024-10-04'
 
 ---

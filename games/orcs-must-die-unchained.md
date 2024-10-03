@@ -1,6 +1,6 @@
 ---
 name: Orcs Must Die! Unchained
-name_sort: ""
+name_sort: ''
 rating: 0
 active: false
 progress: new
@@ -12,7 +12,8 @@ completed_on: .nan
 mastered_on: .nan
 identifiers:
   - type: steam
-    appid: "427270"
+    appid: '427270'
     name: Orcs Must Die! Unchained
-    synced_on: 2024-08-30
+    synced_on: '2024-10-04'
+
 ---

@@ -1,6 +1,6 @@
 ---
 name: Tom Clancy's Rainbow Six Siege
-name_sort: ""
+name_sort: ''
 rating: 62
 active: false
 progress: notapplicable
@@ -12,7 +12,8 @@ completed_on: .nan
 mastered_on: .nan
 identifiers:
   - type: steam
-    appid: "359550"
+    appid: '359550'
     name: Tom Clancy's Rainbow Six Siege
-    synced_on: 2024-08-30
+    synced_on: '2024-10-04'
+
 ---

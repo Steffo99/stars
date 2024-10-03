@@ -12,7 +12,8 @@ completed_on: .nan
 mastered_on: .nan
 identifiers:
   - type: steam
-    appid: "203160"
+    appid: '203160'
     name: Tomb Raider
-    synced_on: 2024-08-30
+    synced_on: '2024-10-04'
+
 ---

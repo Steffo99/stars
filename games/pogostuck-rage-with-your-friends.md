@@ -1,6 +1,6 @@
 ---
-name: "Pogostuck: Rage With Your Friends"
-name_sort: ""
+name: 'Pogostuck: Rage With Your Friends'
+name_sort: ''
 rating: 48
 active: false
 progress: started
@@ -12,7 +12,8 @@ completed_on: .nan
 mastered_on: .nan
 identifiers:
   - type: steam
-    appid: "688130"
-    name: "Pogostuck: Rage With Your Friends"
-    synced_on: 2024-08-30
+    appid: '688130'
+    name: 'Pogostuck: Rage With Your Friends'
+    synced_on: '2024-10-04'
+
 ---

@@ -1,6 +1,6 @@
 ---
 name: Road to Ballhalla
-name_sort: ""
+name_sort: ''
 rating: 0
 active: false
 progress: new
@@ -12,7 +12,8 @@ completed_on: .nan
 mastered_on: .nan
 identifiers:
   - type: steam
-    appid: "425410"
+    appid: '425410'
     name: Road to Ballhalla
-    synced_on: 2024-08-30
+    synced_on: '2024-10-04'
+
 ---

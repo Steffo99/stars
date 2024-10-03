@@ -1,6 +1,6 @@
 ---
 name: Life is Strange 2
-name_sort: 'Life is Strange 3'
+name_sort: Life is Strange 3
 rating: 25
 active: false
 progress: started
@@ -14,6 +14,7 @@ identifiers:
   - type: steam
     appid: '532210'
     name: Life is Strange 2
-    synced_on: '2024-08-30'
+    synced_on: '2024-10-04'
 
 ---
+-

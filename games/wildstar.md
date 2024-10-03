@@ -1,6 +1,6 @@
 ---
 name: WildStar
-name_sort: ""
+name_sort: ''
 rating: 0
 active: false
 progress: started
@@ -12,7 +12,8 @@ completed_on: .nan
 mastered_on: .nan
 identifiers:
   - type: steam
-    appid: "376570"
+    appid: '376570'
     name: WildStar
-    synced_on: 2024-08-30
+    synced_on: '2024-10-04'
+
 ---

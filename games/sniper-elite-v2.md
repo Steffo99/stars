@@ -12,7 +12,8 @@ completed_on: .nan
 mastered_on: .nan
 identifiers:
   - type: steam
-    appid: "63380"
+    appid: '63380'
     name: Sniper Elite V2
-    synced_on: 2024-08-30
+    synced_on: '2024-10-04'
+
 ---

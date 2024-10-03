@@ -1,6 +1,6 @@
 ---
-name: "LEGO Batman 3: Beyond Gotham"
-name_sort: ""
+name: 'LEGO Batman 3: Beyond Gotham'
+name_sort: ''
 rating: 0
 active: false
 progress: new
@@ -12,7 +12,8 @@ completed_on: .nan
 mastered_on: .nan
 identifiers:
   - type: steam
-    appid: "313690"
-    name: "LEGO® Batman™ 3: Beyond Gotham"
-    synced_on: 2024-08-30
+    appid: '313690'
+    name: 'LEGO® Batman™ 3: Beyond Gotham'
+    synced_on: '2024-10-04'
+
 ---

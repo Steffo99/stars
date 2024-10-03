@@ -1,6 +1,6 @@
 ---
 name: Rec Room
-name_sort: ""
+name_sort: ''
 rating: 0
 active: false
 progress: notapplicable
@@ -12,7 +12,8 @@ completed_on: .nan
 mastered_on: .nan
 identifiers:
   - type: steam
-    appid: "471710"
+    appid: '471710'
     name: Rec Room
-    synced_on: 2024-08-30
+    synced_on: '2024-10-04'
+
 ---

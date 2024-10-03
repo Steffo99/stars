@@ -1,6 +1,6 @@
 ---
 name: The Jackbox Party Pack 3
-name_sort: ""
+name_sort: ''
 rating: 0
 active: false
 progress: notapplicable
@@ -12,7 +12,8 @@ completed_on: .nan
 mastered_on: .nan
 identifiers:
   - type: steam
-    appid: "434170"
+    appid: '434170'
     name: The Jackbox Party Pack 3
-    synced_on: 2024-08-30
+    synced_on: '2024-10-04'
+
 ---

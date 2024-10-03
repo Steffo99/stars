@@ -1,6 +1,6 @@
 ---
-name: "Sins of a Solar Empire: Rebellion"
-name_sort: ""
+name: 'Sins of a Solar Empire: Rebellion'
+name_sort: ''
 rating: 0
 active: false
 progress: new
@@ -12,7 +12,8 @@ completed_on: .nan
 mastered_on: .nan
 identifiers:
   - type: steam
-    appid: "204880"
-    name: "Sins of a Solar Empire: Rebellion"
-    synced_on: 2024-08-30
+    appid: '204880'
+    name: 'Sins of a Solar Empire: Rebellion'
+    synced_on: '2024-10-04'
+
 ---

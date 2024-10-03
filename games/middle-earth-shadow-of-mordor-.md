@@ -14,6 +14,6 @@ identifiers:
   - type: steam
     appid: '241930'
     name: 'Middle-earth™: Shadow of Mordor™'
-    synced_on: '2024-08-30'
+    synced_on: '2024-10-04'
 
 ---

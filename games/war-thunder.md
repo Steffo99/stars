@@ -1,6 +1,6 @@
 ---
 name: War Thunder
-name_sort: ""
+name_sort: ''
 rating: 48
 active: false
 progress: notapplicable
@@ -12,7 +12,8 @@ completed_on: .nan
 mastered_on: .nan
 identifiers:
   - type: steam
-    appid: "236390"
+    appid: '236390'
     name: War Thunder
-    synced_on: 2024-08-30
+    synced_on: '2024-10-04'
+
 ---

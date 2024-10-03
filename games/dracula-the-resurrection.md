@@ -1,6 +1,6 @@
 ---
-name: "Dracula: The Resurrection"
-name_sort: ""
+name: 'Dracula: The Resurrection'
+name_sort: ''
 rating: 0
 active: false
 progress: new
@@ -12,7 +12,8 @@ completed_on: .nan
 mastered_on: .nan
 identifiers:
   - type: steam
-    appid: "289800"
-    name: "Dracula: The Resurrection"
-    synced_on: 2024-08-30
+    appid: '289800'
+    name: 'Dracula: The Resurrection'
+    synced_on: '2024-10-04'
+
 ---

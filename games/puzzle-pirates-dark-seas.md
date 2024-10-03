@@ -1,5 +1,5 @@
 ---
-name: "Puzzle Pirates: Dark Seas"
+name: 'Puzzle Pirates: Dark Seas'
 name_sort: Puzzle Pirates 2
 rating: 34
 active: false
@@ -12,7 +12,8 @@ completed_on: .nan
 mastered_on: .nan
 identifiers:
   - type: steam
-    appid: "552110"
-    name: "Puzzle Pirates: Dark Seas"
-    synced_on: 2024-08-30
+    appid: '552110'
+    name: 'Puzzle Pirates: Dark Seas'
+    synced_on: '2024-10-04'
+
 ---

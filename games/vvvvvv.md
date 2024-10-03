@@ -1,6 +1,6 @@
 ---
 name: VVVVVV
-name_sort: ""
+name_sort: ''
 rating: 91
 active: false
 progress: beaten
@@ -12,7 +12,8 @@ completed_on: .nan
 mastered_on: .nan
 identifiers:
   - type: steam
-    appid: "70300"
+    appid: '70300'
     name: VVVVVV
-    synced_on: 2024-08-30
+    synced_on: '2024-10-04'
+
 ---

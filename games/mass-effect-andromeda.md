@@ -1,5 +1,5 @@
 ---
-name: "Mass Effect: Andromeda"
+name: 'Mass Effect: Andromeda'
 name_sort: Mass Effect 4
 rating: 43
 active: false
@@ -12,7 +12,8 @@ completed_on: .nan
 mastered_on: .nan
 identifiers:
   - type: steam
-    appid: "1238000"
-    name: "Mass Effect™: Andromeda Deluxe Edition"
-    synced_on: 2024-08-30
+    appid: '1238000'
+    name: 'Mass Effect™: Andromeda Deluxe Edition'
+    synced_on: '2024-10-04'
+
 ---

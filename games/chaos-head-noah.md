@@ -1,6 +1,6 @@
 ---
 name: CHAOS;HEAD NOAH
-name_sort: ""
+name_sort: ''
 rating: 85
 active: false
 progress: completed
@@ -12,7 +12,8 @@ completed_on: .nan
 mastered_on: .nan
 identifiers:
   - type: steam
-    appid: "1961950"
+    appid: '1961950'
     name: CHAOS;HEAD NOAH
-    synced_on: 2024-08-30
+    synced_on: '2024-10-04'
+
 ---

@@ -1,6 +1,6 @@
 ---
 name: Sonic Mania
-name_sort: ""
+name_sort: ''
 rating: 84
 active: false
 progress: completed
@@ -12,7 +12,8 @@ completed_on: .nan
 mastered_on: .nan
 identifiers:
   - type: steam
-    appid: "584400"
+    appid: '584400'
     name: Sonic Mania
-    synced_on: 2024-08-30
+    synced_on: '2024-10-04'
+
 ---

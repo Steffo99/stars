@@ -1,6 +1,6 @@
 ---
 name: Galcon 2
-name_sort: ""
+name_sort: ''
 rating: 0
 active: false
 progress: new
@@ -12,7 +12,8 @@ completed_on: .nan
 mastered_on: .nan
 identifiers:
   - type: steam
-    appid: "294160"
+    appid: '294160'
     name: Galcon 2
-    synced_on: 2024-08-30
+    synced_on: '2024-10-04'
+
 ---

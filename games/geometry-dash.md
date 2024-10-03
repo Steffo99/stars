@@ -1,6 +1,6 @@
 ---
 name: Geometry Dash
-name_sort: ""
+name_sort: ''
 rating: 54
 active: false
 progress: started
@@ -12,7 +12,8 @@ completed_on: .nan
 mastered_on: .nan
 identifiers:
   - type: steam
-    appid: "322170"
+    appid: '322170'
     name: Geometry Dash
-    synced_on: 2024-08-30
+    synced_on: '2024-10-04'
+
 ---

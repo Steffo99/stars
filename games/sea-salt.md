@@ -1,6 +1,6 @@
 ---
 name: Sea Salt
-name_sort: ""
+name_sort: ''
 rating: 43
 active: false
 progress: started
@@ -12,7 +12,8 @@ completed_on: .nan
 mastered_on: .nan
 identifiers:
   - type: steam
-    appid: "983350"
+    appid: '983350'
     name: Sea Salt
-    synced_on: 2024-08-30
+    synced_on: '2024-10-04'
+
 ---

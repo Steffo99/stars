@@ -1,6 +1,6 @@
 ---
 name: Crab Game
-name_sort: ""
+name_sort: ''
 rating: 40
 active: false
 progress: notapplicable
@@ -12,7 +12,8 @@ completed_on: .nan
 mastered_on: .nan
 identifiers:
   - type: steam
-    appid: "1782210"
+    appid: '1782210'
     name: Crab Game
-    synced_on: 2024-08-30
+    synced_on: '2024-10-04'
+
 ---

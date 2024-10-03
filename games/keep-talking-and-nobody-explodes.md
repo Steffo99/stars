@@ -1,6 +1,6 @@
 ---
 name: Keep Talking and Nobody Explodes
-name_sort: ""
+name_sort: ''
 rating: 77
 active: false
 progress: started
@@ -12,7 +12,8 @@ completed_on: .nan
 mastered_on: .nan
 identifiers:
   - type: steam
-    appid: "341800"
+    appid: '341800'
     name: Keep Talking and Nobody Explodes
-    synced_on: 2024-08-30
+    synced_on: '2024-10-04'
+
 ---

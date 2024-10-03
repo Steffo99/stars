@@ -1,6 +1,6 @@
 ---
-name: "Space Pilgrim Episode I: Alpha Centauri"
-name_sort: "Space Pilgrim Episode 1: Alpha Centauri"
+name: 'Space Pilgrim Episode I: Alpha Centauri'
+name_sort: 'Space Pilgrim Episode 1: Alpha Centauri'
 rating: 0
 active: false
 progress: new
@@ -12,7 +12,8 @@ completed_on: .nan
 mastered_on: .nan
 identifiers:
   - type: steam
-    appid: "429470"
-    name: "Space Pilgrim Episode I: Alpha Centauri"
-    synced_on: 2024-08-30
+    appid: '429470'
+    name: 'Space Pilgrim Episode I: Alpha Centauri'
+    synced_on: '2024-10-04'
+
 ---

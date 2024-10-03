@@ -12,7 +12,8 @@ completed_on: .nan
 mastered_on: .nan
 identifiers:
   - type: steam
-    appid: "2225070"
+    appid: '2225070'
     name: Trackmania
-    synced_on: 2024-08-30
+    synced_on: '2024-10-04'
+
 ---

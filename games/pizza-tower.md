@@ -1,7 +1,7 @@
 ---
 name: Pizza Tower
 name_sort: ''
-rating: 91
+rating: 86
 active: false
 progress: beaten
 hours_played: 10
@@ -14,6 +14,6 @@ identifiers:
   - type: steam
     appid: '2231450'
     name: Pizza Tower
-    synced_on: '2024-08-30'
+    synced_on: '2024-10-04'
 
 ---

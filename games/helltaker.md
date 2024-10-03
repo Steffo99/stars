@@ -1,6 +1,6 @@
 ---
 name: Helltaker
-name_sort: ""
+name_sort: ''
 rating: 69
 active: false
 progress: completed
@@ -12,7 +12,8 @@ completed_on: .nan
 mastered_on: .nan
 identifiers:
   - type: steam
-    appid: "1289310"
+    appid: '1289310'
     name: Helltaker
-    synced_on: 2024-08-30
+    synced_on: '2024-10-04'
+
 ---

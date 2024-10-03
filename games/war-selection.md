@@ -1,6 +1,6 @@
 ---
 name: War Selection
-name_sort: ""
+name_sort: ''
 rating: 52
 active: false
 progress: notapplicable
@@ -12,7 +12,8 @@ completed_on: .nan
 mastered_on: .nan
 identifiers:
   - type: steam
-    appid: "1022450"
+    appid: '1022450'
     name: War Selection
-    synced_on: 2024-08-30
+    synced_on: '2024-10-04'
+
 ---

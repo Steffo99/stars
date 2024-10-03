@@ -12,7 +12,8 @@ completed_on: .nan
 mastered_on: .nan
 identifiers:
   - type: steam
-    appid: "1515950"
+    appid: '1515950'
     name: Capcom Arcade Stadium
-    synced_on: 2024-08-30
+    synced_on: '2024-10-04'
+
 ---

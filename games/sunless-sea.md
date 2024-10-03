@@ -1,6 +1,6 @@
 ---
 name: Sunless Sea
-name_sort: ""
+name_sort: ''
 rating: 81
 active: false
 progress: beaten
@@ -12,7 +12,8 @@ completed_on: .nan
 mastered_on: .nan
 identifiers:
   - type: steam
-    appid: "304650"
+    appid: '304650'
     name: Sunless Sea
-    synced_on: 2024-08-30
+    synced_on: '2024-10-04'
+
 ---

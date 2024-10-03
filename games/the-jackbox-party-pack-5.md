@@ -1,6 +1,6 @@
 ---
 name: The Jackbox Party Pack 5
-name_sort: ""
+name_sort: ''
 rating: 0
 active: false
 progress: notapplicable
@@ -12,7 +12,8 @@ completed_on: .nan
 mastered_on: .nan
 identifiers:
   - type: steam
-    appid: "774461"
+    appid: '774461'
     name: The Jackbox Party Pack 5
-    synced_on: 2024-08-30
+    synced_on: '2024-10-04'
+
 ---

@@ -15,7 +15,7 @@ site.copy("_static")
 
 site.data("styles", ["/_static/styles/base.css"])
 site.data("lang", "en")
-site.data("date", "Git Last Modified")
+site.data("date", "Git Created")
 
 site.data("layout", "index.tsx", "/index.md")
 site.data("tags", ["index"], "/index.md")

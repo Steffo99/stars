@@ -1,6 +1,6 @@
 ---
-name: "Dracula 3: The Path of the Dragon"
-name_sort: ""
+name: 'Dracula 3: The Path of the Dragon'
+name_sort: ''
 rating: 0
 active: false
 progress: new
@@ -12,7 +12,8 @@ completed_on: .nan
 mastered_on: .nan
 identifiers:
   - type: steam
-    appid: "289840"
-    name: "Dracula 3: The Path of the Dragon"
-    synced_on: 2024-08-30
+    appid: '289840'
+    name: 'Dracula 3: The Path of the Dragon'
+    synced_on: '2024-10-04'
+
 ---

@@ -1,6 +1,6 @@
 ---
-name: "Trine 4: The Nightmare Prince"
-name_sort: ""
+name: 'Trine 4: The Nightmare Prince'
+name_sort: ''
 rating: 0
 active: false
 progress: new
@@ -12,7 +12,8 @@ completed_on: .nan
 mastered_on: .nan
 identifiers:
   - type: steam
-    appid: "690640"
-    name: "Trine 4: The Nightmare Prince"
-    synced_on: 2024-08-30
+    appid: '690640'
+    name: 'Trine 4: The Nightmare Prince'
+    synced_on: '2024-10-04'
+
 ---

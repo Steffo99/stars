@@ -14,6 +14,6 @@ identifiers:
   - type: steam
     appid: '382050'
     name: Eon Altar
-    synced_on: '2024-08-30'
+    synced_on: '2024-10-04'
 
 ---

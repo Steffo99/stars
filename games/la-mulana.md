@@ -1,6 +1,6 @@
 ---
 name: La-Mulana
-name_sort: ""
+name_sort: ''
 rating: 0
 active: false
 progress: new
@@ -12,7 +12,8 @@ completed_on: .nan
 mastered_on: .nan
 identifiers:
   - type: steam
-    appid: "230700"
+    appid: '230700'
     name: La-Mulana
-    synced_on: 2024-08-30
+    synced_on: '2024-10-04'
+
 ---

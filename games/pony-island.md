@@ -1,6 +1,6 @@
 ---
 name: Pony Island
-name_sort: ""
+name_sort: ''
 rating: 82
 active: false
 progress: beaten
@@ -12,7 +12,8 @@ completed_on: .nan
 mastered_on: .nan
 identifiers:
   - type: steam
-    appid: "405640"
+    appid: '405640'
     name: Pony Island
-    synced_on: 2024-08-30
+    synced_on: '2024-10-04'
+
 ---

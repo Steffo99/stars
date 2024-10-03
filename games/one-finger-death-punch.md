@@ -12,7 +12,8 @@ completed_on: .nan
 mastered_on: .nan
 identifiers:
   - type: steam
-    appid: "264200"
+    appid: '264200'
     name: One Finger Death Punch
-    synced_on: 2024-08-30
+    synced_on: '2024-10-04'
+
 ---

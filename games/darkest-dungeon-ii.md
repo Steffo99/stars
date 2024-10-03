@@ -12,7 +12,8 @@ completed_on: .nan
 mastered_on: .nan
 identifiers:
   - type: steam
-    appid: "1940340"
+    appid: '1940340'
     name: Darkest Dungeon® II
-    synced_on: 2024-08-30
+    synced_on: '2024-10-04'
+
 ---

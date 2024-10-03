@@ -1,6 +1,6 @@
 ---
 name: Thumper
-name_sort: ""
+name_sort: ''
 rating: 76
 active: false
 progress: started
@@ -12,7 +12,8 @@ completed_on: .nan
 mastered_on: .nan
 identifiers:
   - type: steam
-    appid: "356400"
+    appid: '356400'
     name: Thumper
-    synced_on: 2024-08-30
+    synced_on: '2024-10-04'
+
 ---

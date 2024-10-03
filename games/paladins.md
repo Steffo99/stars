@@ -1,6 +1,6 @@
 ---
 name: Paladins
-name_sort: ""
+name_sort: ''
 rating: 0
 active: false
 progress: new
@@ -12,11 +12,12 @@ completed_on: .nan
 mastered_on: .nan
 identifiers:
   - type: steam
-    appid: "444090"
-    name: Paladins
-    synced_on: 2024-08-30
-  - type: steam
-    appid: "596350"
+    appid: '596350'
+    name: Paladins - Public Test
+    synced_on: '2024-10-04'
+
+---
+ppid: "596350"
     name: Paladins - Public Test
     synced_on: 2024-08-30
 ---

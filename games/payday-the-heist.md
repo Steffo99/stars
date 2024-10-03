@@ -1,6 +1,6 @@
 ---
 name: 'PAYDAY: The Heist'
-name_sort: 'Payday 1'
+name_sort: Payday 1
 rating: 0
 active: false
 progress: new
@@ -14,6 +14,7 @@ identifiers:
   - type: steam
     appid: '24240'
     name: 'PAYDAY: The Heist'
-    synced_on: '2024-08-30'
+    synced_on: '2024-10-04'
 
 ---
+-

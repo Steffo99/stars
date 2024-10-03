@@ -2,7 +2,7 @@
 name: Marble It Up! Ultra
 name_sort: ""
 rating: 72
-active: true
+active: false
 progress: started
 hours_played: 5
 purchased_on: .nan
@@ -14,5 +14,5 @@ identifiers:
   - type: steam
     appid: "864060"
     name: Marble It Up! Ultra
-    synced_on: 2024-08-30
+    synced_on: 2024-10-04
 ---

@@ -14,6 +14,6 @@ identifiers:
   - type: steam
     appid: '231430'
     name: Company of Heroes 2
-    synced_on: '2024-08-30'
+    synced_on: '2024-10-04'
 
 ---

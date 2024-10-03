@@ -1,6 +1,6 @@
 ---
 name: Super Hexagon
-name_sort: 
+name_sort: ''
 rating: 77
 active: false
 progress: started
@@ -12,7 +12,8 @@ completed_on: .nan
 mastered_on: .nan
 identifiers:
   - type: steam
-    appid: "221640"
+    appid: '221640'
     name: Super Hexagon
-    synced_on: 2024-08-30
+    synced_on: '2024-10-04'
+
 ---

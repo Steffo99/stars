@@ -1,6 +1,6 @@
 ---
-name: "Teleglitch: Die More Edition"
-name_sort: ""
+name: 'Teleglitch: Die More Edition'
+name_sort: ''
 rating: 0
 active: false
 progress: started
@@ -12,7 +12,8 @@ completed_on: .nan
 mastered_on: .nan
 identifiers:
   - type: steam
-    appid: "234390"
-    name: "Teleglitch: Die More Edition"
-    synced_on: 2024-08-30
+    appid: '234390'
+    name: 'Teleglitch: Die More Edition'
+    synced_on: '2024-10-04'
+
 ---

@@ -1,6 +1,6 @@
 ---
 name: Left 4 Dead 2
-name_sort: ""
+name_sort: ''
 rating: 39
 active: false
 progress: started
@@ -12,8 +12,9 @@ completed_on: .nan
 mastered_on: .nan
 identifiers:
   - type: steam
-    appid: "550"
+    appid: '550'
     name: Left 4 Dead 2
-    synced_on: 2024-08-30
+    synced_on: '2024-10-04'
+
 ---
 Together with [[gtfo|GTFO]], one of the two games that cause me motion sickness.

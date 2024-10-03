@@ -1,6 +1,6 @@
 ---
 name: Unrailed!
-name_sort: ""
+name_sort: ''
 rating: 74
 active: false
 progress: notapplicable
@@ -12,7 +12,8 @@ completed_on: .nan
 mastered_on: .nan
 identifiers:
   - type: steam
-    appid: "1016920"
+    appid: '1016920'
     name: Unrailed!
-    synced_on: 2024-08-30
+    synced_on: '2024-10-04'
+
 ---

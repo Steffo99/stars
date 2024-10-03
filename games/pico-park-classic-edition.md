@@ -1,5 +1,5 @@
 ---
-name: "Pico Park: Classic Edition"
+name: 'Pico Park: Classic Edition'
 name_sort: Pico Park 0
 rating: 0
 active: false
@@ -12,7 +12,8 @@ completed_on: .nan
 mastered_on: .nan
 identifiers:
   - type: steam
-    appid: "461040"
-    name: PICO PARK:Classic Edition
-    synced_on: 2024-08-30
+    appid: '461040'
+    name: 'PICO PARK:Classic Edition'
+    synced_on: '2024-10-04'
+
 ---

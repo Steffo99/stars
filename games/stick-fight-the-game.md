@@ -1,6 +1,6 @@
 ---
-name: "Stick Fight: The Game"
-name_sort: ""
+name: 'Stick Fight: The Game'
+name_sort: ''
 rating: 64
 active: false
 progress: notapplicable
@@ -12,7 +12,8 @@ completed_on: .nan
 mastered_on: .nan
 identifiers:
   - type: steam
-    appid: "674940"
-    name: "Stick Fight: The Game"
-    synced_on: 2024-08-30
+    appid: '674940'
+    name: 'Stick Fight: The Game'
+    synced_on: '2024-10-04'
+
 ---

@@ -1,6 +1,6 @@
 ---
 name: Into the Breach
-name_sort: ""
+name_sort: ''
 rating: 54
 active: false
 progress: beaten
@@ -12,7 +12,8 @@ completed_on: .nan
 mastered_on: .nan
 identifiers:
   - type: steam
-    appid: "590380"
+    appid: '590380'
     name: Into the Breach
-    synced_on: 2024-08-30
+    synced_on: '2024-10-04'
+
 ---

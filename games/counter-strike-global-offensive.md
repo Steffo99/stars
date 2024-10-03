@@ -1,6 +1,6 @@
 ---
 name: "Counter-Strike: Global Offensive"
-name_sort: 
+name_sort: "Counter-Strike: 1.9"
 rating: 80
 active: false
 progress: notapplicable

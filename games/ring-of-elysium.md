@@ -1,6 +1,6 @@
 ---
 name: Ring of Elysium
-name_sort: ""
+name_sort: ''
 rating: 35
 active: false
 progress: notapplicable
@@ -12,7 +12,8 @@ completed_on: .nan
 mastered_on: .nan
 identifiers:
   - type: steam
-    appid: "755790"
+    appid: '755790'
     name: Ring of Elysium
-    synced_on: 2024-08-30
+    synced_on: '2024-10-04'
+
 ---

@@ -1,6 +1,6 @@
 ---
 name: The Forest
-name_sort: ""
+name_sort: ''
 rating: 0
 active: false
 progress: started
@@ -12,7 +12,8 @@ completed_on: .nan
 mastered_on: .nan
 identifiers:
   - type: steam
-    appid: "242760"
+    appid: '242760'
     name: The Forest
-    synced_on: 2024-08-30
+    synced_on: '2024-10-04'
+
 ---

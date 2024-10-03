@@ -1,6 +1,6 @@
 ---
 name: Duelyst
-name_sort: 'Duelyst 1'
+name_sort: Duelyst 1
 rating: 56
 active: false
 progress: notapplicable
@@ -14,6 +14,7 @@ identifiers:
   - type: steam
     appid: '291410'
     name: Duelyst
-    synced_on: '2024-08-30'
+    synced_on: '2024-10-04'
 
 ---
+-

@@ -1,6 +1,6 @@
 ---
 name: Oxenfree
-name_sort: 'Oxenfree 1'
+name_sort: Oxenfree 1
 rating: 82
 active: false
 progress: beaten
@@ -14,6 +14,7 @@ identifiers:
   - type: steam
     appid: '388880'
     name: Oxenfree
-    synced_on: '2024-08-30'
+    synced_on: '2024-10-04'
 
 ---
+-

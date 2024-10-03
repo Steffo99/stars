@@ -1,6 +1,6 @@
 ---
 name: Portal 2
-name_sort: ""
+name_sort: ''
 rating: 96
 active: false
 progress: completed
@@ -12,7 +12,8 @@ completed_on: .nan
 mastered_on: .nan
 identifiers:
   - type: steam
-    appid: "620"
+    appid: '620'
     name: Portal 2
-    synced_on: 2024-08-30
+    synced_on: '2024-10-04'
+
 ---

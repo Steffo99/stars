@@ -1,6 +1,6 @@
 ---
-name: 'PAYDAY 2'
-name_sort: 'Payday 2'
+name: PAYDAY 2
+name_sort: Payday 2
 rating: 83
 active: false
 progress: started
@@ -14,6 +14,7 @@ identifiers:
   - type: steam
     appid: '218620'
     name: PAYDAY 2
-    synced_on: '2024-08-30'
+    synced_on: '2024-10-04'
 
+---
 ---

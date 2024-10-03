@@ -1,6 +1,6 @@
 ---
-name: "Injustice: Gods Among Us"
-name_sort: ""
+name: 'Injustice: Gods Among Us'
+name_sort: ''
 rating: 0
 active: false
 progress: new
@@ -12,7 +12,8 @@ completed_on: .nan
 mastered_on: .nan
 identifiers:
   - type: steam
-    appid: "242700"
-    name: "Injustice: Gods Among Us Ultimate Edition"
-    synced_on: 2024-08-30
+    appid: '242700'
+    name: 'Injustice: Gods Among Us Ultimate Edition'
+    synced_on: '2024-10-04'
+
 ---

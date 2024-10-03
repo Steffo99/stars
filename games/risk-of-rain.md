@@ -12,7 +12,8 @@ completed_on: .nan
 mastered_on: .nan
 identifiers:
   - type: steam
-    appid: "248820"
+    appid: '248820'
     name: Risk of Rain (2013)
-    synced_on: 2024-08-30
+    synced_on: '2024-10-04'
+
 ---

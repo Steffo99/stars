@@ -1,6 +1,6 @@
 ---
 name: Life is Strange
-name_sort: 'Life is Strange 1'
+name_sort: Life is Strange 1
 rating: 87
 active: false
 progress: completed
@@ -14,6 +14,7 @@ identifiers:
   - type: steam
     appid: '319630'
     name: Life is Strange™
-    synced_on: '2024-08-30'
+    synced_on: '2024-10-04'
 
 ---
+-

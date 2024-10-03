@@ -1,6 +1,6 @@
 ---
 name: Guardians of Middle-earth
-name_sort: ""
+name_sort: ''
 rating: 0
 active: false
 progress: new
@@ -12,7 +12,8 @@ completed_on: .nan
 mastered_on: .nan
 identifiers:
   - type: steam
-    appid: "111900"
+    appid: '111900'
     name: Guardians of Middle-earth
-    synced_on: 2024-08-30
+    synced_on: '2024-10-04'
+
 ---

@@ -12,7 +12,8 @@ completed_on: .nan
 mastered_on: .nan
 identifiers:
   - type: steam
-    appid: "1337520"
+    appid: '1337520'
     name: Risk of Rain Returns
-    synced_on: 2024-08-30
+    synced_on: '2024-10-04'
+
 ---

@@ -1,6 +1,6 @@
 ---
-name: "Ticket to Ride: First Journey"
-name_sort: ""
+name: 'Ticket to Ride: First Journey'
+name_sort: ''
 rating: 0
 active: false
 progress: new
@@ -12,7 +12,8 @@ completed_on: .nan
 mastered_on: .nan
 identifiers:
   - type: steam
-    appid: "600430"
-    name: "Ticket to Ride: First Journey"
-    synced_on: 2024-08-30
+    appid: '600430'
+    name: 'Ticket to Ride: First Journey'
+    synced_on: '2024-10-04'
+
 ---

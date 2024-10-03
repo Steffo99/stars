@@ -1,6 +1,6 @@
 ---
 name: Knights of Pen and Paper +1
-name_sort: ""
+name_sort: ''
 rating: 38
 active: false
 progress: started
@@ -12,7 +12,8 @@ completed_on: .nan
 mastered_on: .nan
 identifiers:
   - type: steam
-    appid: "231740"
+    appid: '231740'
     name: Knights of Pen and Paper +1
-    synced_on: 2024-08-30
+    synced_on: '2024-10-04'
+
 ---

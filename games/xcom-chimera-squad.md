@@ -1,5 +1,5 @@
 ---
-name: "XCOM: Chimera Squad"
+name: 'XCOM: Chimera Squad'
 name_sort: XCOM 4
 rating: 0
 active: false
@@ -12,7 +12,8 @@ completed_on: .nan
 mastered_on: .nan
 identifiers:
   - type: steam
-    appid: "882100"
-    name: "XCOM: Chimera Squad"
-    synced_on: 2024-08-30
+    appid: '882100'
+    name: 'XCOM: Chimera Squad'
+    synced_on: '2024-10-04'
+
 ---

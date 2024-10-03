@@ -12,7 +12,8 @@ completed_on: .nan
 mastered_on: .nan
 identifiers:
   - type: steam
-    appid: "67370"
+    appid: '67370'
     name: The Darkness II
-    synced_on: 2024-08-30
+    synced_on: '2024-10-04'
+
 ---

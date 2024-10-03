@@ -1,6 +1,6 @@
 ---
 name: Duelists of Eden
-name_sort: ""
+name_sort: ''
 rating: 49
 active: false
 progress: notapplicable
@@ -12,7 +12,8 @@ completed_on: .nan
 mastered_on: .nan
 identifiers:
   - type: steam
-    appid: "1664200"
+    appid: '1664200'
     name: Duelists of Eden
-    synced_on: 2024-08-30
+    synced_on: '2024-10-04'
+
 ---

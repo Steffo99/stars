@@ -1,6 +1,6 @@
 ---
-name: "Deus Ex: Human Revolution"
-name_sort: "Deus Ex 3: Human Revolution"
+name: 'Deus Ex: Human Revolution'
+name_sort: 'Deus Ex 3: Human Revolution'
 rating: 0
 active: false
 progress: new
@@ -12,7 +12,8 @@ completed_on: .nan
 mastered_on: .nan
 identifiers:
   - type: steam
-    appid: "238010"
-    name: "Deus Ex: Human Revolution - Director's Cut"
-    synced_on: 2024-08-30
+    appid: '238010'
+    name: 'Deus Ex: Human Revolution - Director''s Cut'
+    synced_on: '2024-10-04'
+
 ---

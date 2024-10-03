@@ -1,6 +1,6 @@
 ---
-name: "Jotun: Valhalla Edition"
-name_sort: ""
+name: 'Jotun: Valhalla Edition'
+name_sort: ''
 rating: 0
 active: false
 progress: new
@@ -12,7 +12,8 @@ completed_on: .nan
 mastered_on: .nan
 identifiers:
   - type: steam
-    appid: "323580"
-    name: "Jotun: Valhalla Edition"
-    synced_on: 2024-08-30
+    appid: '323580'
+    name: 'Jotun: Valhalla Edition'
+    synced_on: '2024-10-04'
+
 ---

@@ -1,6 +1,6 @@
 ---
-name: "Redout: Space Assault"
-name_sort: ""
+name: 'Redout: Space Assault'
+name_sort: ''
 rating: 0
 active: false
 progress: new
@@ -12,7 +12,8 @@ completed_on: .nan
 mastered_on: .nan
 identifiers:
   - type: steam
-    appid: "886060"
-    name: "Redout: Space Assault"
-    synced_on: 2024-08-30
+    appid: '886060'
+    name: 'Redout: Space Assault'
+    synced_on: '2024-10-04'
+
 ---

@@ -1,6 +1,6 @@
 ---
 name: Doki Doki Literature Club
-name_sort: ""
+name_sort: ''
 rating: 60
 active: false
 progress: completed
@@ -12,7 +12,8 @@ completed_on: .nan
 mastered_on: .nan
 identifiers:
   - type: steam
-    appid: "698780"
+    appid: '698780'
     name: Doki Doki Literature Club
-    synced_on: 2024-08-30
+    synced_on: '2024-10-04'
+
 ---

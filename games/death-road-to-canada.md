@@ -1,6 +1,6 @@
 ---
 name: Death Road to Canada
-name_sort: 
+name_sort: ''
 rating: 68
 active: false
 progress: started
@@ -12,7 +12,8 @@ completed_on: .nan
 mastered_on: .nan
 identifiers:
   - type: steam
-    appid: "252610"
+    appid: '252610'
     name: Death Road to Canada
-    synced_on: 2024-08-30
+    synced_on: '2024-10-04'
+
 ---

@@ -1,6 +1,6 @@
 ---
 name: The Warlock of Firetop Mountain
-name_sort: ""
+name_sort: ''
 rating: 0
 active: false
 progress: new
@@ -12,7 +12,8 @@ completed_on: .nan
 mastered_on: .nan
 identifiers:
   - type: steam
-    appid: "324740"
+    appid: '324740'
     name: The Warlock of Firetop Mountain
-    synced_on: 2024-08-30
+    synced_on: '2024-10-04'
+
 ---

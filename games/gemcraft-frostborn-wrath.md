@@ -1,6 +1,6 @@
 ---
 name: GemCraft - Frostborn Wrath
-name_sort: 'GemCraft 5'
+name_sort: GemCraft 5
 rating: 0
 active: false
 progress: started
@@ -14,6 +14,7 @@ identifiers:
   - type: steam
     appid: '1106530'
     name: GemCraft - Frostborn Wrath
-    synced_on: '2024-08-30'
+    synced_on: '2024-10-04'
 
 ---
+-

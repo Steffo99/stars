@@ -1,6 +1,6 @@
 ---
 name: To the Moon
-name_sort: ""
+name_sort: ''
 rating: 0
 active: false
 progress: new
@@ -12,7 +12,8 @@ completed_on: .nan
 mastered_on: .nan
 identifiers:
   - type: steam
-    appid: "206440"
+    appid: '206440'
     name: To the Moon
-    synced_on: 2024-08-30
+    synced_on: '2024-10-04'
+
 ---

@@ -14,6 +14,6 @@ identifiers:
   - type: steam
     appid: '1158310'
     name: Crusader Kings III
-    synced_on: '2024-08-30'
+    synced_on: '2024-10-04'
 
 ---

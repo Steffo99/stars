@@ -1,6 +1,6 @@
 ---
-name: "Kao the Kangaroo: Round 2"
-name_sort: ""
+name: 'Kao the Kangaroo: Round 2'
+name_sort: ''
 rating: 0
 active: false
 progress: new
@@ -12,7 +12,8 @@ completed_on: .nan
 mastered_on: .nan
 identifiers:
   - type: steam
-    appid: "1048540"
-    name: "Kao the Kangaroo: Round 2"
-    synced_on: 2024-08-30
+    appid: '1048540'
+    name: 'Kao the Kangaroo: Round 2'
+    synced_on: '2024-10-04'
+
 ---

@@ -1,6 +1,6 @@
 ---
-name: "Battlefield: Bad Company™ 2"
-name_sort: ""
+name: 'Battlefield: Bad Company™ 2'
+name_sort: ''
 rating: 59
 active: false
 progress: started
@@ -12,7 +12,8 @@ completed_on: .nan
 mastered_on: .nan
 identifiers:
   - type: steam
-    appid: "24960"
-    name: "Battlefield: Bad Company™ 2"
-    synced_on: 2024-08-30
+    appid: '24960'
+    name: 'Battlefield: Bad Company™ 2'
+    synced_on: '2024-10-04'
+
 ---

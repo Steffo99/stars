@@ -1,6 +1,6 @@
 ---
 name: For Honor
-name_sort: ""
+name_sort: ''
 rating: 0
 active: false
 progress: new
@@ -12,11 +12,12 @@ completed_on: .nan
 mastered_on: .nan
 identifiers:
   - type: steam
-    appid: "304390"
-    name: For Honor
-    synced_on: 2024-08-30
-  - type: steam
-    appid: "654310"
+    appid: '654310'
+    name: For Honor - Public Test
+    synced_on: '2024-10-04'
+
+---
+ppid: "654310"
     name: For Honor - Public Test
     synced_on: 2024-08-30
 ---

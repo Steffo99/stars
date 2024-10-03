@@ -14,6 +14,6 @@ identifiers:
   - type: steam
     appid: '226840'
     name: Age of Wonders III
-    synced_on: '2024-08-30'
+    synced_on: '2024-10-04'
 
 ---

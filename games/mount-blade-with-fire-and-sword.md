@@ -1,6 +1,6 @@
 ---
-name: "Mount & Blade: With Fire and Sword"
-name_sort: ""
+name: 'Mount & Blade: With Fire and Sword'
+name_sort: ''
 rating: 0
 active: false
 progress: new
@@ -12,7 +12,8 @@ completed_on: .nan
 mastered_on: .nan
 identifiers:
   - type: steam
-    appid: "48720"
-    name: "Mount & Blade: With Fire and Sword"
-    synced_on: 2024-08-30
+    appid: '48720'
+    name: 'Mount & Blade: With Fire and Sword'
+    synced_on: '2024-10-04'
+
 ---

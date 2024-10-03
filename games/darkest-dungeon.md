@@ -1,6 +1,6 @@
 ---
 name: Darkest Dungeon
-name_sort: ""
+name_sort: ''
 rating: 70
 active: false
 progress: started
@@ -12,7 +12,8 @@ completed_on: .nan
 mastered_on: .nan
 identifiers:
   - type: steam
-    appid: "262060"
+    appid: '262060'
     name: Darkest Dungeon®
-    synced_on: 2024-08-30
+    synced_on: '2024-10-04'
+
 ---

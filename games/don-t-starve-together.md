@@ -12,7 +12,8 @@ completed_on: .nan
 mastered_on: .nan
 identifiers:
   - type: steam
-    appid: "322330"
+    appid: '322330'
     name: Don't Starve Together
-    synced_on: 2024-08-30
+    synced_on: '2024-10-04'
+
 ---

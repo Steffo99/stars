@@ -14,6 +14,6 @@ identifiers:
   - type: steam
     appid: '780800'
     name: Ball laB
-    synced_on: '2024-08-30'
+    synced_on: '2024-10-04'
 
 ---

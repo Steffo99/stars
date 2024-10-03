@@ -4,7 +4,7 @@ name_sort: ''
 rating: 86
 active: false
 progress: beaten
-hours_played: 282
+hours_played: 287
 purchased_on: .nan
 started_on: .nan
 beaten_on: .nan
@@ -14,6 +14,6 @@ identifiers:
   - type: steam
     appid: '230410'
     name: Warframe
-    synced_on: '2024-08-30'
+    synced_on: '2024-10-04'
 
 ---

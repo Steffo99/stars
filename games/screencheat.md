@@ -1,6 +1,6 @@
 ---
 name: Screencheat
-name_sort: ""
+name_sort: ''
 rating: 56
 active: false
 progress: notapplicable
@@ -12,7 +12,8 @@ completed_on: .nan
 mastered_on: .nan
 identifiers:
   - type: steam
-    appid: "301970"
+    appid: '301970'
     name: Screencheat
-    synced_on: 2024-08-30
+    synced_on: '2024-10-04'
+
 ---

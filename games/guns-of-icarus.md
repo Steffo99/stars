@@ -12,10 +12,12 @@ completed_on: .nan
 mastered_on: .nan
 identifiers:
   - type: steam
-    appid: '209080'
-    name: Guns of Icarus Online
-    synced_on: '2024-08-30'
-  - type: steam
+    appid: '608800'
+    name: Guns of Icarus Alliance
+    synced_on: '2024-10-04'
+
+---
+e: steam
     appid: '608800'
     name: Guns of Icarus Alliance
     synced_on: '2024-08-30'

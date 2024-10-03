@@ -1,6 +1,6 @@
 ---
 name: East India Company Gold
-name_sort: ""
+name_sort: ''
 rating: 0
 active: false
 progress: new
@@ -12,7 +12,8 @@ completed_on: .nan
 mastered_on: .nan
 identifiers:
   - type: steam
-    appid: "254000"
+    appid: '254000'
     name: East India Company Gold
-    synced_on: 2024-08-30
+    synced_on: '2024-10-04'
+
 ---

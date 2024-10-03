@@ -1,6 +1,6 @@
 ---
 name: Spore
-name_sort: 
+name_sort: ''
 rating: 79
 active: false
 progress: completed
@@ -12,7 +12,8 @@ completed_on: .nan
 mastered_on: .nan
 identifiers:
   - type: steam
-    appid: "17390"
+    appid: '17390'
     name: Spore
-    synced_on: 2024-08-30
+    synced_on: '2024-10-04'
+
 ---

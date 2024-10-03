@@ -1,6 +1,6 @@
 ---
-name: "Sid Meier's Civilization IV: Colonization"
-name_sort: "Sid Meier's Civilization 4: Colonization"
+name: 'Sid Meier''s Civilization IV: Colonization'
+name_sort: 'Sid Meier''s Civilization 4: Colonization'
 rating: 0
 active: false
 progress: new
@@ -12,7 +12,8 @@ completed_on: .nan
 mastered_on: .nan
 identifiers:
   - type: steam
-    appid: "16810"
-    name: "Sid Meier's Civilization IV: Colonization"
-    synced_on: 2024-08-30
+    appid: '16810'
+    name: 'Sid Meier''s Civilization IV: Colonization'
+    synced_on: '2024-10-04'
+
 ---

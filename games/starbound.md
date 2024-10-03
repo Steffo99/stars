@@ -1,6 +1,6 @@
 ---
 name: Starbound
-name_sort: ""
+name_sort: ''
 rating: 75
 active: false
 progress: started
@@ -12,7 +12,8 @@ completed_on: .nan
 mastered_on: .nan
 identifiers:
   - type: steam
-    appid: "211820"
+    appid: '211820'
     name: Starbound
-    synced_on: 2024-08-30
+    synced_on: '2024-10-04'
+
 ---

@@ -12,7 +12,8 @@ completed_on: .nan
 mastered_on: .nan
 identifiers:
   - type: steam
-    appid: "11020"
+    appid: '11020'
     name: TrackMania Nations Forever
-    synced_on: 2024-08-30
+    synced_on: '2024-10-04'
+
 ---

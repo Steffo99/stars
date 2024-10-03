@@ -1,6 +1,6 @@
 ---
 name: Blackwake
-name_sort: ""
+name_sort: ''
 rating: 0
 active: false
 progress: new
@@ -12,7 +12,8 @@ completed_on: .nan
 mastered_on: .nan
 identifiers:
   - type: steam
-    appid: "420290"
+    appid: '420290'
     name: Blackwake
-    synced_on: 2024-08-30
+    synced_on: '2024-10-04'
+
 ---

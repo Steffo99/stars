@@ -1,6 +1,6 @@
 ---
 name: Crypt of the NecroDancer
-name_sort: ""
+name_sort: ''
 rating: 96
 active: false
 progress: beaten
@@ -12,7 +12,8 @@ completed_on: .nan
 mastered_on: .nan
 identifiers:
   - type: steam
-    appid: "247080"
+    appid: '247080'
     name: Crypt of the NecroDancer
-    synced_on: 2024-08-30
+    synced_on: '2024-10-04'
+
 ---

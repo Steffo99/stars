@@ -1,6 +1,6 @@
 ---
-name: "Gwent: The Witcher Card Game"
-name_sort: ""
+name: 'Gwent: The Witcher Card Game'
+name_sort: ''
 rating: 59
 active: false
 progress: notapplicable
@@ -12,7 +12,8 @@ completed_on: .nan
 mastered_on: .nan
 identifiers:
   - type: steam
-    appid: "1284410"
-    name: "GWENT: The Witcher Card Game"
-    synced_on: 2024-08-30
+    appid: '1284410'
+    name: 'GWENT: The Witcher Card Game'
+    synced_on: '2024-10-04'
+
 ---

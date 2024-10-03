@@ -3,7 +3,7 @@ name: Kingdom Rush
 name_sort: ''
 rating: 0
 active: false
-progress: ''
+progress: started
 hours_played: 3
 purchased_on: .nan
 started_on: .nan
@@ -14,6 +14,6 @@ identifiers:
   - type: steam
     appid: '246420'
     name: Kingdom Rush
-    synced_on: '2024-08-30'
+    synced_on: '2024-10-04'
 
 ---

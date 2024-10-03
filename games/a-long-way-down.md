@@ -14,6 +14,6 @@ identifiers:
   - type: steam
     appid: '856990'
     name: A Long Way Down
-    synced_on: '2024-08-30'
+    synced_on: '2024-10-04'
 
 ---

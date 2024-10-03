@@ -10,12 +10,13 @@ started_on: .nan
 beaten_on: .nan
 completed_on: .nan
 mastered_on: .nan
-identifiers: 
+identifiers:
   - type: steam
-    appid: "24980"
-    name: Mass Effect 2 (2010)
-    synced_on: 2024-08-30
-  - type: steam
+    appid: '2362420'
+    name: Mass Effect 2 (2010) Edition
+    synced_on: '2024-10-04'
+
+---
     appid: "2362420"
     name: Mass Effect 2 (2010) Edition
     synced_on: 2024-08-30

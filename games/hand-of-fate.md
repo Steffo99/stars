@@ -1,6 +1,6 @@
 ---
 name: Hand of Fate
-name_sort: ""
+name_sort: ''
 rating: 83
 active: false
 progress: started
@@ -12,7 +12,8 @@ completed_on: .nan
 mastered_on: .nan
 identifiers:
   - type: steam
-    appid: "266510"
+    appid: '266510'
     name: Hand of Fate
-    synced_on: 2024-08-30
+    synced_on: '2024-10-04'
+
 ---

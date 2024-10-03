@@ -14,6 +14,6 @@ identifiers:
   - type: steam
     appid: '311340'
     name: 'METAL GEAR SOLID V: GROUND ZEROES'
-    synced_on: '2024-08-30'
+    synced_on: '2024-10-04'
 
 ---

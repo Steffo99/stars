@@ -1,6 +1,6 @@
 ---
 name: Punch Club
-name_sort: ""
+name_sort: ''
 rating: 47
 active: false
 progress: started
@@ -12,7 +12,8 @@ completed_on: .nan
 mastered_on: .nan
 identifiers:
   - type: steam
-    appid: "394310"
+    appid: '394310'
     name: Punch Club
-    synced_on: 2024-08-30
+    synced_on: '2024-10-04'
+
 ---
