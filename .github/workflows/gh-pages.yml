@@ -1,0 +1,52 @@
+name: "Build and deploy to GitHub Pages"
+
+on:
+  push:
+    branches:
+      - "personal/*"
+  workflow_dispatch:
+
+defaults:
+  run:
+    shell: bash
+
+jobs:
+  build:
+    name: "Build website"
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: "Checkout repository"
+      uses: actions/checkout@v4
+      with:
+        fetch-depth: 0
+    
+    - name: "Setup Deno"
+      uses: denoland/setup-deno@v2
+    
+    - name: "Build website"
+      run: >-
+        deno task build
+    
+    - name: "Upload pages artifact"
+      uses: actions/upload-pages-artifact@v3
+    
+  deploy:
+    name: "Deploy website"
+    runs-on: ubuntu-latest
+    
+    needs:
+    - build
+    
+    permissions:
+      pages: write
+      id-token: write
+    
+    steps:
+    - name: "Deploy to GitHub Pages"
+      uses: actions/deploy-pages@v4
+      id: deployment
+    
+    environment:
+      name: "GitHub Pages"
+      url: ${{ steps.deployment.outputs.page_url }}
