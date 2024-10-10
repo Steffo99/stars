@@ -14,6 +14,6 @@ identifiers:
   - type: steam
     appid: '674940'
     name: 'Stick Fight: The Game'
-    synced_on: '2024-10-04'
+    synced_on: '2024-10-10'
 
 ---

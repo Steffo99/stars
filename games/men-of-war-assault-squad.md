@@ -14,6 +14,6 @@ identifiers:
   - type: steam
     appid: '64000'
     name: 'Men of War: Assault Squad'
-    synced_on: '2024-10-04'
+    synced_on: '2024-10-10'
 
 ---

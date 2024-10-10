@@ -14,6 +14,6 @@ identifiers:
   - type: steam
     appid: '949060'
     name: Love Thyself - A Horatio Story
-    synced_on: '2024-10-04'
+    synced_on: '2024-10-10'
 
 ---

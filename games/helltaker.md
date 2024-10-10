@@ -14,6 +14,6 @@ identifiers:
   - type: steam
     appid: '1289310'
     name: Helltaker
-    synced_on: '2024-10-04'
+    synced_on: '2024-10-10'
 
 ---

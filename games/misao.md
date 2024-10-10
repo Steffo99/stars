@@ -14,6 +14,6 @@ identifiers:
   - type: steam
     appid: '691450'
     name: Misao - 2024 HD Remaster
-    synced_on: '2024-10-04'
+    synced_on: '2024-10-10'
 
 ---

@@ -14,6 +14,6 @@ identifiers:
   - type: steam
     appid: '425410'
     name: Road to Ballhalla
-    synced_on: '2024-10-04'
+    synced_on: '2024-10-10'
 
 ---

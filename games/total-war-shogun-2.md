@@ -14,6 +14,6 @@ identifiers:
   - type: steam
     appid: '34330'
     name: 'Total War: SHOGUN 2'
-    synced_on: '2024-10-04'
+    synced_on: '2024-10-10'
 
 ---

@@ -14,6 +14,6 @@ identifiers:
   - type: steam
     appid: '302510'
     name: 'Ryse: Son of Rome'
-    synced_on: '2024-10-04'
+    synced_on: '2024-10-10'
 
 ---

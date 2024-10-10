@@ -14,6 +14,6 @@ identifiers:
   - type: steam
     appid: '642020'
     name: Gordy and the Monster Moon
-    synced_on: '2024-10-04'
+    synced_on: '2024-10-10'
 
 ---

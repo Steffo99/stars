@@ -14,6 +14,6 @@ identifiers:
   - type: steam
     appid: '285160'
     name: LEGO® The Hobbit™
-    synced_on: '2024-10-04'
+    synced_on: '2024-10-10'
 
 ---

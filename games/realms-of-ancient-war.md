@@ -14,6 +14,6 @@ identifiers:
   - type: steam
     appid: '209730'
     name: RAW - Realms of Ancient War
-    synced_on: '2024-10-04'
+    synced_on: '2024-10-10'
 
 ---

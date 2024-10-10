@@ -14,7 +14,7 @@ identifiers:
   - type: steam
     appid: '1422450'
     name: Deadlock
-    synced_on: '2024-10-04'
+    synced_on: '2024-10-10'
 
 ---
 Really liking the playtest so far!

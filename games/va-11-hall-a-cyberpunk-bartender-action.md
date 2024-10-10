@@ -14,6 +14,6 @@ identifiers:
   - type: steam
     appid: '447530'
     name: 'VA-11 Hall-A: Cyberpunk Bartender Action'
-    synced_on: '2024-10-04'
+    synced_on: '2024-10-10'
 
 ---

@@ -14,6 +14,6 @@ identifiers:
   - type: steam
     appid: '1284410'
     name: 'GWENT: The Witcher Card Game'
-    synced_on: '2024-10-04'
+    synced_on: '2024-10-10'
 
 ---

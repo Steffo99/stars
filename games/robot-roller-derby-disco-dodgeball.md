@@ -14,6 +14,6 @@ identifiers:
   - type: steam
     appid: '270450'
     name: Robot Roller-Derby Disco Dodgeball
-    synced_on: '2024-10-04'
+    synced_on: '2024-10-10'
 
 ---

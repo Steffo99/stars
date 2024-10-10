@@ -14,6 +14,6 @@ identifiers:
   - type: steam
     appid: '43110'
     name: Metro 2033
-    synced_on: '2024-10-04'
+    synced_on: '2024-10-10'
 
 ---

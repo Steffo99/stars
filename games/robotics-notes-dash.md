@@ -14,6 +14,6 @@ identifiers:
   - type: steam
     appid: '1111390'
     name: ROBOTICS;NOTES DaSH
-    synced_on: '2024-10-04'
+    synced_on: '2024-10-10'
 
 ---

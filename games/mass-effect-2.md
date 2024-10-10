@@ -14,7 +14,7 @@ identifiers:
   - type: steam
     appid: '2362420'
     name: Mass Effect 2 (2010) Edition
-    synced_on: '2024-10-04'
+    synced_on: '2024-10-10'
 
 ---
     appid: "2362420"

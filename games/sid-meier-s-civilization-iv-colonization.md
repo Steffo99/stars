@@ -14,6 +14,6 @@ identifiers:
   - type: steam
     appid: '16810'
     name: 'Sid Meier''s Civilization IV: Colonization'
-    synced_on: '2024-10-04'
+    synced_on: '2024-10-10'
 
 ---

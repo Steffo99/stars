@@ -14,6 +14,6 @@ identifiers:
   - type: steam
     appid: '204880'
     name: 'Sins of a Solar Empire: Rebellion'
-    synced_on: '2024-10-04'
+    synced_on: '2024-10-10'
 
 ---

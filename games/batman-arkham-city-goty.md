@@ -14,6 +14,6 @@ identifiers:
   - type: steam
     appid: '200260'
     name: 'Batman: Arkham City GOTY'
-    synced_on: '2024-10-04'
+    synced_on: '2024-10-10'
 
 ---

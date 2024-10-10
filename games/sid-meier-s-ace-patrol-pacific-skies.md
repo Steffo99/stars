@@ -14,6 +14,6 @@ identifiers:
   - type: steam
     appid: '244090'
     name: 'Sid Meier''s Ace Patrol: Pacific Skies'
-    synced_on: '2024-10-04'
+    synced_on: '2024-10-10'
 
 ---

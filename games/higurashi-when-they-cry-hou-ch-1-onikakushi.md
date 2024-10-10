@@ -14,6 +14,6 @@ identifiers:
   - type: steam
     appid: '310360'
     name: Higurashi When They Cry Hou - Ch.1 Onikakushi
-    synced_on: '2024-10-04'
+    synced_on: '2024-10-10'
 
 ---

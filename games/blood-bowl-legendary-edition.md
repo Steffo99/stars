@@ -14,6 +14,6 @@ identifiers:
   - type: steam
     appid: '58520'
     name: 'Blood Bowl: Legendary Edition'
-    synced_on: '2024-10-04'
+    synced_on: '2024-10-10'
 
 ---

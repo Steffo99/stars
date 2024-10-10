@@ -14,6 +14,6 @@ identifiers:
   - type: steam
     appid: '555160'
     name: Pavlov VR
-    synced_on: '2024-10-04'
+    synced_on: '2024-10-10'
 
 ---

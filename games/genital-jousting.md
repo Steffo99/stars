@@ -14,6 +14,6 @@ identifiers:
   - type: steam
     appid: '469820'
     name: Genital Jousting
-    synced_on: '2024-10-04'
+    synced_on: '2024-10-10'
 
 ---

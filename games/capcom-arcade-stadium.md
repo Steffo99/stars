@@ -14,6 +14,6 @@ identifiers:
   - type: steam
     appid: '1515950'
     name: Capcom Arcade Stadium
-    synced_on: '2024-10-04'
+    synced_on: '2024-10-10'
 
 ---

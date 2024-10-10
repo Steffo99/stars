@@ -14,6 +14,6 @@ identifiers:
   - type: steam
     appid: '3910'
     name: 'Sid Meier''s Civilization III: Complete'
-    synced_on: '2024-10-04'
+    synced_on: '2024-10-10'
 
 ---

@@ -14,6 +14,6 @@ identifiers:
   - type: steam
     appid: '32800'
     name: 'The Lord of the Rings: War in the North'
-    synced_on: '2024-10-04'
+    synced_on: '2024-10-10'
 
 ---

@@ -14,6 +14,6 @@ identifiers:
   - type: steam
     appid: '35420'
     name: 'Killing Floor Mod: Defence Alliance 2'
-    synced_on: '2024-10-04'
+    synced_on: '2024-10-10'
 
 ---

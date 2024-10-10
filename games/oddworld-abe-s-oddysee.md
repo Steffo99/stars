@@ -14,6 +14,6 @@ identifiers:
   - type: steam
     appid: '15700'
     name: 'Oddworld: Abe''s Oddysee'
-    synced_on: '2024-10-04'
+    synced_on: '2024-10-10'
 
 ---

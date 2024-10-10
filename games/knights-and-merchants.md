@@ -14,6 +14,6 @@ identifiers:
   - type: steam
     appid: '253900'
     name: Knights and Merchants
-    synced_on: '2024-10-04'
+    synced_on: '2024-10-10'
 
 ---

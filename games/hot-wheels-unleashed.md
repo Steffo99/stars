@@ -14,6 +14,6 @@ identifiers:
   - type: steam
     appid: '1271700'
     name: HOT WHEELS UNLEASHED™
-    synced_on: '2024-10-04'
+    synced_on: '2024-10-10'
 
 ---

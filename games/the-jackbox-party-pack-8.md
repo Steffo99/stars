@@ -14,6 +14,6 @@ identifiers:
   - type: steam
     appid: '1552350'
     name: The Jackbox Party Pack 8
-    synced_on: '2024-10-04'
+    synced_on: '2024-10-10'
 
 ---

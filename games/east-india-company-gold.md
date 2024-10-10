@@ -14,6 +14,6 @@ identifiers:
   - type: steam
     appid: '254000'
     name: East India Company Gold
-    synced_on: '2024-10-04'
+    synced_on: '2024-10-10'
 
 ---

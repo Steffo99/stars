@@ -1,4 +1,4 @@
-import { loadSync as loadEnv } from "@std/dotenv/mod.ts";
+import { load as loadEnv } from "dotenv";
 import {default as site} from "../_config.ts"
 import {formatDateIso} from "../_utils/date.ts"
 import {GameData, GameIdentifier, GamePage} from "../_utils/game.ts"
@@ -27,7 +27,7 @@ type SteamGame = {
     playtime_disconnected: number
 }
 
-const env = loadEnv()
+const env = await loadEnv()
 
 console.debug("Building the whole site...")
 

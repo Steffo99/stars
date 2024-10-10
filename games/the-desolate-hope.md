@@ -14,6 +14,6 @@ identifiers:
   - type: steam
     appid: '298180'
     name: The Desolate Hope
-    synced_on: '2024-10-04'
+    synced_on: '2024-10-10'
 
 ---

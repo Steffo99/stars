@@ -14,6 +14,6 @@ identifiers:
   - type: steam
     appid: '1475810'
     name: 'Ghostwire: Tokyo'
-    synced_on: '2024-10-04'
+    synced_on: '2024-10-10'
 
 ---

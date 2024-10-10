@@ -14,6 +14,6 @@ identifiers:
   - type: steam
     appid: '265610'
     name: Epic Battle Fantasy 4
-    synced_on: '2024-10-04'
+    synced_on: '2024-10-10'
 
 ---

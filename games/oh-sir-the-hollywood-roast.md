@@ -14,6 +14,6 @@ identifiers:
   - type: steam
     appid: '575330'
     name: Oh...Sir! The Hollywood Roast
-    synced_on: '2024-10-04'
+    synced_on: '2024-10-10'
 
 ---

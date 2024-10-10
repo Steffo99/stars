@@ -14,6 +14,6 @@ identifiers:
   - type: steam
     appid: '248820'
     name: Risk of Rain (2013)
-    synced_on: '2024-10-04'
+    synced_on: '2024-10-10'
 
 ---

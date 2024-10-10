@@ -14,6 +14,6 @@ identifiers:
   - type: steam
     appid: '443810'
     name: This Is the Police
-    synced_on: '2024-10-04'
+    synced_on: '2024-10-10'
 
 ---

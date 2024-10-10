@@ -14,6 +14,6 @@ identifiers:
   - type: steam
     appid: '1113000'
     name: Persona 4 Golden
-    synced_on: '2024-10-04'
+    synced_on: '2024-10-10'
 
 ---

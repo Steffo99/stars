@@ -14,6 +14,6 @@ identifiers:
   - type: steam
     appid: '247080'
     name: Crypt of the NecroDancer
-    synced_on: '2024-10-04'
+    synced_on: '2024-10-10'
 
 ---

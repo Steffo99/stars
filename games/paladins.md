@@ -14,7 +14,7 @@ identifiers:
   - type: steam
     appid: '596350'
     name: Paladins - Public Test
-    synced_on: '2024-10-04'
+    synced_on: '2024-10-10'
 
 ---
 ppid: "596350"

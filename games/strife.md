@@ -14,6 +14,6 @@ identifiers:
   - type: steam
     appid: '339280'
     name: Strife
-    synced_on: '2024-10-04'
+    synced_on: '2024-10-10'
 
 ---

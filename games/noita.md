@@ -1,6 +1,6 @@
 ---
 name: Noita
-name_sort: ""
+name_sort: ''
 rating: 90
 active: false
 progress: beaten
@@ -12,7 +12,8 @@ completed_on: .nan
 mastered_on: .nan
 identifiers:
   - type: steam
-    appid: "881100"
+    appid: '881100'
     name: Noita
-    synced_on: 2024-10-04
+    synced_on: '2024-10-10'
+
 ---

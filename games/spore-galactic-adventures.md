@@ -14,6 +14,6 @@ identifiers:
   - type: steam
     appid: '24720'
     name: 'Spore: Galactic Adventures'
-    synced_on: '2024-10-04'
+    synced_on: '2024-10-10'
 
 ---

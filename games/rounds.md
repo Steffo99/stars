@@ -14,7 +14,7 @@ identifiers:
   - type: steam
     appid: '1557740'
     name: ROUNDS
-    synced_on: '2024-10-04'
+    synced_on: '2024-10-10'
 
 ---
 *Rating refers to the vanilla, unmodded game.*

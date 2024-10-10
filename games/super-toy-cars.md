@@ -14,6 +14,6 @@ identifiers:
   - type: steam
     appid: '116100'
     name: Super Toy Cars
-    synced_on: '2024-10-04'
+    synced_on: '2024-10-10'
 
 ---

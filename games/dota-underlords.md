@@ -14,6 +14,6 @@ identifiers:
   - type: steam
     appid: '1046930'
     name: Dota Underlords
-    synced_on: '2024-10-04'
+    synced_on: '2024-10-10'
 
 ---

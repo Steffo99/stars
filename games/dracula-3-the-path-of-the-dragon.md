@@ -14,6 +14,6 @@ identifiers:
   - type: steam
     appid: '289840'
     name: 'Dracula 3: The Path of the Dragon'
-    synced_on: '2024-10-04'
+    synced_on: '2024-10-10'
 
 ---

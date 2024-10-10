@@ -14,7 +14,7 @@ identifiers:
   - type: steam
     appid: '417860'
     name: Emily is Away
-    synced_on: '2024-10-04'
+    synced_on: '2024-10-10'
 
 ---
 -

@@ -14,7 +14,7 @@ identifiers:
   - type: steam
     appid: '550'
     name: Left 4 Dead 2
-    synced_on: '2024-10-04'
+    synced_on: '2024-10-10'
 
 ---
 Together with [[gtfo|GTFO]], one of the two games that cause me motion sickness.

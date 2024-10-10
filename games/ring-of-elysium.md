@@ -14,6 +14,6 @@ identifiers:
   - type: steam
     appid: '755790'
     name: Ring of Elysium
-    synced_on: '2024-10-04'
+    synced_on: '2024-10-10'
 
 ---

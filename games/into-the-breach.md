@@ -14,6 +14,6 @@ identifiers:
   - type: steam
     appid: '590380'
     name: Into the Breach
-    synced_on: '2024-10-04'
+    synced_on: '2024-10-10'
 
 ---

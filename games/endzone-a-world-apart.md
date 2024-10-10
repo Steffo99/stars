@@ -14,6 +14,6 @@ identifiers:
   - type: steam
     appid: '933820'
     name: Endzone - A World Apart
-    synced_on: '2024-10-04'
+    synced_on: '2024-10-10'
 
 ---

@@ -14,6 +14,6 @@ identifiers:
   - type: steam
     appid: '274900'
     name: Murder Miners
-    synced_on: '2024-10-04'
+    synced_on: '2024-10-10'
 
 ---

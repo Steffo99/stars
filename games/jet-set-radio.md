@@ -14,6 +14,6 @@ identifiers:
   - type: steam
     appid: '205950'
     name: Jet Set Radio
-    synced_on: '2024-10-04'
+    synced_on: '2024-10-10'
 
 ---

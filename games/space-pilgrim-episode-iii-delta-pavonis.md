@@ -14,6 +14,6 @@ identifiers:
   - type: steam
     appid: '439250'
     name: 'Space Pilgrim Episode III: Delta Pavonis'
-    synced_on: '2024-10-04'
+    synced_on: '2024-10-10'
 
 ---

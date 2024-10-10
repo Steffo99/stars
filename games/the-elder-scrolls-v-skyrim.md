@@ -14,6 +14,6 @@ identifiers:
   - type: steam
     appid: '72850'
     name: 'The Elder Scrolls V: Skyrim'
-    synced_on: '2024-10-04'
+    synced_on: '2024-10-10'
 
 ---

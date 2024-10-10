@@ -14,6 +14,6 @@ identifiers:
   - type: steam
     appid: '220820'
     name: Zombie Driver HD
-    synced_on: '2024-10-04'
+    synced_on: '2024-10-10'
 
 ---

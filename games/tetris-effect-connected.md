@@ -14,6 +14,6 @@ identifiers:
   - type: steam
     appid: '1003590'
     name: 'Tetris® Effect: Connected'
-    synced_on: '2024-10-04'
+    synced_on: '2024-10-10'
 
 ---

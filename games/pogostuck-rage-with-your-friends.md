@@ -14,6 +14,6 @@ identifiers:
   - type: steam
     appid: '688130'
     name: 'Pogostuck: Rage With Your Friends'
-    synced_on: '2024-10-04'
+    synced_on: '2024-10-10'
 
 ---

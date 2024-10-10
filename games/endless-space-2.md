@@ -14,6 +14,6 @@ identifiers:
   - type: steam
     appid: '392110'
     name: ENDLESS™ Space 2
-    synced_on: '2024-10-04'
+    synced_on: '2024-10-10'
 
 ---

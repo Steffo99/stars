@@ -14,6 +14,6 @@ identifiers:
   - type: steam
     appid: '2523120'
     name: King of the Bridge
-    synced_on: '2024-10-04'
+    synced_on: '2024-10-10'
 
 ---

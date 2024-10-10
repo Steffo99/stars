@@ -14,6 +14,6 @@ identifiers:
   - type: steam
     appid: '289690'
     name: Lara Croft and the Temple of Osiris
-    synced_on: '2024-10-04'
+    synced_on: '2024-10-10'
 
 ---

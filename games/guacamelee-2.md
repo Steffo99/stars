@@ -14,6 +14,6 @@ identifiers:
   - type: steam
     appid: '534550'
     name: Guacamelee! 2
-    synced_on: '2024-10-04'
+    synced_on: '2024-10-10'
 
 ---

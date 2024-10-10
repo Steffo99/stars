@@ -14,6 +14,6 @@ identifiers:
   - type: steam
     appid: '65790'
     name: 'Arma: Cold War Assault'
-    synced_on: '2024-10-04'
+    synced_on: '2024-10-10'
 
 ---

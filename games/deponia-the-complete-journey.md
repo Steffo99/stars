@@ -14,6 +14,6 @@ identifiers:
   - type: steam
     appid: '292910'
     name: 'Deponia: The Complete Journey'
-    synced_on: '2024-10-04'
+    synced_on: '2024-10-10'
 
 ---

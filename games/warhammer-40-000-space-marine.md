@@ -14,6 +14,6 @@ identifiers:
   - type: steam
     appid: '55150'
     name: 'Warhammer 40,000: Space Marine - Anniversary Edition'
-    synced_on: '2024-10-04'
+    synced_on: '2024-10-10'
 
 ---

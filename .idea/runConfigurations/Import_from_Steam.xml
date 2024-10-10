@@ -1,0 +1,5 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Import from Steam" type="DenoConfigurationType" inputPath="$PROJECT_DIR$/_scripts/importSteam.ts" programParameters="task import-steam">
+    <method v="2" />
+  </configuration>
+</component>

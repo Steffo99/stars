@@ -14,6 +14,6 @@ identifiers:
   - type: steam
     appid: '264200'
     name: One Finger Death Punch
-    synced_on: '2024-10-04'
+    synced_on: '2024-10-10'
 
 ---

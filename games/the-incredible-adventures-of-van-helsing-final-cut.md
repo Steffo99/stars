@@ -14,6 +14,6 @@ identifiers:
   - type: steam
     appid: '400170'
     name: 'The Incredible Adventures of Van Helsing: Final Cut'
-    synced_on: '2024-10-04'
+    synced_on: '2024-10-10'
 
 ---

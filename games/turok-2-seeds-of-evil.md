@@ -14,6 +14,6 @@ identifiers:
   - type: steam
     appid: '405830'
     name: 'Turok 2: Seeds of Evil'
-    synced_on: '2024-10-04'
+    synced_on: '2024-10-10'
 
 ---

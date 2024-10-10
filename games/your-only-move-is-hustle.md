@@ -14,6 +14,6 @@ identifiers:
   - type: steam
     appid: '2212330'
     name: Your Only Move Is HUSTLE
-    synced_on: '2024-10-04'
+    synced_on: '2024-10-10'
 
 ---

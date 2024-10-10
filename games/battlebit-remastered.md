@@ -14,6 +14,6 @@ identifiers:
   - type: steam
     appid: '671860'
     name: BattleBit Remastered
-    synced_on: '2024-10-04'
+    synced_on: '2024-10-10'
 
 ---

@@ -14,6 +14,6 @@ identifiers:
   - type: steam
     appid: '461040'
     name: 'PICO PARK:Classic Edition'
-    synced_on: '2024-10-04'
+    synced_on: '2024-10-10'
 
 ---

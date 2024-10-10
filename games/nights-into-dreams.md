@@ -14,6 +14,6 @@ identifiers:
   - type: steam
     appid: '219950'
     name: NiGHTS into Dreams...
-    synced_on: '2024-10-04'
+    synced_on: '2024-10-10'
 
 ---

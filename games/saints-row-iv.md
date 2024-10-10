@@ -14,6 +14,6 @@ identifiers:
   - type: steam
     appid: '206420'
     name: Saints Row IV
-    synced_on: '2024-10-04'
+    synced_on: '2024-10-10'
 
 ---

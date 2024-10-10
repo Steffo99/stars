@@ -14,6 +14,6 @@ identifiers:
   - type: steam
     appid: '444640'
     name: Bloons TD Battles
-    synced_on: '2024-10-04'
+    synced_on: '2024-10-10'
 
 ---

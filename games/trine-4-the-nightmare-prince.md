@@ -14,6 +14,6 @@ identifiers:
   - type: steam
     appid: '690640'
     name: 'Trine 4: The Nightmare Prince'
-    synced_on: '2024-10-04'
+    synced_on: '2024-10-10'
 
 ---

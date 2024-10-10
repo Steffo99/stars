@@ -14,6 +14,6 @@ identifiers:
   - type: steam
     appid: '508440'
     name: Totally Accurate Battle Simulator
-    synced_on: '2024-10-04'
+    synced_on: '2024-10-10'
 
 ---

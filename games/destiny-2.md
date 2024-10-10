@@ -14,6 +14,6 @@ identifiers:
   - type: steam
     appid: '1085660'
     name: Destiny 2
-    synced_on: '2024-10-04'
+    synced_on: '2024-10-10'
 
 ---

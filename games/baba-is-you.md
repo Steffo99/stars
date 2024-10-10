@@ -14,6 +14,6 @@ identifiers:
   - type: steam
     appid: '736260'
     name: Baba Is You
-    synced_on: '2024-10-04'
+    synced_on: '2024-10-10'
 
 ---

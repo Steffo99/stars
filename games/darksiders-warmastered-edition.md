@@ -14,6 +14,6 @@ identifiers:
   - type: steam
     appid: '462780'
     name: Darksiders Warmastered Edition
-    synced_on: '2024-10-04'
+    synced_on: '2024-10-10'
 
 ---

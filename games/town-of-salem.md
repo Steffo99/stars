@@ -14,6 +14,6 @@ identifiers:
   - type: steam
     appid: '334230'
     name: Town of Salem
-    synced_on: '2024-10-04'
+    synced_on: '2024-10-10'
 
 ---

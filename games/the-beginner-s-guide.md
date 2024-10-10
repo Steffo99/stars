@@ -14,7 +14,7 @@ identifiers:
   - type: steam
     appid: '303210'
     name: The Beginner's Guide
-    synced_on: '2024-10-04'
+    synced_on: '2024-10-10'
 
 ---
 I remember playing this and hating it with a passion, but I don't really remember why?

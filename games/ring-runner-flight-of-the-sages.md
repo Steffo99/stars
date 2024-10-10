@@ -14,6 +14,6 @@ identifiers:
   - type: steam
     appid: '258010'
     name: 'Ring Runner: Flight of the Sages'
-    synced_on: '2024-10-04'
+    synced_on: '2024-10-10'
 
 ---

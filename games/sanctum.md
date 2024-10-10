@@ -14,7 +14,7 @@ identifiers:
   - type: steam
     appid: '91600'
     name: Sanctum
-    synced_on: '2024-10-04'
+    synced_on: '2024-10-10'
 
 ---
 This aged surprisingly well!

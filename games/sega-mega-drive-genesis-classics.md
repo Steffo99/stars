@@ -14,6 +14,6 @@ identifiers:
   - type: steam
     appid: '34270'
     name: SEGA Mega Drive & Genesis Classics
-    synced_on: '2024-10-04'
+    synced_on: '2024-10-10'
 
 ---

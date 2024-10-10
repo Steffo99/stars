@@ -14,6 +14,6 @@ identifiers:
   - type: steam
     appid: '257170'
     name: 'Rebuild 3: Gangs of Deadsville'
-    synced_on: '2024-10-04'
+    synced_on: '2024-10-10'
 
 ---

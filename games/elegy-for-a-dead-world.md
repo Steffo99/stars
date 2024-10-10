@@ -14,6 +14,6 @@ identifiers:
   - type: steam
     appid: '252290'
     name: Elegy For A Dead World
-    synced_on: '2024-10-04'
+    synced_on: '2024-10-10'
 
 ---

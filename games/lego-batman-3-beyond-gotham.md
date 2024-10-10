@@ -14,6 +14,6 @@ identifiers:
   - type: steam
     appid: '313690'
     name: 'LEGO® Batman™ 3: Beyond Gotham'
-    synced_on: '2024-10-04'
+    synced_on: '2024-10-10'
 
 ---

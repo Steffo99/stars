@@ -14,6 +14,6 @@ identifiers:
   - type: steam
     appid: '312840'
     name: 'Fahrenheit: Indigo Prophecy Remastered'
-    synced_on: '2024-10-04'
+    synced_on: '2024-10-10'
 
 ---

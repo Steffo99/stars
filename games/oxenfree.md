@@ -14,7 +14,7 @@ identifiers:
   - type: steam
     appid: '388880'
     name: Oxenfree
-    synced_on: '2024-10-04'
+    synced_on: '2024-10-10'
 
 ---
 -

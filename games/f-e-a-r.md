@@ -14,6 +14,6 @@ identifiers:
   - type: steam
     appid: '21090'
     name: F.E.A.R.
-    synced_on: '2024-10-04'
+    synced_on: '2024-10-10'
 
 ---

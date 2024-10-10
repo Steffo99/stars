@@ -14,6 +14,6 @@ identifiers:
   - type: steam
     appid: '249990'
     name: FORCED
-    synced_on: '2024-10-04'
+    synced_on: '2024-10-10'
 
 ---

@@ -14,6 +14,6 @@ identifiers:
   - type: steam
     appid: '1286350'
     name: 'BPM: BULLETS PER MINUTE'
-    synced_on: '2024-10-04'
+    synced_on: '2024-10-10'
 
 ---

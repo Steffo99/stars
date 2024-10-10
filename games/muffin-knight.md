@@ -14,6 +14,6 @@ identifiers:
   - type: steam
     appid: '263700'
     name: Muffin Knight
-    synced_on: '2024-10-04'
+    synced_on: '2024-10-10'
 
 ---

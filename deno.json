@@ -1,6 +1,6 @@
 {
   "imports": {
-    "@std/dotenv": "jsr:@std/dotenv@^0.225.2",
+    "dotenv": "jsr:@std/dotenv@^0.225.2",
     "lume/cms/": "https://cdn.jsdelivr.net/gh/lumeland/cms@v0.6.8/",
     "lume/": "https://deno.land/x/lume@v2.3.3/"
   },
@@ -9,7 +9,7 @@
     "build": "deno task lume",
     "serve": "deno task lume -s",
     "cms": "deno task lume cms",
-    "import-steam": "deno run --allow-env --allow-read=. --allow-net --allow-write=. _scripts/importSteam.ts"
+    "import-steam": "deno run --allow-all _scripts/importSteam.ts"
   },
   "compilerOptions": {
     "types": [
@@ -25,7 +25,9 @@
       "exclude": [
         "no-implicit-any",
         "no-explicit-any",
-        "no-unused-vars"
+        "no-inner-declarations",
+        "no-unused-vars",
+        "no-var"
       ]
     }
   }

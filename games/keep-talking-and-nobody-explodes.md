@@ -14,6 +14,6 @@ identifiers:
   - type: steam
     appid: '341800'
     name: Keep Talking and Nobody Explodes
-    synced_on: '2024-10-04'
+    synced_on: '2024-10-10'
 
 ---

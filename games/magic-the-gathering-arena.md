@@ -14,6 +14,6 @@ identifiers:
   - type: steam
     appid: '2141910'
     name: 'Magic: The Gathering Arena'
-    synced_on: '2024-10-04'
+    synced_on: '2024-10-10'
 
 ---

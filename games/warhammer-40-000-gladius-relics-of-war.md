@@ -14,6 +14,6 @@ identifiers:
   - type: steam
     appid: '489630'
     name: 'Warhammer 40,000: Gladius - Relics of War'
-    synced_on: '2024-10-04'
+    synced_on: '2024-10-10'
 
 ---

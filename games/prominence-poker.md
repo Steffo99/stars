@@ -14,6 +14,6 @@ identifiers:
   - type: steam
     appid: '384180'
     name: Prominence Poker
-    synced_on: '2024-10-04'
+    synced_on: '2024-10-10'
 
 ---

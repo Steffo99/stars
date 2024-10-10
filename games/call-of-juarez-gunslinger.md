@@ -14,6 +14,6 @@ identifiers:
   - type: steam
     appid: '204450'
     name: Call of Juarez Gunslinger
-    synced_on: '2024-10-04'
+    synced_on: '2024-10-10'
 
 ---

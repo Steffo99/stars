@@ -14,6 +14,6 @@ identifiers:
   - type: steam
     appid: '297290'
     name: 'Detective Case and Clown Bot in: Murder in the Hotel Lisbon'
-    synced_on: '2024-10-04'
+    synced_on: '2024-10-10'
 
 ---

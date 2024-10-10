@@ -14,6 +14,6 @@ identifiers:
   - type: steam
     appid: '238090'
     name: Sniper Elite 3
-    synced_on: '2024-10-04'
+    synced_on: '2024-10-10'
 
 ---

@@ -14,6 +14,6 @@ identifiers:
   - type: steam
     appid: '209870'
     name: 'Blacklight: Retribution'
-    synced_on: '2024-10-04'
+    synced_on: '2024-10-10'
 
 ---

@@ -14,7 +14,7 @@ identifiers:
   - type: steam
     appid: '493520'
     name: GTFO
-    synced_on: '2024-10-04'
+    synced_on: '2024-10-10'
 
 ---
 Gives me a very strong motion sickness...

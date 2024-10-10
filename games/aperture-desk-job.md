@@ -14,6 +14,6 @@ identifiers:
   - type: steam
     appid: '1902490'
     name: Aperture Desk Job
-    synced_on: '2024-10-04'
+    synced_on: '2024-10-10'
 
 ---

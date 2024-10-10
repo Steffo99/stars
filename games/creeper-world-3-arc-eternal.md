@@ -14,6 +14,6 @@ identifiers:
   - type: steam
     appid: '280220'
     name: 'Creeper World 3: Arc Eternal'
-    synced_on: '2024-10-04'
+    synced_on: '2024-10-10'
 
 ---

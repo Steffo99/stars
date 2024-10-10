@@ -14,6 +14,6 @@ identifiers:
   - type: steam
     appid: '1869590'
     name: Omega Strikers
-    synced_on: '2024-10-04'
+    synced_on: '2024-10-10'
 
 ---

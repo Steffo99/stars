@@ -12,8 +12,9 @@ completed_on: .nan
 mastered_on: .nan
 identifiers:
   - type: steam
-    appid: "1384160"
+    appid: '1384160'
     name: GUILTY GEAR -STRIVE-
-    synced_on: 2024-10-04
+    synced_on: '2024-10-10'
+
 ---
 -

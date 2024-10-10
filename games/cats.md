@@ -14,6 +14,6 @@ identifiers:
   - type: steam
     appid: '388840'
     name: CATS!
-    synced_on: '2024-10-04'
+    synced_on: '2024-10-10'
 
 ---

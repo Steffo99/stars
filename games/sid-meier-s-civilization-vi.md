@@ -14,6 +14,6 @@ identifiers:
   - type: steam
     appid: '289070'
     name: Sid Meier's Civilization VI
-    synced_on: '2024-10-04'
+    synced_on: '2024-10-10'
 
 ---

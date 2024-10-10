@@ -14,6 +14,6 @@ identifiers:
   - type: steam
     appid: '1664200'
     name: Duelists of Eden
-    synced_on: '2024-10-04'
+    synced_on: '2024-10-10'
 
 ---

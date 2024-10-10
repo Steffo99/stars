@@ -14,6 +14,6 @@ identifiers:
   - type: steam
     appid: '65930'
     name: 'The Bureau: XCOM Declassified'
-    synced_on: '2024-10-04'
+    synced_on: '2024-10-10'
 
 ---

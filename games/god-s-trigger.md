@@ -14,6 +14,6 @@ identifiers:
   - type: steam
     appid: '488730'
     name: God's Trigger
-    synced_on: '2024-10-04'
+    synced_on: '2024-10-10'
 
 ---

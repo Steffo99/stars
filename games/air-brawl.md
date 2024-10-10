@@ -14,6 +14,6 @@ identifiers:
   - type: steam
     appid: '375600'
     name: Air Brawl
-    synced_on: '2024-10-04'
+    synced_on: '2024-10-10'
 
 ---

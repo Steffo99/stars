@@ -14,7 +14,7 @@ identifiers:
   - type: steam
     appid: '608800'
     name: Guns of Icarus Alliance
-    synced_on: '2024-10-04'
+    synced_on: '2024-10-10'
 
 ---
 e: steam

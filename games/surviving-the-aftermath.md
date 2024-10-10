@@ -14,6 +14,6 @@ identifiers:
   - type: steam
     appid: '684450'
     name: Surviving the Aftermath
-    synced_on: '2024-10-04'
+    synced_on: '2024-10-10'
 
 ---

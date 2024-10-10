@@ -14,6 +14,6 @@ identifiers:
   - type: steam
     appid: '48720'
     name: 'Mount & Blade: With Fire and Sword'
-    synced_on: '2024-10-04'
+    synced_on: '2024-10-10'
 
 ---

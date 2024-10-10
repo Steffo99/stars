@@ -14,6 +14,6 @@ identifiers:
   - type: steam
     appid: '616560'
     name: Ultimate Epic Battle Simulator
-    synced_on: '2024-10-04'
+    synced_on: '2024-10-10'
 
 ---

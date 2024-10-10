@@ -14,6 +14,6 @@ identifiers:
   - type: steam
     appid: '1449850'
     name: Yu-Gi-Oh!  Master Duel
-    synced_on: '2024-10-04'
+    synced_on: '2024-10-10'
 
 ---

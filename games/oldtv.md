@@ -14,7 +14,7 @@ identifiers:
   - type: steam
     appid: '643270'
     name: OLDTV
-    synced_on: '2024-10-04'
+    synced_on: '2024-10-10'
 
 ---
 The game is kinda fun, but there are a couple things in bad taste, such as the audio clip of [[Donald Trump]] saying "We must build a wall" in the America chapter...

@@ -14,7 +14,7 @@ identifiers:
   - type: steam
     appid: '654310'
     name: For Honor - Public Test
-    synced_on: '2024-10-04'
+    synced_on: '2024-10-10'
 
 ---
 ppid: "654310"

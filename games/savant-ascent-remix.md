@@ -14,6 +14,6 @@ identifiers:
   - type: steam
     appid: '2279330'
     name: Savant - Ascent REMIX
-    synced_on: '2024-10-04'
+    synced_on: '2024-10-10'
 
 ---

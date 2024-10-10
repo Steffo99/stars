@@ -14,6 +14,6 @@ identifiers:
   - type: steam
     appid: '16450'
     name: 'F.E.A.R. 2: Project Origin'
-    synced_on: '2024-10-04'
+    synced_on: '2024-10-10'
 
 ---

@@ -14,6 +14,6 @@ identifiers:
   - type: steam
     appid: '506540'
     name: Last Man Standing
-    synced_on: '2024-10-04'
+    synced_on: '2024-10-10'
 
 ---

@@ -14,6 +14,6 @@ identifiers:
   - type: steam
     appid: '269210'
     name: Hero Siege
-    synced_on: '2024-10-04'
+    synced_on: '2024-10-10'
 
 ---

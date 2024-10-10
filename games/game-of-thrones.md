@@ -14,6 +14,6 @@ identifiers:
   - type: steam
     appid: '208730'
     name: 'Game of Thrones '
-    synced_on: '2024-10-04'
+    synced_on: '2024-10-10'
 
 ---

@@ -14,6 +14,6 @@ identifiers:
   - type: steam
     appid: '381210'
     name: Dead by Daylight
-    synced_on: '2024-10-04'
+    synced_on: '2024-10-10'
 
 ---

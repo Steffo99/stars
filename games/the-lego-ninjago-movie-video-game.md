@@ -14,6 +14,6 @@ identifiers:
   - type: steam
     appid: '640590'
     name: The LEGO® NINJAGO® Movie Video Game
-    synced_on: '2024-10-04'
+    synced_on: '2024-10-10'
 
 ---

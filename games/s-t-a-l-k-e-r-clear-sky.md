@@ -14,6 +14,6 @@ identifiers:
   - type: steam
     appid: '20510'
     name: 'S.T.A.L.K.E.R.: Clear Sky'
-    synced_on: '2024-10-04'
+    synced_on: '2024-10-10'
 
 ---

@@ -14,6 +14,6 @@ identifiers:
   - type: steam
     appid: '1102190'
     name: Monster Train
-    synced_on: '2024-10-04'
+    synced_on: '2024-10-10'
 
 ---

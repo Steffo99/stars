@@ -14,7 +14,7 @@ identifiers:
   - type: steam
     appid: '563560'
     name: 'Alien Swarm: Reactive Drop'
-    synced_on: '2024-10-04'
+    synced_on: '2024-10-10'
 
 ---
 I can't really rate a game I've worked on, can I?

@@ -14,6 +14,6 @@ identifiers:
   - type: steam
     appid: '446640'
     name: 'Space Pilgrim Episode IV: Sol'
-    synced_on: '2024-10-04'
+    synced_on: '2024-10-10'
 
 ---

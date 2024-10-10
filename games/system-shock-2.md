@@ -14,6 +14,6 @@ identifiers:
   - type: steam
     appid: '238210'
     name: System Shock 2
-    synced_on: '2024-10-04'
+    synced_on: '2024-10-10'
 
 ---

@@ -14,6 +14,6 @@ identifiers:
   - type: steam
     appid: '1237970'
     name: Titanfall® 2
-    synced_on: '2024-10-04'
+    synced_on: '2024-10-10'
 
 ---

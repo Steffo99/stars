@@ -14,6 +14,6 @@ identifiers:
   - type: steam
     appid: '249050'
     name: Dungeon of the ENDLESS™
-    synced_on: '2024-10-04'
+    synced_on: '2024-10-10'
 
 ---

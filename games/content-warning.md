@@ -14,6 +14,6 @@ identifiers:
   - type: steam
     appid: '2881650'
     name: Content Warning
-    synced_on: '2024-10-04'
+    synced_on: '2024-10-10'
 
 ---
