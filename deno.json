@@ -1,12 +1,14 @@
 {
   "imports": {
-    "lume/": "https://deno.land/x/lume@v2.2.1/",
-    "dotenv/": "https://deno.land/std@0.224.0/dotenv/"
+    "@std/dotenv": "jsr:@std/dotenv@^0.225.2",
+    "lume/cms/": "https://cdn.jsdelivr.net/gh/lumeland/cms@v0.6.8/",
+    "lume/": "https://deno.land/x/lume@v2.3.3/"
   },
   "tasks": {
     "lume": "echo \"import 'lume/cli.ts'\" | deno run -A -",
     "build": "deno task lume",
     "serve": "deno task lume -s",
+    "cms": "deno task lume cms",
     "import-steam": "deno run --allow-env --allow-read=. --allow-net --allow-write=. _scripts/importSteam.ts"
   },
   "compilerOptions": {

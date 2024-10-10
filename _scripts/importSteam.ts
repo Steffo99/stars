@@ -1,4 +1,4 @@
-import { loadSync as loadEnv } from "dotenv/mod.ts";
+import { loadSync as loadEnv } from "@std/dotenv/mod.ts";
 import {default as site} from "../_config.ts"
 import {formatDateIso} from "../_utils/date.ts"
 import {GameData, GameIdentifier, GamePage} from "../_utils/game.ts"
